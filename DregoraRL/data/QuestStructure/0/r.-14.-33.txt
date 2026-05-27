@@ -1,0 +1,15 @@
+P_WitchDungeon,-7344,-7310,-17328,-17311
+FallenPalmTree,-7454,-7444,-17268,-17264
+ShrineSmallFire,-7380,-7370,-17296,-17286
+UndergroundCultChamber,-7604,-7572,-17195,-17153
+ShrineSmallFire,-7508,-7498,-17151,-17141
+RLCraft_LargeUndergroundTown,-7486,-7349,-17182,-17069
+RLCraft_DecentSpider,-7589,-7589,-17113,-17113
+RLCraft_UndergroundRuin3,-7594,-7586,-17119,-17111
+SmallAbandonedMine,-7356,-7331,-17059,-17044
+RLCraft_BasicZombie,-7397,-7397,-16952,-16952
+RLCraft_UndergroundRuin1,-7403,-7394,-16958,-16949
+RLCraft_UndergroundFarm,-7326,-7284,-16994,-16951
+RLCraft_SmallUndergroundSkeleton,-7265,-7257,-17137,-17129
+DinosaurSkull,-7202,-7191,-16971,-16952
+DinosaurSkull,-7224,-7205,-16972,-16961

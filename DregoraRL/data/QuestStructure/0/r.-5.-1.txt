@@ -1,0 +1,13 @@
+P_DesertTemple,-2734,-2685,-720,-670
+RLCraft_DecentZombie,-2624,-2624,-718,-718
+RLCraft_UndergroundRuin2,-2629,-2619,-720,-713
+SmallWoodenCottage1,-2847,-2841,-737,-726
+SmallAbandonedMine,-3053,-3038,-781,-756
+RLCraft_SmallUndergroundSkeleton,-2605,-2597,-840,-832
+DinosaurSkeleton,-2609,-2563,-887,-878
+VillageWoodMill,-2797,-2784,-890,-874
+VillageSavannaGlassworks,-2810,-2798,-920,-910
+VillageSavannaStonemason,-2842,-2826,-890,-875
+RLCraft_DecentZombie,-2862,-2862,-897,-897
+RLCraft_UndergroundRuin2,-2864,-2857,-902,-892
+VillageTriplets,-2810,-2796,-873,-859

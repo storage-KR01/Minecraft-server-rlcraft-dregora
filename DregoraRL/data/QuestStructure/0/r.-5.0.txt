@@ -1,0 +1,17 @@
+RLCraft_DecentSkeleton,-3069,-3069,309,309
+RLCraft_UndergroundRuin2,-3074,-3064,304,311
+BigClockworkSite,-2770,-2735,289,334
+RLCraft_SmallUndergroundSkeleton,-2661,-2653,-93,-85
+P_WitchDungeon,-2679,-2662,4,38
+RLCraft_DecentCaveSpider,-2849,-2849,127,127
+RLCraft_UndergroundRuin2,-2854,-2844,122,129
+RLCraft_DecentWitch,-2886,-2886,51,51
+RLCraft_UndergroundRuin2,-2891,-2881,49,56
+RLCraft_SmallUndergroundSkeleton,-2960,-2952,-80,-72
+RLCraft_DecentZombie,-2717,-2717,-450,-450
+RLCraft_UndergroundRuin2,-2719,-2712,-455,-445
+RLCraft_SmallUndergroundSkeleton,-2590,-2582,-232,-224
+RLCraft_DecentSpider,-2802,-2802,-263,-263
+RLCraft_UndergroundRuin2,-2804,-2797,-268,-258
+DesertBeacon,-2712,-2706,-269,-263
+SpiderPit,-3016,-3006,-270,-261

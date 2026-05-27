@@ -1,0 +1,9 @@
+DesertBeacon,-11090,-11084,11556,11562
+RLCraft_DecentCaveSpider,-10960,-10960,11530,11530
+RLCraft_UndergroundRuin2,-10962,-10955,11525,11535
+RLCraft_DecentCaveSpider,-10913,-10913,11475,11475
+RLCraft_UndergroundRuin2,-10918,-10911,11470,11480
+RLCraft_BasicSpider,-11109,-11109,11438,11438
+RLCraft_UndergroundRuin1,-11112,-11103,11432,11441
+RLCraft_SmallUndergroundSkeleton,-10826,-10818,11681,11689
+UndergroundCultChamber,-10792,-10760,11558,11600

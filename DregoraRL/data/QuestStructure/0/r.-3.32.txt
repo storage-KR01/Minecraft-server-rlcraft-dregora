@@ -1,0 +1,9 @@
+P_WitchDungeon,-1608,-1574,16383,16400
+RLCraft_DecentWitch,-1637,-1637,16469,16469
+RLCraft_UndergroundRuin3,-1640,-1632,16467,16475
+RLCraft_SmallUndergroundSkeleton,-1629,-1621,16510,16518
+RLCraft_SmallUndergroundSkeleton,-1621,-1613,16583,16591
+RLCraft_BasicWitch,-1667,-1667,16583,16583
+RLCraft_UndergroundRuin1,-1670,-1661,16580,16589
+RLCraft_DecentSkeleton,-1565,-1565,16618,16618
+RLCraft_UndergroundRuin2,-1570,-1560,16616,16623

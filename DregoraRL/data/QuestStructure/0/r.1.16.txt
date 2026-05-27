@@ -1,0 +1,15 @@
+MeteorSite,929,959,8301,8316
+RLCraft_BasicSkeleton,860,860,8324,8324
+RLCraft_UndergroundRuin1,857,866,8318,8327
+DesertWatchtower,916,926,8377,8387
+RLCraft_BasicSkeleton,931,931,8401,8401
+RLCraft_UndergroundRuin1,928,937,8398,8407
+FallenPalmTree,757,767,8235,8239
+DesertHut,1007,1017,8558,8567
+RLCraft_DecentCaveSpider,771,771,8528,8528
+RLCraft_UndergroundRuin2,769,776,8523,8533
+RLCraft_SmallUndergroundSkeleton,919,927,8603,8611
+RLCraft_DecentWitch,960,960,8625,8625
+RLCraft_UndergroundRuin3,955,963,8623,8631
+RLCraft_BasicCaveSpider,998,998,8702,8702
+RLCraft_UndergroundRuin1,992,1001,8699,8708

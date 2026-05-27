@@ -1,0 +1,9 @@
+UndergroundCrypt,-18127,-18099,18365,18379
+PirateChest,-18216,-18212,18388,18392
+DinosaurSkeleton,-18257,-18211,18145,18154
+RLCraft_SmallUndergroundSkeleton,-18261,-18253,18205,18213
+DinosaurSkeleton,-18313,-18304,18289,18335
+DesertHut,-18338,-18328,18157,18166
+UndergroundCultChamber,-18371,-18339,18332,18374
+BigClockworkSite,-18353,-18308,18358,18393
+BigClockworkSite,-18405,-18370,18280,18325

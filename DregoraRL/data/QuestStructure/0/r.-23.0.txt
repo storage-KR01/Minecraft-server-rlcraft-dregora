@@ -1,0 +1,15 @@
+StonePlantMound3,-11835,-11826,-272,-261
+RLCraft_DecentSkeleton,-11807,-11807,-214,-214
+RLCraft_UndergroundRuin2,-11812,-11802,-216,-209
+StonePlantMound4,-11847,-11840,-251,-244
+StonePlantMound,-11850,-11845,-302,-297
+StonePlantBoulder,-11849,-11839,-322,-312
+StonePlantMound2,-11823,-11811,-360,-347
+StonePlantMound,-11884,-11879,-357,-352
+RLCraft_SmallUndergroundSkeleton,-12004,-11996,-304,-296
+RLCraft_DecentSpider,-12087,-12087,-120,-120
+RLCraft_UndergroundRuin3,-12090,-12082,-126,-118
+StonePlantBoulder,-12074,-12064,-297,-287
+BlazeSpawnerCrystal,-11896,-11890,13,19
+P_LargeShip,-11871,-11811,22,40
+StoneBoulder,-12207,-12198,-254,-245

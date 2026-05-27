@@ -1,0 +1,8 @@
+DinosaurSkeleton,-1650,-1641,14552,14598
+RLCraft_DecentZombie,-1687,-1687,14473,14473
+RLCraft_UndergroundRuin2,-1692,-1682,14471,14478
+RLCraft_DecentCaveSpider,-1638,-1638,14771,14771
+RLCraft_UndergroundRuin3,-1643,-1635,14765,14773
+RLCraft_SmallUndergroundSkeleton,-1706,-1698,14760,14768
+RLCraft_DecentCaveSpider,-1584,-1584,14822,14822
+RLCraft_UndergroundRuin3,-1590,-1582,14817,14825

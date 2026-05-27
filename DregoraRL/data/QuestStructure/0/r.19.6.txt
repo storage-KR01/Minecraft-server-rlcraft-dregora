@@ -1,0 +1,10 @@
+ShrineSmallFire,9740,9750,3297,3307
+RLCraft_DecentSkeleton,9785,9785,3213,3213
+RLCraft_UndergroundRuin3,9783,9791,3208,3216
+ShrineSmallWater,9879,9887,3408,3416
+ShrineSmallAir,9974,9982,3331,3339
+P_IslandCity,9680,9986,3094,3428
+RLCraft_DecentZombie,10000,10000,3398,3398
+RLCraft_UndergroundRuin2,9995,10005,3396,3403
+ShrineSmallAir,9999,10007,3434,3442
+RLCraft_UndergroundFarm,10164,10207,3416,3458

@@ -1,0 +1,9 @@
+VillageInn,-8515,-8488,-14727,-14707
+StonePlantBoulder,-8230,-8220,-14477,-14467
+SeasonsGreenhouse,-8515,-8503,-14745,-14735
+P_VillageHouse,-8516,-8505,-14768,-14759
+VillageForgeLarge,-8546,-8530,-14711,-14699
+VillageGuardTower,-8538,-8526,-14741,-14729
+P_VillageHouse2,-8538,-8521,-14768,-14751
+RLCraft_DecentZombie,-8681,-8681,-14717,-14717
+RLCraft_UndergroundRuin3,-8683,-8675,-14720,-14712

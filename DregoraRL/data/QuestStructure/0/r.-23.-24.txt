@@ -1,0 +1,8 @@
+UndergroundCrypt,-12124,-12110,-12314,-12286
+MeteorSite,-12139,-12124,-12316,-12286
+RLCraft_DecentZombie,-12137,-12137,-12435,-12435
+RLCraft_UndergroundRuin3,-12140,-12132,-12437,-12429
+DesertBeacon,-12168,-12162,-12494,-12488
+RLCraft_BasicWitch,-11981,-11981,-12653,-12653
+RLCraft_UndergroundRuin1,-11984,-11975,-12656,-12647
+ShrineSmallFire,-11924,-11914,-12657,-12647

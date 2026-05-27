@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,1019,1027,5674,5682
+StoneBoulder,913,922,5709,5718
+CorruptedEnderTree,993,1004,5949,5962
+UndergroundCultChamber,842,874,5950,5992
+StonePlantMound1,712,718,5758,5764
+StonePlantMound,681,686,5803,5808
+ShrineSmallFire,598,608,5646,5656
+RLCraft_UndergroundFarm,589,632,5663,5705
+StonePlantMound,550,555,5696,5701
+StonePlantBoulder,537,547,5712,5722
+StoneLeafMound,517,524,5771,5780

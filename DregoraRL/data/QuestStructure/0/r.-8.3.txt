@@ -1,0 +1,9 @@
+RLCraft_BasicSpider,-4108,-4108,1829,1829
+RLCraft_UndergroundRuin1,-4111,-4102,1826,1835
+RLCraft_DecentSkeleton,-4581,-4581,1820,1820
+RLCraft_UndergroundRuin2,-4583,-4576,1815,1825
+RLCraft_BasicSpider,-4545,-4545,1815,1815
+RLCraft_UndergroundRuin1,-4551,-4542,1809,1818
+RLCraft_DecentWitch,-4520,-4520,1723,1723
+RLCraft_UndergroundRuin3,-4523,-4515,1721,1729
+BlazeSpawnerCrystal,-4478,-4472,1618,1624

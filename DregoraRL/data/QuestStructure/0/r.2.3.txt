@@ -1,0 +1,8 @@
+RLCraft_DecentSkeleton,1112,1112,1555,1555
+RLCraft_UndergroundRuin3,1109,1117,1549,1557
+P_SmallShip,1097,1117,1685,1691
+BlazeSpawnerCrystal,1391,1397,1585,1591
+RLCraft_BasicCaveSpider,1481,1481,1699,1699
+RLCraft_UndergroundRuin1,1478,1487,1693,1702
+ShrineSmallWater,1194,1202,1873,1881
+RLCraft_SmallUndergroundSkeleton,1498,1506,2005,2013

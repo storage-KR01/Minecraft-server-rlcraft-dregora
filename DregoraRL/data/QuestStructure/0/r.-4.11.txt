@@ -1,0 +1,10 @@
+PeacefulCrypt,-2559,-2535,5711,5727
+RLCraft_DecentZombie,-2318,-2318,5632,5632
+RLCraft_UndergroundRuin2,-2323,-2313,5630,5637
+RLCraft_BasicSpider,-2266,-2266,5666,5666
+RLCraft_UndergroundRuin1,-2272,-2263,5660,5669
+RLCraft_SmallUndergroundSkeleton,-2182,-2174,5670,5678
+RLCraft_LargeUndergroundTown,-2262,-2125,5607,5720
+DinosaurSkeleton,-2089,-2080,6049,6095
+RLCraft_DecentWitch,-2084,-2084,6081,6081
+RLCraft_UndergroundRuin2,-2086,-2079,6076,6086

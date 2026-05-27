@@ -1,0 +1,8 @@
+RLCraft_FriendlyOutpost,-6470,-6431,2718,2786
+SmallWoodenCottage1,-6323,-6312,2708,2714
+RLCraft_DecentZombie,-6255,-6255,2646,2646
+RLCraft_UndergroundRuin3,-6260,-6252,2640,2648
+DinosaurSkeleton,-6335,-6289,2591,2600
+RLCraft_SmallUndergroundSkeleton,-6611,-6603,2724,2732
+RLCraft_DecentWitch,-6567,-6567,2763,2763
+RLCraft_UndergroundRuin2,-6569,-6562,2758,2768

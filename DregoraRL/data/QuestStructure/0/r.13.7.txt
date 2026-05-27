@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,6811,6819,3687,3695
+MeteorSite,6836,6866,3616,3631
+PeacefulCrypt,6848,6864,3692,3716
+RLCraft_DecentSkeleton,6864,6864,3705,3705
+RLCraft_UndergroundRuin2,6862,6869,3700,3710
+P_RuinedHouse,6865,6882,3702,3727
+RLCraft_DecentCaveSpider,6912,6912,3641,3641
+RLCraft_UndergroundRuin2,6907,6914,3636,3646
+MeteorSite,6904,6934,3683,3698

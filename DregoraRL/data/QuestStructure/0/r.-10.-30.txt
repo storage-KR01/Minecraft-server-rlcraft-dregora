@@ -1,0 +1,15 @@
+StonePlantMound2,-5401,-5389,-15701,-15688
+SeasonsGreenhouse,-5334,-5324,-15774,-15762
+VillageWoodMill,-5306,-5293,-15795,-15779
+VillageForgeLarge,-5333,-5317,-15795,-15783
+VillageMarketplace,-5342,-5328,-15818,-15804
+VillageMarketplace,-5342,-5328,-15818,-15804
+StonePlantBoulder,-5340,-5330,-15831,-15821
+P_VillageFarmhouse,-5306,-5294,-15853,-15841
+RLCraft_BasicCaveSpider,-5407,-5407,-15810,-15810
+RLCraft_UndergroundRuin1,-5413,-5404,-15813,-15804
+StoneBoulder,-5415,-5406,-15650,-15641
+RLCraft_DecentSpider,-5442,-5442,-15719,-15719
+RLCraft_UndergroundRuin2,-5447,-5437,-15721,-15714
+RLCraft_DecentZombie,-5557,-5557,-15775,-15775
+RLCraft_UndergroundRuin2,-5562,-5552,-15777,-15770

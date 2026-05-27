@@ -1,0 +1,12 @@
+ElvenPond,-4610,-4581,-2001,-1971
+RLCraft_SmallUndergroundSkeleton,-4587,-4579,-1907,-1899
+RLCraft_DecentSpider,-4545,-4545,-1835,-1835
+RLCraft_UndergroundRuin2,-4550,-4540,-1840,-1833
+VillageWoodMill,-4506,-4490,-1872,-1859
+VillageLargeLibrary,-4506,-4486,-1820,-1801
+P_VillageFarmhouse,-4493,-4481,-1850,-1838
+VillageTriplets,-4483,-4469,-1870,-1856
+VillageHouseRich,-4465,-4450,-1871,-1852
+VillageTriplets,-4483,-4469,-1870,-1856
+VillageMarketplace,-4482,-4468,-1820,-1806
+SmallFortRuins,-4226,-4194,-1626,-1596

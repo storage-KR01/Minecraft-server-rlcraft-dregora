@@ -1,0 +1,9 @@
+StoneBoulder,3430,3439,-2793,-2784
+StonePlantMound1,3402,3408,-2711,-2705
+RLCraft_BasicWitch,3314,3314,-2660,-2660
+RLCraft_UndergroundRuin1,3308,3317,-2663,-2654
+P_IslandCity,3193,3499,-2991,-2657
+RLCraft_DecentWitch,3267,3267,-2593,-2593
+RLCraft_UndergroundRuin2,3262,3272,-2595,-2588
+StonePlantMound4,3202,3209,-2589,-2582
+ShrineSmallFire,3163,3173,-2596,-2586

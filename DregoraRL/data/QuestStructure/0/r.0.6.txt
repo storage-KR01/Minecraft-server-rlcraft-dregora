@@ -1,0 +1,11 @@
+DesertWatchtower,454,464,3153,3163
+DesertBeacon,379,385,3143,3149
+DinosaurSkull,366,385,3240,3251
+WoodThornBig,487,500,3311,3324
+StonePlantMound4,-82,-75,3382,3389
+StonePlantMound2,-101,-88,3509,3521
+StonePlantMound2,-109,-97,3527,3540
+RLCraft_BasicWitch,441,441,3494,3494
+RLCraft_UndergroundRuin1,435,444,3491,3500
+RLCraft_SmallUndergroundSkeleton,343,351,3550,3558
+ShrineSmallAir,-72,-64,3082,3090

@@ -1,0 +1,11 @@
+StonePlantBoulder,-7341,-7331,-15875,-15865
+DinosaurSkeleton,-7253,-7207,-15733,-15724
+StonePlantMound2,-7447,-7434,-15838,-15826
+RLCraft_DecentZombie,-7435,-7435,-15695,-15695
+RLCraft_UndergroundRuin3,-7440,-7432,-15701,-15693
+StonePlantMound4,-7553,-7546,-15875,-15868
+StonePlantMound1,-7577,-7571,-15845,-15839
+RLCraft_SmallUndergroundSkeleton,-7580,-7572,-15673,-15665
+StoneLeafMound,-7605,-7596,-15661,-15654
+StonePlantMound1,-7611,-7605,-15552,-15546
+StonePlantMound4,-7536,-7529,-15461,-15454

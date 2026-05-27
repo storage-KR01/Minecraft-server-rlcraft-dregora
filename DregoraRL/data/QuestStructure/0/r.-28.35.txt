@@ -1,0 +1,16 @@
+DinosaurSkeleton,-14341,-14332,18019,18065
+RLCraft_DesertTown,-14411,-14345,18015,18081
+RLCraft_UndergroundFarm,-14392,-14349,18017,18059
+SmallClockworkSite,-14471,-14452,18034,18056
+DesertBeacon,-14518,-14512,18109,18115
+RLCraft_SmallUndergroundSkeleton,-14633,-14625,18040,18048
+RLCraft_DecentWitch,-14568,-14568,18148,18148
+RLCraft_UndergroundRuin2,-14570,-14563,18143,18153
+RLCraft_DecentSkeleton,-14662,-14662,17942,17942
+RLCraft_UndergroundRuin3,-14667,-14659,17936,17944
+RLCraft_SmallUndergroundSkeleton,-14659,-14651,18110,18118
+RLCraft_SmallUndergroundSkeleton,-14657,-14649,18122,18130
+RLCraft_BasicSpider,-14720,-14720,18124,18124
+RLCraft_UndergroundRuin1,-14723,-14714,18118,18127
+SmallClockworkSite,-14650,-14628,18198,18217
+UndergroundCrypt,-14854,-14840,18225,18253

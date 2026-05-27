@@ -1,0 +1,10 @@
+ShrineSmallFire,-1343,-1333,-1773,-1763
+RLCraft_DecentZombie,-1353,-1353,-1661,-1661
+RLCraft_UndergroundRuin2,-1355,-1348,-1666,-1656
+DinosaurSkeleton,-1296,-1250,-1669,-1660
+RLCraft_DecentWitch,-1198,-1198,-1927,-1927
+RLCraft_UndergroundRuin3,-1204,-1196,-1932,-1924
+P_JungleVillage,-1303,-1120,-2097,-1902
+ClayWaterMound,-1093,-1085,-2006,-1999
+RLCraft_BasicZombie,-1507,-1507,-1713,-1713
+RLCraft_UndergroundRuin1,-1513,-1504,-1719,-1710

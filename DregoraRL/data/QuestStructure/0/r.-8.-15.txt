@@ -1,0 +1,7 @@
+BigClockworkSite,-4618,-4573,-7846,-7811
+SmallWoodenCottage1,-4576,-4570,-7876,-7865
+RLCraft_DecentSpider,-4557,-4557,-7898,-7898
+RLCraft_UndergroundRuin2,-4562,-4552,-7900,-7893
+SmallWoodenCottage1,-4544,-4533,-7937,-7931
+SmallWoodenCottage,-4550,-4539,-7825,-7817
+VillageWoodMill,-4531,-4518,-7850,-7834

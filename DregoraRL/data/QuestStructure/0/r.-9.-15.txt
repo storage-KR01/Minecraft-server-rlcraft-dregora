@@ -1,0 +1,9 @@
+StoneBoulder,-4767,-4758,-7807,-7798
+StonePlantMound3,-4785,-4776,-7816,-7805
+StonePlantMound1,-4785,-4779,-7860,-7854
+SmallClockworkSite,-4680,-4661,-7964,-7942
+PeacefulCrypt,-4672,-4656,-8033,-8009
+RLCraft_DecentZombie,-4665,-4665,-8080,-8080
+RLCraft_UndergroundRuin3,-4668,-4660,-8082,-8074
+AbandonedWoodTower,-4710,-4680,-8156,-8120
+RLCraft_SmallUndergroundSkeleton,-4822,-4814,-8088,-8080

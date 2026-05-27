@@ -1,0 +1,12 @@
+DinosaurSkull,-11801,-11790,5188,5207
+SmallClockworkSite,-11793,-11774,5357,5379
+RLCraft_BasicCaveSpider,-11846,-11846,5408,5408
+RLCraft_UndergroundRuin1,-11852,-11843,5402,5411
+RLCraft_BasicSpider,-11861,-11861,5357,5357
+RLCraft_UndergroundRuin1,-11867,-11858,5354,5363
+RLCraft_BasicSkeleton,-11851,-11851,5424,5424
+RLCraft_UndergroundRuin1,-11857,-11848,5418,5427
+BigClockworkSite,-11928,-11893,5319,5364
+MeteorSite,-12016,-12001,5230,5260
+RLCraft_SmallUndergroundSkeleton,-12006,-11998,5239,5247
+RLCraft_PlainsCamp,-12103,-12064,5192,5238

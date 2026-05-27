@@ -1,0 +1,12 @@
+RLCraft_DecentZombie,2212,2212,-2006,-2006
+RLCraft_UndergroundRuin2,2207,2217,-2008,-2001
+StoneIceBoulder1,2300,2310,-2006,-1996
+MeteorSite,2305,2335,-2017,-2002
+SmallFortRuins,2160,2190,-1859,-1827
+MeteorSite,2258,2288,-1689,-1674
+DinosaurSkull,2160,2171,-1696,-1677
+StonePlantMound3,2322,2331,-1608,-1597
+SmallWoodenCottage2,2071,2079,-1610,-1602
+StonePlantMound,2299,2304,-1594,-1589
+DinosaurSkeleton,2065,2074,-1909,-1863
+StonePlantMound3,2263,2272,-1555,-1544

@@ -1,0 +1,7 @@
+BigClockworkSite,-12244,-12199,12264,12299
+UndergroundTreeoid,-11844,-11818,12248,12271
+RLCraft_DecentSkeleton,-11906,-11906,12205,12205
+RLCraft_UndergroundRuin2,-11911,-11904,12200,12210
+RLCraft_SmallUndergroundSkeleton,-11902,-11894,12123,12131
+DinosaurSkull,-11833,-11814,12105,12116
+DinosaurSkeleton,-11818,-11772,12050,12059

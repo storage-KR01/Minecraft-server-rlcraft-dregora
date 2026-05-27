@@ -1,0 +1,9 @@
+MeteorSite,-8712,-8697,-16738,-16708
+DinosaurSkull,-8765,-8746,-16775,-16764
+RLCraft_SmallUndergroundSkeleton,-8802,-8794,-16747,-16739
+P_MayanTemple1,-8806,-8760,-16699,-16669
+RLCraft_DecentWitch,-9139,-9139,-16641,-16641
+RLCraft_UndergroundRuin3,-9144,-9136,-16647,-16639
+DinosaurSkeleton,-9194,-9185,-16776,-16730
+ShrineSmallFire,-9199,-9189,-16483,-16473
+UndergroundTreeoid,-9007,-8984,-16514,-16488

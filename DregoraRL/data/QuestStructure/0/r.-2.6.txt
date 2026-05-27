@@ -1,0 +1,12 @@
+StonePlantMound2,-1536,-1523,3079,3091
+StonePlantMound,-1531,-1526,3115,3120
+StonePlantMound,-1533,-1528,3161,3166
+ShrineSmallFire,-1096,-1086,3167,3177
+StoneLeafMound,-1117,-1108,3323,3330
+StonePlantMound4,-1167,-1160,3375,3382
+ShrineSmallAir,-1413,-1405,3313,3321
+RLCraft_AgentStarbuck_WaterBase,-1454,-1437,3328,3340
+RLCraft_BasicSkeleton,-1116,-1116,3564,3564
+RLCraft_UndergroundRuin1,-1119,-1110,3561,3570
+SmallOutpost,-1103,-1081,3545,3575
+ShrineSmallAir,-1341,-1333,3492,3500

@@ -1,0 +1,7 @@
+P_DesertDungeon,-11832,-11780,17383,17436
+RLCraft_DecentSkeleton,-11826,-11826,17588,17588
+RLCraft_UndergroundRuin3,-11828,-11820,17583,17591
+RLCraft_LargeUndergroundTown,-11885,-11772,17464,17601
+RLCraft_SmallUndergroundSkeleton,-12023,-12015,17564,17572
+FallenPalmTree,-12244,-12240,17583,17593
+DesertHut,-12165,-12155,17687,17696

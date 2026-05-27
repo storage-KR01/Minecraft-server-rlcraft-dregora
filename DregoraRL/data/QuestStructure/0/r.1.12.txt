@@ -1,0 +1,13 @@
+StonePlantBoulder,784,794,6146,6156
+StonePlantMound1,735,741,6196,6202
+StonePlantMound1,740,746,6211,6217
+RLCraft_SmallUndergroundSkeleton,807,815,6212,6220
+ForestBeacon,659,667,6365,6373
+StoneLeafMound,598,605,6322,6331
+RLCraft_SmallUndergroundSkeleton,752,760,6384,6392
+RLCraft_DecentSkeleton,630,630,6414,6414
+RLCraft_UndergroundRuin2,628,635,6409,6419
+RLCraft_BasicCaveSpider,664,664,6539,6539
+RLCraft_UndergroundRuin1,658,667,6536,6545
+ShrineSmallFire,967,977,6612,6622
+SpiderPit,980,990,6623,6632

@@ -1,0 +1,17 @@
+SmallWoodenCottage1,-1094,-1083,3584,3590
+DinosaurSkull,-1096,-1077,3608,3619
+JokerTower,-1189,-1181,3629,3637
+RLCraft_SmallUndergroundSkeleton,-1146,-1138,3653,3661
+SmallAbandonedMine,-1069,-1054,3672,3697
+RLCraft_BasicSpider,-1378,-1378,3710,3710
+RLCraft_UndergroundRuin1,-1384,-1375,3707,3716
+SmallWoodenCottage2,-1108,-1100,3726,3734
+SmallWoodenCottage1,-1192,-1181,3800,3806
+RLCraft_SmallUndergroundSkeleton,-1153,-1145,3819,3827
+RLCraft_BasicZombie,-1405,-1405,3673,3673
+RLCraft_UndergroundRuin1,-1408,-1399,3670,3679
+P_WitchDungeon,-1352,-1335,3937,3971
+RLCraft_xKOSMOS42,-1260,-1234,3975,4004
+RLCraft_SmallUndergroundSkeleton,-1329,-1321,4021,4029
+ShrineSmallFire,-1176,-1166,4028,4038
+PeacefulCrypt,-1250,-1226,4069,4085

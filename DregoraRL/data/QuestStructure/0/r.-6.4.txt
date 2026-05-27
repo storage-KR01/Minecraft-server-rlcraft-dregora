@@ -1,0 +1,17 @@
+UndergroundCultChamber,-3101,-3059,2340,2372
+DesertHut,-3175,-3165,2214,2223
+RLCraft_SmallUndergroundSkeleton,-3400,-3392,2154,2162
+ShrineSmallFire,-3409,-3399,2168,2178
+P_VillageFarmhouse,-3414,-3402,2236,2248
+VillageSavannaLibrary,-3414,-3404,2258,2269
+VillageSavannaStonemason,-3451,-3435,2293,2308
+VillageGuardTower,-3432,-3420,2293,2305
+ThreeTowers,-3366,-3334,2294,2325
+UndergroundCrypt,-3528,-3514,2255,2283
+VillageSavannaChandlery,-3386,-3375,2296,2306
+VillageSavannaKitchen,-3408,-3398,2324,2336
+BigClockworkSite,-3462,-3427,2372,2417
+DesertWatchtower,-3501,-3491,2509,2519
+RLCraft_BasicZombie,-3341,-3341,2511,2511
+RLCraft_UndergroundRuin1,-3347,-3338,2508,2517
+DinosaurSkull,-3315,-3304,2471,2490

@@ -1,0 +1,16 @@
+MeteorSite,-6703,-6688,2206,2236
+RLCraft_SmallUndergroundSkeleton,-6694,-6686,2482,2490
+BlazeSpawnerCrystal,-6757,-6751,2231,2237
+ShrineSmallFire,-6750,-6740,2416,2426
+RLCraft_SmallUndergroundSkeleton,-6885,-6877,2319,2327
+ShrineSmallAir,-6883,-6875,2437,2445
+DinosaurSkull,-6905,-6894,2285,2304
+RLCraft_BasicWitch,-6913,-6913,2339,2339
+RLCraft_UndergroundRuin1,-6916,-6907,2336,2345
+DesertBeacon,-6808,-6802,2163,2169
+SmallClockworkSite,-6747,-6725,2068,2087
+RLCraft_DecentSpider,-6962,-6962,2344,2344
+RLCraft_UndergroundRuin2,-6967,-6957,2342,2349
+DinosaurSkull,-7018,-6999,2166,2177
+ShrineSmallAir,-7091,-7083,2205,2213
+BlazeSpawnerCrystal,-6820,-6814,2517,2523

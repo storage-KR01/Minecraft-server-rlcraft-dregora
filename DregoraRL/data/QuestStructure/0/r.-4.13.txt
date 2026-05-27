@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,-2380,-2372,6683,6691
+RLCraft_SmallUndergroundSkeleton,-2363,-2355,6723,6731
+RLCraft_DecentCaveSpider,-2188,-2188,6749,6749
+RLCraft_UndergroundRuin3,-2194,-2186,6746,6754
+ShrineSmallAir,-2152,-2144,6771,6779
+WoodThornBig,-2240,-2227,6801,6814
+P_VillageFarmhouse,-2285,-2273,6818,6830
+DinosaurSkeleton,-2474,-2465,6716,6762
+StoneBoulder,-2335,-2326,6871,6880
+RLCraft_DecentZombie,-2314,-2314,6903,6903
+RLCraft_UndergroundRuin2,-2319,-2309,6898,6905
+RLCraft_cryo_bit,-2392,-2367,6896,6921

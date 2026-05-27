@@ -1,0 +1,15 @@
+P_VillageLibrary,1866,1885,-2970,-2954
+RLCraft_Vineyard,1847,1875,-2947,-2927
+SeasonsGreenhouse,1846,1858,-2993,-2983
+VillageWoodMill,1846,1862,-2966,-2953
+SmallWoodenCottage,1858,1866,-2741,-2730
+BlazeSpawnerCrystal,1835,1841,-2691,-2685
+VillageLargeLibrary,1807,1827,-2970,-2951
+SmallFortRuinsJapanese,1900,1946,-2661,-2615
+VillageForgeLarge,1883,1895,-3001,-2985
+RLCraft_SmallUndergroundSkeleton,1865,1873,-2576,-2568
+RLCraft_DecentZombie,1707,1707,-2574,-2574
+RLCraft_UndergroundRuin3,1702,1710,-2580,-2572
+RLCraft_DecentWitch,1698,1698,-2641,-2641
+RLCraft_UndergroundRuin3,1695,1703,-2647,-2639
+DinosaurSkull,1685,1704,-2704,-2693

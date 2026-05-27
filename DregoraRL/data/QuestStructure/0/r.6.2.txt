@@ -1,0 +1,15 @@
+RLCraft_DecentZombie,3166,3166,1420,1420
+RLCraft_UndergroundRuin2,3161,3168,1415,1425
+UndergroundTreeoid,3093,3116,1136,1162
+RLCraft_DecentSkeleton,3196,3196,1401,1401
+RLCraft_UndergroundRuin2,3191,3201,1396,1403
+RLCraft_DecentSkeleton,3172,3172,1091,1091
+RLCraft_UndergroundRuin2,3167,3177,1086,1093
+StonePlantMound1,3249,3255,1248,1254
+StonePlantMound2,3247,3260,1356,1368
+StoneLeafMound,3286,3293,1291,1300
+StonePlantMound3,3462,3471,1521,1532
+StonePlantMound,3408,3413,1516,1521
+StonePlantMound3,3444,3453,1512,1523
+RLCraft_BasicZombie,3578,3578,1466,1466
+RLCraft_UndergroundRuin1,3575,3584,1463,1472

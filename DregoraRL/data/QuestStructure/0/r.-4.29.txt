@@ -1,0 +1,12 @@
+P_MayanTemple2,-2247,-2148,15309,15377
+UndergroundTreeoid,-2386,-2363,15321,15347
+RLCraft_BasicSkeleton,-2235,-2235,15289,15289
+RLCraft_UndergroundRuin1,-2238,-2229,15283,15292
+P_WitchDungeon,-2338,-2321,15269,15303
+DinosaurSkeleton,-2313,-2267,15263,15272
+RLCraft_SmallUndergroundSkeleton,-2096,-2088,15326,15334
+RLCraft_BasicWitch,-2547,-2547,15304,15304
+RLCraft_UndergroundRuin1,-2550,-2541,15298,15307
+DinosaurSkull,-2444,-2433,15104,15123
+StonePlantMound1,-2466,-2460,15091,15097
+DinosaurSkeleton,-2473,-2464,15031,15077

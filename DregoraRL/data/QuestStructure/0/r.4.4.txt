@@ -1,0 +1,15 @@
+SmallWoodenCottage1,2491,2502,2411,2417
+RLCraft_DecentWitch,2498,2498,2059,2059
+RLCraft_UndergroundRuin3,2492,2500,2056,2064
+RLCraft_SmallUndergroundSkeleton,2447,2455,2155,2163
+UndergroundTreeoid,2416,2439,2275,2301
+RLCraft_DecentWitch,2384,2384,2073,2073
+RLCraft_UndergroundRuin3,2379,2387,2067,2075
+WoodWallRemains,2360,2368,2242,2270
+RLCraft_cryo_bit,2163,2188,2134,2159
+DinosaurSkull,2177,2188,2162,2181
+RLCraft_BasicSpider,2297,2297,2251,2251
+RLCraft_UndergroundRuin1,2291,2300,2248,2257
+SmallAbandonedOutpost,2292,2322,2309,2331
+RLCraft_DecentWitch,2342,2342,2325,2325
+RLCraft_UndergroundRuin2,2337,2347,2323,2330

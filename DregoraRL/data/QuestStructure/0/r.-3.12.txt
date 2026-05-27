@@ -1,0 +1,9 @@
+ShrineSmallFire,-1892,-1882,6146,6156
+P_RuinedHouse,-1945,-1920,6166,6183
+DinosaurSkull,-1748,-1737,6265,6284
+MeteorSite,-1756,-1726,6346,6361
+P_SwampHouse,-2068,-2026,6468,6498
+RLCraft_BasicSpider,-1972,-1972,6631,6631
+RLCraft_UndergroundRuin1,-1978,-1969,6625,6634
+AbandonedWoodTower,-1951,-1921,6598,6634
+ShrineSmallFire,-1574,-1564,6194,6204

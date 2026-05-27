@@ -1,0 +1,13 @@
+BlazeSpawnerCrystal,-6389,-6383,1548,1554
+StoneIceBoulder,-6411,-6402,1575,1585
+SmallWoodenCottage1,-6188,-6182,1580,1591
+RLCraft_SmallUndergroundSkeleton,-6256,-6248,1598,1606
+UndergroundCultChamber,-6361,-6329,1685,1727
+RLCraft_FriendlyOutpost,-6361,-6293,1815,1854
+ShrineSmallAir,-6327,-6319,1919,1927
+RLCraft_BasicCaveSpider,-6364,-6364,1738,1738
+RLCraft_UndergroundRuin1,-6367,-6358,1735,1744
+JokerTower,-6587,-6579,1557,1565
+UndergroundTreeoid,-6445,-6419,1756,1779
+RLCraft_DecentZombie,-6363,-6363,1771,1771
+RLCraft_UndergroundRuin3,-6365,-6357,1766,1774

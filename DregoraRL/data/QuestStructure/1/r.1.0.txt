@@ -1,0 +1,7 @@
+RLCraft_End_Decoration_2,663,673,-300,-290
+RLCraft_End_Decoration_1,955,965,-255,-245
+RLCraft_End_Snake_Skeleton,988,1053,-342,-332
+Dregora_End_Garden,993,1007,-386,-372
+RLCraft_End_Saucer,976,990,-400,-386
+RLCraft_End_Floating_Crystal,1015,1029,-488,-474
+RLCraft_End_Floating_Hut,732,742,-366,-356

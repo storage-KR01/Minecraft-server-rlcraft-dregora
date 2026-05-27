@@ -1,0 +1,11 @@
+MeteorSite,-12384,-12369,-12928,-12898
+P_DesertDungeon,-12404,-12352,-13017,-12964
+DinosaurSkull,-12481,-12462,-12847,-12836
+RLCraft_BasicWitch,-12491,-12491,-12955,-12955
+RLCraft_UndergroundRuin1,-12494,-12485,-12961,-12952
+DinosaurSkeleton,-12421,-12375,-13161,-13152
+RLCraft_SmallUndergroundSkeleton,-12560,-12552,-13009,-13001
+RLCraft_SmallUndergroundSkeleton,-12307,-12299,-13183,-13175
+DesertWatchtower,-12305,-12295,-13227,-13217
+UndergroundCrypt,-12508,-12480,-13308,-13294
+UndergroundCrypt,-12642,-12614,-13197,-13183

@@ -1,0 +1,11 @@
+VillageMarketplace,-5511,-5497,16510,16524
+P_VillageInn,-5512,-5501,16534,16543
+P_VillageHouse2,-5444,-5427,16569,16586
+P_Village2Story,-5482,-5476,16553,16566
+VillageTriplets,-5477,-5463,16534,16548
+P_VillageLibrary,-5524,-5508,16569,16588
+P_VillageFarmhouse,-5524,-5512,16554,16566
+SeasonsGreenhouse,-5459,-5449,16534,16546
+RLCraft_Vineyard,-5445,-5425,16537,16565
+VillageHouseRich1,-5420,-5399,16569,16587
+VillageForgeLarge,-5445,-5433,16511,16527

@@ -1,0 +1,12 @@
+RLCraft_DecentZombie,1219,1219,-1019,-1019
+RLCraft_UndergroundRuin2,1214,1224,-1024,-1017
+ShrineSmallFire,1503,1513,-873,-863
+SmallWoodenCottage,1088,1096,-623,-612
+ShrineSmallAir,1454,1462,-617,-609
+P_LargeShip,1391,1409,-645,-585
+SpiderPit,1221,1230,-695,-685
+RLCraft_FriendlyOutpost,1095,1163,-849,-810
+DinosaurSkeleton,1056,1102,-902,-893
+RLCraft_BasicWitch,1058,1058,-854,-854
+RLCraft_UndergroundRuin1,1052,1061,-857,-848
+RLCraft_SmallUndergroundSkeleton,1070,1078,-795,-787

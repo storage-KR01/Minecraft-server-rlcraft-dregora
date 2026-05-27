@@ -1,0 +1,11 @@
+DesertWatchtower,-16939,-16929,18217,18227
+P_SkyCastle,-17048,-17007,18109,18150
+RLCraft_DecentWitch,-17087,-17087,18239,18239
+RLCraft_UndergroundRuin2,-17092,-17082,18237,18244
+RLCraft_SmallUndergroundSkeleton,-17156,-17148,18163,18171
+P_DesertTemple,-17161,-17111,18131,18180
+RLCraft_SmallUndergroundSkeleton,-17223,-17215,18127,18135
+SmallClockworkSite,-17242,-17220,18276,18295
+BigClockworkSite,-17252,-17207,18333,18368
+DinosaurSkull,-17377,-17358,18227,18238
+DesertBeacon,-17406,-17400,18122,18128

@@ -1,0 +1,16 @@
+StonePlantMound1,-8747,-8741,-17936,-17930
+StoneLeafMound,-8708,-8701,-17992,-17983
+StonePlantMound4,-8714,-8707,-18002,-17995
+RLCraft_BasicZombie,-9064,-9064,-17934,-17934
+RLCraft_UndergroundRuin1,-9070,-9061,-17937,-17928
+RLCraft_BasicSkeleton,-8972,-8972,-18022,-18022
+RLCraft_UndergroundRuin1,-8975,-8966,-18025,-18016
+RLCraft_DecentWitch,-8893,-8893,-18064,-18064
+RLCraft_UndergroundRuin2,-8895,-8888,-18069,-18059
+RLCraft_DecentZombie,-8971,-8971,-18286,-18286
+RLCraft_UndergroundRuin3,-8974,-8966,-18288,-18280
+StonePlantMound1,-8843,-8837,-18201,-18195
+RLCraft_DecentSkeleton,-8929,-8929,-18375,-18375
+RLCraft_UndergroundRuin2,-8931,-8924,-18380,-18370
+RLCraft_DecentCaveSpider,-9001,-9001,-18387,-18387
+RLCraft_UndergroundRuin3,-9004,-8996,-18393,-18385

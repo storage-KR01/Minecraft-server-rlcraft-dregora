@@ -1,0 +1,14 @@
+ShrineSmallFire,-173,-163,-472,-462
+BigClockworkSite,-238,-203,-496,-451
+ShrineSmallFire,-382,-372,-329,-319
+SmallClockworkSite,-438,-416,-307,-288
+FallenPalmTree,-491,-487,-301,-291
+P_DesertDungeon,151,203,-484,-431
+RLCraft_SmallUndergroundSkeleton,-366,-358,470,478
+RLCraft_DecentSpider,-294,-294,479,479
+RLCraft_UndergroundRuin2,-299,-292,474,484
+DesertHut,-253,-243,498,507
+RLCraft_BasicSpider,323,323,474,474
+RLCraft_UndergroundRuin1,320,329,468,477
+ClayWaterMound,346,353,507,515
+StonePlantMound4,368,375,441,448

@@ -1,0 +1,8 @@
+ShrineSmallFire,4361,4371,-639,-629
+ShrineSmallWater,4435,4443,-628,-620
+RLCraft_BasicWitch,4493,4493,-537,-537
+RLCraft_UndergroundRuin1,4490,4499,-540,-531
+RLCraft_DecentSkeleton,4535,4535,-628,-628
+RLCraft_UndergroundRuin3,4532,4540,-630,-622
+ShrineSmallAir,4410,4418,-745,-737
+ShrineSmallAir,4371,4379,-768,-760

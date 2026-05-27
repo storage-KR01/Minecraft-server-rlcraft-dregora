@@ -1,0 +1,9 @@
+SeasonsGreenhouse,-9900,-9890,-442,-430
+VillageGuardTower,-9914,-9902,-460,-448
+VillageWoodMill,-9945,-9932,-442,-426
+ThreeTowers,-9851,-9820,-461,-429
+VillageForgeLarge,-9914,-9902,-438,-422
+P_Village2Story,-9879,-9873,-439,-426
+VillageMarketplace,-9871,-9857,-440,-426
+RLCraft_Vineyard,-9948,-9920,-412,-392
+VillageHouseRich1,-9910,-9889,-412,-394

@@ -1,0 +1,8 @@
+RLCraft_DecentCaveSpider,1343,1343,-2798,-2798
+RLCraft_UndergroundRuin2,1341,1348,-2803,-2793
+MeteorSite,1338,1368,-2829,-2814
+RLCraft_DecentZombie,1381,1381,-2852,-2852
+RLCraft_UndergroundRuin3,1379,1387,-2855,-2847
+DinosaurSkull,1469,1480,-2858,-2839
+StonePlantMound1,1419,1425,-2993,-2987
+StoneLeafMound,1397,1406,-3065,-3058

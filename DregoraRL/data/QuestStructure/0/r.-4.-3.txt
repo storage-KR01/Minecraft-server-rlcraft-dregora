@@ -1,0 +1,9 @@
+ShrineSmallAir,-2321,-2313,-1747,-1739
+RLCraft_SmallUndergroundSkeleton,-2058,-2050,-2003,-1995
+StatueTemple,-2180,-2078,-1921,-1850
+SmallAbandonedMine,-2182,-2157,-1945,-1930
+RLCraft_BasicWitch,-2321,-2321,-1865,-1865
+RLCraft_UndergroundRuin1,-2327,-2318,-1868,-1859
+StatueTemple,-2445,-2343,-1692,-1621
+UndergroundTreeoid,-2545,-2519,-1671,-1648
+ClayWaterMound,-2557,-2550,-1676,-1668

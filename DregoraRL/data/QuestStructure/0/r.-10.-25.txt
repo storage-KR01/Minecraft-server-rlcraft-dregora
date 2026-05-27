@@ -1,0 +1,13 @@
+StoneIceBoulder2,-5223,-5214,-12875,-12866
+StoneIceBoulder3,-5225,-5215,-12940,-12930
+StoneIceBoulder3,-5363,-5353,-12942,-12932
+StoneIceBoulder3,-5175,-5165,-13033,-13023
+StoneIceBoulder,-5424,-5414,-13014,-13005
+StoneIceBoulder,-5433,-5423,-13051,-13042
+SmallAbandonedMine,-5414,-5399,-13150,-13125
+StoneIceBoulder2,-5285,-5276,-13174,-13165
+StoneIceBoulder,-5305,-5295,-13225,-13216
+StoneIceBoulder2,-5466,-5457,-13164,-13155
+StoneIceBoulder,-5258,-5248,-13251,-13242
+StoneIceBoulder1,-5276,-5266,-13272,-13262
+StoneIceBoulder2,-5501,-5492,-13128,-13119

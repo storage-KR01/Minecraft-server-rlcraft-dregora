@@ -1,0 +1,11 @@
+RLCraft_BasicSpider,2894,2894,3095,3095
+RLCraft_UndergroundRuin1,2891,2900,3092,3101
+RLCraft_SmallUndergroundSkeleton,3039,3047,3080,3088
+RLCraft_Airtes,2717,2732,3472,3487
+RLCraft_FriendlyOutpost,2557,2625,3284,3323
+P_SkyCastle,2588,2629,3232,3273
+RLCraft_DecentWitch,2646,2646,3316,3316
+RLCraft_UndergroundRuin2,2641,2648,3311,3321
+StonePlantMound,2678,2683,3353,3358
+ShrineSmallFire,2624,2634,3435,3445
+DinosaurSkeleton,2756,2765,3379,3425

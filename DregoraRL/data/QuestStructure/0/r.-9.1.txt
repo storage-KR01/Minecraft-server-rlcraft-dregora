@@ -1,0 +1,10 @@
+PyramidMazePath,-5118,-5116,620,622
+PyramidMazePath,-5118,-5116,617,619
+PyramidMazePath,-5118,-5116,602,604
+RLCraft_Vineyard,-4823,-4803,879,907
+SeasonsGreenhouse,-4823,-4811,860,870
+P_VillageHouse2,-4837,-4820,908,925
+P_VillageLibrary,-4844,-4828,859,878
+VillageLargeLibrary,-4874,-4855,848,868
+VillageWoodMill,-4874,-4858,889,902
+P_VillageFarmhouse,-4904,-4892,886,898

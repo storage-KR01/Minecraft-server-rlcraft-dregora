@@ -1,0 +1,14 @@
+StoneBoulder,-2097,-2088,2536,2545
+StonePlantMound4,-2134,-2127,2534,2541
+P_VillageLibrary,-2071,-2055,2393,2412
+VillageWoodMill,-2071,-2058,2374,2390
+MysticalTree1,-2165,-2154,2108,2121
+BrickHenge,-2165,-2149,2125,2141
+StonePlantBoulder,-2097,-2087,2169,2179
+RLCraft_SmallUndergroundSkeleton,-2231,-2223,2278,2286
+FallenPalmTree,-2275,-2271,2381,2391
+MonolythUnholy,-2173,-2159,2325,2339
+RLCraft_BasicSpider,-2094,-2094,2282,2282
+RLCraft_UndergroundRuin1,-2097,-2088,2279,2288
+StoneLeafMound,-2124,-2115,2403,2410
+StoneLeafMound,-2314,-2305,2551,2558

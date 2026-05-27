@@ -1,0 +1,8 @@
+RLCraft_DecentSpider,-657,-657,3208,3208
+RLCraft_UndergroundRuin2,-662,-652,3203,3210
+P_WitchDungeon,-854,-837,3439,3473
+MeteorSite,-1034,-1004,3370,3385
+ShrineSmallFire,-1020,-1010,3377,3387
+RLCraft_DecentZombie,-1013,-1013,3455,3455
+RLCraft_UndergroundRuin3,-1015,-1007,3452,3460
+RLCraft_SmallUndergroundSkeleton,-953,-945,3488,3496

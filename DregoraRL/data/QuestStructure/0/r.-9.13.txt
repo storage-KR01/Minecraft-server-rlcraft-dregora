@@ -1,0 +1,8 @@
+RLCraft_SmallUndergroundSkeleton,-4778,-4770,6837,6845
+WoodThornBig,-4778,-4765,6926,6939
+RLCraft_SmallUndergroundSkeleton,-4830,-4822,6771,6779
+RLCraft_BasicWitch,-4798,-4798,6764,6764
+RLCraft_UndergroundRuin1,-4804,-4795,6758,6767
+RLCraft_SmallUndergroundSkeleton,-4708,-4700,6766,6774
+CorruptedEnderTree,-5029,-5016,7032,7043
+MysticalTree2,-5026,-5016,7123,7133

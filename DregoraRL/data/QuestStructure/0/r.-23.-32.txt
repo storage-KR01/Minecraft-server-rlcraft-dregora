@@ -1,0 +1,10 @@
+BrickHenge,-12255,-12239,-16412,-16396
+RLCraft_SmallUndergroundSkeleton,-11801,-11793,-16410,-16402
+StoneIceBoulder3,-11796,-11786,-16420,-16410
+RLCraft_BasicZombie,-11865,-11865,-16437,-16437
+RLCraft_UndergroundRuin1,-11868,-11859,-16443,-16434
+RLCraft_SmallUndergroundSkeleton,-11968,-11960,-16627,-16619
+RLCraft_DecentCaveSpider,-11899,-11899,-16756,-16756
+RLCraft_UndergroundRuin3,-11905,-11897,-16761,-16753
+RLCraft_BasicSpider,-11805,-11805,-16828,-16828
+RLCraft_UndergroundRuin1,-11808,-11799,-16834,-16825

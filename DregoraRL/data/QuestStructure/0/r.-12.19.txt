@@ -1,0 +1,13 @@
+RLCraft_DecentCaveSpider,-6185,-6185,9812,9812
+RLCraft_UndergroundRuin3,-6191,-6183,9807,9815
+P_SkyCastle,-6225,-6184,9779,9820
+RLCraft_BasicWitch,-6361,-6361,9791,9791
+RLCraft_UndergroundRuin1,-6367,-6358,9788,9797
+StoneBoulder,-6213,-6204,9993,10002
+RLCraft_DecentWitch,-6500,-6500,9822,9822
+RLCraft_UndergroundRuin2,-6502,-6495,9817,9827
+RLCraft_DecentSpider,-6510,-6510,9799,9799
+RLCraft_UndergroundRuin3,-6513,-6505,9797,9805
+RLCraft_DecentSkeleton,-6507,-6507,9837,9837
+RLCraft_UndergroundRuin3,-6509,-6501,9834,9842
+ShrineSmallFire,-6589,-6579,10022,10032

@@ -1,0 +1,10 @@
+RLCraft_BasicZombie,-12974,-12974,-14454,-14454
+RLCraft_UndergroundRuin1,-12980,-12971,-14457,-14448
+RLCraft_SmallUndergroundSkeleton,-12939,-12931,-14466,-14458
+P_DesertDungeon,-12909,-12857,-14525,-14472
+RLCraft_BasicWitch,-12923,-12923,-14564,-14564
+RLCraft_UndergroundRuin1,-12929,-12920,-14570,-14561
+RLCraft_SmallUndergroundSkeleton,-12928,-12920,-14580,-14572
+DesertHut,-12884,-12874,-14711,-14702
+RLCraft_SmallUndergroundSkeleton,-12939,-12931,-14749,-14741
+RLCraft_SmallUndergroundSkeleton,-12953,-12945,-14807,-14799

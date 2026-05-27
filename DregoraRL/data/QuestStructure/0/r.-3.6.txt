@@ -1,0 +1,16 @@
+StonePlantMound3,-1627,-1618,3110,3121
+StonePlantMound,-1731,-1726,3170,3175
+ShrineSmallFire,-1682,-1672,3272,3282
+DinosaurSkeleton,-1834,-1825,3117,3163
+TribalJungleHead,-1893,-1883,3129,3139
+MysticalTree2,-1955,-1945,3108,3118
+StoneLeafMound,-1986,-1979,3202,3211
+RLCraft_DecentCaveSpider,-2025,-2025,3165,3165
+RLCraft_UndergroundRuin3,-2028,-2020,3159,3167
+StonePlantMound2,-2012,-1999,3172,3184
+StonePlantMound1,-1996,-1990,3233,3239
+StonePlantMound2,-2036,-2024,3110,3123
+StonePlantBoulder,-1989,-1979,3284,3294
+StoneBoulder,-2040,-2031,3301,3310
+RLCraft_UndergroundFarm,-1833,-1791,3421,3464
+RLCraft_UndergroundFarm,-1885,-1842,3487,3529

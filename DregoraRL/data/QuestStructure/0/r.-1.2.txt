@@ -1,0 +1,13 @@
+BigClockworkSite,-972,-937,1393,1438
+BlazeSpawnerCrystal,-985,-979,1455,1461
+DesertBeacon,-963,-957,1255,1261
+P_WitchDungeon,-833,-799,1102,1119
+BigClockworkSite,-757,-722,1087,1132
+RLCraft_BasicWitch,-726,-726,1247,1247
+RLCraft_UndergroundRuin1,-729,-720,1241,1250
+RLCraft_DecentCaveSpider,-704,-704,1029,1029
+RLCraft_UndergroundRuin2,-709,-699,1024,1031
+DinosaurSkull,-556,-537,1193,1204
+P_DesertTemple,-545,-496,1134,1184
+RLCraft_DecentSpider,-547,-547,1422,1422
+RLCraft_UndergroundRuin3,-552,-544,1420,1428

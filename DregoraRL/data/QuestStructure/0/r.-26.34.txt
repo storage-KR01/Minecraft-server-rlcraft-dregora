@@ -1,0 +1,9 @@
+DinosaurSkeleton,-13447,-13401,17829,17838
+ShrineSmallFire,-13562,-13552,17765,17775
+RLCraft_BasicWitch,-13506,-13506,17892,17892
+RLCraft_UndergroundRuin1,-13509,-13500,17889,17898
+RLCraft_DecentCaveSpider,-13713,-13713,17612,17612
+RLCraft_UndergroundRuin3,-13719,-13711,17607,17615
+DinosaurSkeleton,-13762,-13716,17677,17686
+UndergroundCultChamber,-13777,-13735,17884,17916
+MonolythHoly,-13783,-13769,17732,17746

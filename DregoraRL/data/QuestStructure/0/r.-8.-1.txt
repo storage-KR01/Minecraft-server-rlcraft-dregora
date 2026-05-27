@@ -1,0 +1,7 @@
+RLCraft_DecentCaveSpider,-4388,-4388,-557,-557
+RLCraft_UndergroundRuin3,-4393,-4385,-559,-551
+RLCraft_DecentCaveSpider,-4170,-4170,-639,-639
+RLCraft_UndergroundRuin2,-4175,-4165,-644,-637
+RLCraft_SmallUndergroundSkeleton,-4201,-4193,-653,-645
+P_DesertDungeon,-4257,-4205,-669,-616
+RLCraft_SmallUndergroundSkeleton,-4368,-4360,-596,-588

@@ -1,0 +1,9 @@
+P_WizardTower,1551,1581,-995,-965
+DinosaurSkull,1560,1571,-869,-850
+UndergroundCultChamber,1917,1959,-1004,-972
+P_Tent,1851,1860,-753,-744
+StonePlantMound2,1724,1737,-529,-517
+StonePlantBoulder,1719,1729,-549,-539
+RLCraft_DecentCaveSpider,1820,1820,-588,-588
+RLCraft_UndergroundRuin3,1818,1826,-593,-585
+UndergroundTreeoid,1815,1838,-700,-674

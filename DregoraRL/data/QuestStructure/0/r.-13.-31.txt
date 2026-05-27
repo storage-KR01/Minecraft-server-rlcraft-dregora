@@ -1,0 +1,16 @@
+RLCraft_BasicSkeleton,-6728,-6728,-16194,-16194
+RLCraft_UndergroundRuin1,-6734,-6725,-16197,-16188
+VillageHouseRich1,-7084,-7066,-16073,-16052
+VillageTriplets,-7114,-7100,-16072,-16058
+SeasonsGreenhouse,-7138,-7128,-16042,-16030
+VillageInn,-7096,-7076,-16042,-16015
+VillageWoodMill,-7114,-7098,-16037,-16024
+StonePlantMound2,-7140,-7127,-16016,-16004
+P_VillageInn,-7149,-7138,-16005,-15996
+P_Village2Story,-7149,-7143,-15993,-15980
+P_VillageFarmhouse,-7131,-7119,-16005,-15993
+VillageMarketplace,-7111,-7097,-16005,-15991
+StonePlantMound2,-6939,-6926,-15986,-15974
+RLCraft_SmallUndergroundSkeleton,-7146,-7138,-15939,-15931
+RLCraft_BasicCaveSpider,-6964,-6964,-15917,-15917
+RLCraft_UndergroundRuin1,-6967,-6958,-15923,-15914

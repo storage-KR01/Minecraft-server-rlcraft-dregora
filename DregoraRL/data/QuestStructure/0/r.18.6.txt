@@ -1,0 +1,15 @@
+RLCraft_DecentCaveSpider,9228,9228,3511,3511
+RLCraft_UndergroundRuin2,9223,9230,3506,3516
+ShrineSmallAir,9270,9278,3270,3278
+P_SmallShip,9279,9285,3521,3541
+RLCraft_DecentCaveSpider,9305,9305,3366,3366
+RLCraft_UndergroundRuin2,9300,9310,3364,3371
+ShrineSmallAir,9339,9347,3479,3487
+P_SmallShip,9349,9355,3297,3317
+ShrineSmallWater,9374,9382,3447,3455
+RLCraft_DecentSkeleton,9459,9459,3384,3384
+RLCraft_UndergroundRuin3,9456,9464,3382,3390
+RLCraft_BasicCaveSpider,9577,9577,3467,3467
+RLCraft_UndergroundRuin1,9571,9580,3464,3473
+RLCraft_BasicSpider,9600,9600,3369,3369
+RLCraft_UndergroundRuin1,9597,9606,3363,3372

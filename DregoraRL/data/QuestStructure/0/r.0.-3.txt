@@ -1,0 +1,17 @@
+ShrineSmallFire,260,270,-1649,-1639
+RLCraft_SmallUndergroundSkeleton,183,191,-1692,-1684
+RLCraft_SmallUndergroundSkeleton,255,263,-1607,-1599
+RLCraft_BasicWitch,295,295,-1607,-1607
+RLCraft_UndergroundRuin1,289,298,-1613,-1604
+RLCraft_SmallUndergroundSkeleton,85,93,-1700,-1692
+RLCraft_BasicWitch,179,179,-1813,-1813
+RLCraft_UndergroundRuin1,176,185,-1819,-1810
+RLCraft_DecentWitch,329,329,-1558,-1558
+RLCraft_UndergroundRuin3,324,332,-1564,-1556
+RLCraft_SmallUndergroundSkeleton,72,80,-1803,-1795
+RLCraft_DecentSpider,-340,-340,-2023,-2023
+RLCraft_UndergroundRuin2,-345,-338,-2028,-2018
+RLCraft_DecentSkeleton,-310,-310,-1936,-1936
+RLCraft_UndergroundRuin3,-312,-304,-1941,-1933
+P_WitchDungeon,-424,-390,-1876,-1859
+RLCraft_SmallUndergroundSkeleton,422,430,-1793,-1785

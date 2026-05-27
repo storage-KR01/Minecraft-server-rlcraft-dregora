@@ -1,0 +1,9 @@
+SmallClockworkSite,-12954,-12932,-13874,-13855
+RLCraft_SmallUndergroundSkeleton,-12920,-12912,-13892,-13884
+RLCraft_BasicSkeleton,-12966,-12966,-13933,-13933
+RLCraft_UndergroundRuin1,-12969,-12960,-13936,-13927
+RLCraft_SmallUndergroundSkeleton,-13052,-13044,-13923,-13915
+RLCraft_LargeUndergroundTown,-13108,-12995,-14090,-13953
+FallenPalmTree,-13021,-13017,-14109,-14099
+P_DesertDungeon,-12828,-12775,-14116,-14064
+RLCraft_SmallUndergroundSkeleton,-13041,-13033,-14317,-14309

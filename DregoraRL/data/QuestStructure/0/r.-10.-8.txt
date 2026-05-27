@@ -1,0 +1,15 @@
+StoneLeafMound,-5205,-5198,-4406,-4397
+StoneLeafMound,-5185,-5176,-4202,-4195
+StonePlantMound2,-5197,-5185,-4179,-4166
+StonePlantMound,-5233,-5228,-4365,-4360
+StonePlantMound4,-5161,-5154,-4151,-4144
+RLCraft_BasicWitch,-5250,-5250,-4200,-4200
+RLCraft_UndergroundRuin1,-5256,-5247,-4203,-4194
+RLCraft_DecentSkeleton,-5134,-5134,-4133,-4133
+RLCraft_UndergroundRuin3,-5137,-5129,-4139,-4131
+StonePlantMound4,-5278,-5271,-4141,-4134
+MeteorSite,-5323,-5308,-4220,-4190
+BlazeSpawnerCrystal,-5302,-5296,-4107,-4101
+RLCraft_DecentZombie,-5147,-5147,-4513,-4513
+RLCraft_UndergroundRuin3,-5153,-5145,-4516,-4508
+SpiderPit,-5187,-5178,-4481,-4471

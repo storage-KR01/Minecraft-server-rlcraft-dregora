@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-1050,-1042,-2181,-2173
+RLCraft_FriendlyOutpost,-1166,-1098,-2309,-2270
+RLCraft_SmallUndergroundSkeleton,-1278,-1270,-2496,-2488
+TribalJungleHead,-1243,-1233,-2546,-2536
+RLCraft_DecentWitch,-1336,-1336,-2225,-2225
+RLCraft_UndergroundRuin2,-1341,-1334,-2230,-2220

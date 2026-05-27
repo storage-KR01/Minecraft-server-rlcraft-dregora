@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,1134,1142,3468,3476
+RLCraft_BasicSpider,1144,1144,3411,3411
+RLCraft_UndergroundRuin1,1141,1150,3408,3417
+RLCraft_SmallUndergroundSkeleton,1259,1267,3574,3582
+ShrineSmallAir,1410,1418,3561,3569
+RLCraft_SmallUndergroundSkeleton,1476,1484,3498,3506
+RLCraft_SmallUndergroundSkeleton,1343,1351,3345,3353
+P_WitchDungeon,1295,1329,3334,3351
+RLCraft_BasicSkeleton,1268,1268,3323,3323
+RLCraft_UndergroundRuin1,1265,1274,3317,3326

@@ -1,0 +1,9 @@
+SmallWoodenCottage,-11622,-11614,5098,5109
+RLCraft_BasicSpider,-11483,-11483,5104,5104
+RLCraft_UndergroundRuin1,-11486,-11477,5098,5107
+SmallWoodenCottage2,-11379,-11371,5064,5072
+VillageInn,-11605,-11578,5015,5035
+P_Village2Story,-11623,-11610,5012,5018
+P_VillageFarmhouse,-11626,-11614,4995,5007
+VillageWoodMill,-11650,-11637,4982,4998
+P_VillageBlacksmith,-11626,-11612,4944,4977

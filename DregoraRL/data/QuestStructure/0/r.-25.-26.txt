@@ -1,0 +1,6 @@
+FallenPalmTree,-12848,-12838,-13724,-13720
+BabylonTower,-12893,-12831,-13728,-13664
+RLCraft_SmallUndergroundSkeleton,-12932,-12924,-13556,-13548
+RLCraft_BasicSpider,-12936,-12936,-13712,-13712
+RLCraft_UndergroundRuin1,-12939,-12930,-13718,-13709
+RLCraft_SmallUndergroundSkeleton,-12964,-12956,-13703,-13695

@@ -1,0 +1,13 @@
+RLCraft_DecentSpider,12395,12395,3588,3588
+RLCraft_UndergroundRuin3,12390,12398,3582,3590
+RLCraft_DecentSkeleton,12346,12346,3727,3727
+RLCraft_UndergroundRuin2,12341,12351,3722,3729
+RLCraft_SmallUndergroundSkeleton,12336,12344,3739,3747
+UndergroundTreeoid,12542,12568,3713,3736
+BigClockworkSite,12543,12578,3782,3827
+UndergroundCultChamber,12508,12550,3847,3879
+RLCraft_DecentSpider,12596,12596,3767,3767
+RLCraft_UndergroundRuin2,12591,12601,3762,3769
+RLCraft_BasicSpider,12504,12504,3912,3912
+RLCraft_UndergroundRuin1,12501,12510,3909,3918
+ShrineSmallEarth,12639,12651,3634,3646

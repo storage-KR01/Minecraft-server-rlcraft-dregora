@@ -1,0 +1,11 @@
+RLCraft_UndergroundRuin3,1749,1757,3581,3589
+StoneLeafMound,1946,1955,3607,3614
+UndergroundCultChamber,1830,1862,3668,3710
+StoneLeafMound,1763,1772,3695,3702
+SmallOutpost,1752,1774,3681,3711
+StonePlantMound4,1735,1742,3744,3751
+StonePlantMound,1760,1765,3781,3786
+DinosaurSkull,1727,1738,3836,3855
+StonePlantMound2,1858,1870,3860,3873
+RLCraft_DecentWitch,1681,1681,3973,3973
+RLCraft_UndergroundRuin2,1676,1686,3971,3978

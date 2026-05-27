@@ -1,0 +1,13 @@
+StoneIceBoulder3,-5234,-5224,-3575,-3565
+StoneIceBoulder3,-5277,-5267,-3568,-3558
+P_SnowTemple,-5130,-5111,-3548,-3532
+IceThorn4,-5340,-5324,-3547,-3521
+StoneIceBoulder2,-5217,-5208,-3483,-3474
+PeacefulCrypt,-5168,-5144,-3503,-3487
+PeacefulCrypt,-5319,-5303,-3510,-3486
+P_Tent,-5217,-5208,-3462,-3453
+StoneIceBoulder1,-5167,-5157,-3367,-3357
+RLCraft_SmallUndergroundSkeleton,-5296,-5288,-3355,-3347
+RLCraft_DecentWitch,-5147,-5147,-3275,-3275
+RLCraft_UndergroundRuin3,-5153,-5145,-3280,-3272
+ShrineSmallAir,-5138,-5130,-3244,-3236

@@ -1,0 +1,14 @@
+RLCraft_DecentCaveSpider,-6877,-6877,684,684
+RLCraft_UndergroundRuin2,-6879,-6872,679,689
+UndergroundCrypt,-6839,-6811,545,559
+RLCraft_DecentSpider,-6924,-6924,987,987
+RLCraft_UndergroundRuin2,-6929,-6922,982,992
+RLCraft_BasicWitch,-6883,-6883,997,997
+RLCraft_UndergroundRuin1,-6886,-6877,994,1003
+BigClockworkSite,-6737,-6692,966,1001
+UndergroundTreeoid,-6683,-6657,871,894
+RLCraft_DesertTown,-6829,-6763,824,890
+DesertHut,-6759,-6749,847,856
+DesertWatchtower,-6877,-6867,761,771
+DinosaurSkeleton,-6793,-6747,687,696
+P_RuinedHouse,-6715,-6690,568,585

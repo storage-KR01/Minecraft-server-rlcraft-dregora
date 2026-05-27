@@ -1,0 +1,9 @@
+StonePlantBoulder,2083,2093,-867,-857
+StonePlantMound2,2128,2140,-863,-850
+P_VillageHouse,2128,2139,-816,-807
+P_Village2Story,2126,2139,-757,-751
+VillageHouseRich,2150,2169,-817,-802
+SeasonsGreenhouse,2163,2173,-794,-782
+VillageLargeLibrary,2150,2169,-775,-755
+StonePlantMound1,2137,2143,-713,-707
+StonePlantMound4,2147,2154,-528,-521

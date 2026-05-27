@@ -1,0 +1,13 @@
+RLCraft_FriendlyOutpost,-1406,-1367,15348,15416
+RLCraft_BasicCaveSpider,-1483,-1483,15382,15382
+RLCraft_UndergroundRuin1,-1489,-1480,15376,15385
+SmallAbandonedMine,-1334,-1309,15399,15414
+ShrineSmallEarth,-1291,-1279,15424,15436
+RLCraft_SmallUndergroundSkeleton,-1109,-1101,15409,15417
+RLCraft_BasicSpider,-1074,-1074,15364,15364
+RLCraft_UndergroundRuin1,-1080,-1071,15361,15370
+RLCraft_BasicCaveSpider,-1054,-1054,15497,15497
+RLCraft_UndergroundRuin1,-1057,-1048,15494,15503
+RLCraft_DecentSpider,-1127,-1127,15604,15604
+RLCraft_UndergroundRuin3,-1129,-1121,15601,15609
+UndergroundCultChamber,-1057,-1015,15619,15651

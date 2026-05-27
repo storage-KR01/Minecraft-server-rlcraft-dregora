@@ -1,0 +1,16 @@
+RLCraft_Vineyard,2402,2430,-3094,-3074
+VillageHouseRich1,2379,2397,-3093,-3072
+SeasonsGreenhouse,2342,2354,-3091,-3081
+VillageInn,2310,2330,-3191,-3164
+P_VillageInn,2293,2304,-3191,-3182
+VillageLargeLibrary,2265,2285,-3226,-3207
+RLCraft_Vineyard,2292,2312,-3223,-3195
+VillageWoodMill,2227,2240,-3226,-3210
+VillageTriplets,2262,2276,-3247,-3233
+RLCraft_DecentWitch,2448,2448,-3325,-3325
+RLCraft_UndergroundRuin2,2443,2453,-3330,-3323
+RLCraft_LargeUndergroundTown,2297,2434,-3480,-3367
+StonePlantMound3,2470,2479,-3422,-3411
+StonePlantMound,2254,2259,-3533,-3528
+StonePlantMound3,2516,2525,-3318,-3307
+StonePlantMound,2332,2337,-3551,-3546

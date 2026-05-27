@@ -1,0 +1,14 @@
+StoneLeafMound,-4089,-4082,-4677,-4668
+StoneLeafMound,-4058,-4049,-4758,-4751
+StoneLeafMound,-4037,-4028,-4752,-4745
+StonePlantMound4,-4055,-4048,-4875,-4868
+SmallFortRuinsJapanese,-3857,-3811,-4636,-4590
+ShrineSmallFire,-4072,-4062,-4900,-4890
+WoodThorn,-4076,-4065,-4966,-4955
+StoneLeafMound,-4056,-4049,-5001,-4992
+WoodThornBig,-4001,-3988,-4837,-4824
+RLCraft_DecentSkeleton,-3969,-3969,-4723,-4723
+RLCraft_UndergroundRuin3,-3974,-3966,-4725,-4717
+RLCraft_LargeUndergroundTown,-4052,-3939,-4824,-4687
+MysticalTree,-3930,-3915,-5039,-5023
+StoneBoulder,-3986,-3977,-4638,-4629

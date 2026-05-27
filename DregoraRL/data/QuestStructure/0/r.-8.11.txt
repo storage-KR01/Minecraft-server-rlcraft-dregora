@@ -1,0 +1,9 @@
+SeasonsGreenhouse,-4542,-4530,5677,5687
+P_VillageInn,-4549,-4540,5729,5740
+P_VillageBlacksmith,-4538,-4505,5729,5743
+VillageMarketplace,-4584,-4570,5750,5764
+P_VillageLibrary,-4567,-4548,5750,5766
+StonePlantMound2,-4419,-4406,5801,5813
+StoneBoulder,-4420,-4411,5919,5928
+Flagship,-4295,-4252,5788,5903
+StonePlantMound4,-4173,-4166,5734,5741

@@ -1,0 +1,8 @@
+UndergroundCrypt,-1592,-1578,17428,17456
+RLCraft_UndergroundFarm,-1572,-1530,17610,17653
+BlazeSpawnerCrystal,-1646,-1640,17557,17563
+P_SmallShip,-1698,-1692,17684,17704
+UndergroundCrypt,-1665,-1651,17701,17729
+ShrineSmallWater,-1981,-1973,17574,17582
+RLCraft_SmallUndergroundSkeleton,-1971,-1963,17724,17732
+RLCraft_UndergroundFarm,-2064,-2021,17721,17763

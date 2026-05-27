@@ -1,0 +1,8 @@
+UndergroundCultChamber,1072,1104,187,229
+RLCraft_UndergroundFarm,1018,1061,-51,-9
+P_SmallShip,1215,1235,86,92
+UndergroundCultChamber,1068,1100,304,346
+RLCraft_DecentCaveSpider,1030,1030,388,388
+RLCraft_UndergroundRuin3,1028,1036,385,393
+BlazeSpawnerCrystal,1238,1244,365,371
+P_LargeShip,1459,1477,216,276

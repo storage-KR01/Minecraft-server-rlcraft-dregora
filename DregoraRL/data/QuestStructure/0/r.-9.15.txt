@@ -1,0 +1,11 @@
+ShrineSmallEarth,-4701,-4689,7732,7744
+AbandonedWoodTower,-4758,-4722,7744,7774
+WoodWallRemains,-4861,-4833,7787,7795
+SmallAbandonedMine,-4869,-4844,7976,7991
+ShrineSmallAir,-4876,-4868,7703,7711
+DinosaurSkull,-4910,-4899,7980,7999
+RLCraft_FriendlyOutpost,-4954,-4886,7724,7763
+P_WizardTower,-4920,-4890,7861,7891
+RLCraft_SmallUndergroundSkeleton,-4972,-4964,7901,7909
+RLCraft_SmallUndergroundSkeleton,-4972,-4964,8040,8048
+RLCraft_FriendlyOutpost,-5032,-4964,8005,8044

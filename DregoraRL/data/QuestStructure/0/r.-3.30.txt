@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,-1670,-1662,15537,15545
+ShrineSmallAir,-1731,-1723,15635,15643
+RLCraft_BasicSkeleton,-1595,-1595,15804,15804
+RLCraft_UndergroundRuin1,-1598,-1589,15798,15807
+RLCraft_BasicSpider,-1560,-1560,15871,15871
+P_MayanTemple2,-2065,-1966,15408,15476
+P_MayanTemple1,-2061,-2031,15509,15555
+TribalJungleHead,-1882,-1872,15524,15534
+RLCraft_DecentZombie,-1882,-1882,15373,15373
+RLCraft_UndergroundRuin3,-1887,-1879,15371,15379

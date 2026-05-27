@@ -1,0 +1,11 @@
+StonePlantMound1,4617,4623,-2681,-2675
+StoneBoulder,4672,4681,-2705,-2696
+StonePlantMound,4707,4712,-2699,-2694
+StoneLeafMound,4739,4746,-2610,-2601
+StonePlantMound,4775,4780,-2571,-2566
+WoodWallRemains,4881,4889,-2694,-2666
+StonePlantBoulder,4883,4893,-2662,-2652
+RLCraft_SmallUndergroundSkeleton,4896,4904,-2670,-2662
+ShrineSmallFire,4920,4930,-2627,-2617
+StoneLeafMound,4973,4982,-2624,-2617
+RLCraft_UndergroundFarm,4981,5023,-2654,-2611

@@ -1,0 +1,9 @@
+StonePlantMound,-13850,-13845,222,227
+ShrineSmallAir,-13884,-13876,133,141
+StonePlantMound3,-13882,-13873,195,206
+StonePlantMound3,-13909,-13900,104,115
+StoneLeafMound,-14276,-14269,267,276
+StonePlantMound3,-14292,-14283,358,369
+StonePlantMound3,-14330,-14321,119,130
+StoneLeafMound,-13842,-13833,1,8
+StoneBoulder,-13956,-13947,-110,-101

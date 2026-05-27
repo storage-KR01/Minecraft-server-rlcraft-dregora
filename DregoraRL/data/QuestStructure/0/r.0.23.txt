@@ -1,0 +1,7 @@
+RLCraft_BasicSkeleton,315,315,11792,11792
+RLCraft_UndergroundRuin1,309,318,11789,11798
+SmallClockworkSite,274,293,12086,12108
+RLCraft_BasicSkeleton,65,65,12213,12213
+RLCraft_UndergroundRuin1,62,71,12210,12219
+RLCraft_BasicSkeleton,199,199,12237,12237
+RLCraft_UndergroundRuin1,193,202,12234,12243

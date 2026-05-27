@@ -1,0 +1,15 @@
+VillageTriplets,2549,2563,-2830,-2816
+RLCraft_BasicSkeleton,2394,2394,-2720,-2720
+RLCraft_UndergroundRuin1,2388,2397,-2723,-2714
+VillageHouseRich,2370,2389,-3019,-3004
+P_VillageHouse,2370,2379,-3035,-3024
+VillageGuardTower,2356,2368,-3066,-3054
+VillageForgeLarge,2342,2354,-3062,-3046
+VillageTriplets,2345,2359,-3036,-3022
+VillageWoodMill,2323,2336,-3066,-3050
+VillageMarketplace,2328,2342,-3036,-3022
+P_VillageFarmhouse,2313,2325,-3036,-3024
+SmallWoodenCottage,2266,2274,-2760,-2749
+UndergroundCrypt,2169,2183,-2607,-2579
+PeacefulCrypt,2388,2404,-2655,-2631
+RLCraft_SmallUndergroundSkeleton,2397,2405,-2639,-2631

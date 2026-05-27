@@ -1,0 +1,8 @@
+RLCraft_DecentSpider,-1483,-1483,15008,15008
+RLCraft_UndergroundRuin3,-1485,-1477,15003,15011
+RLCraft_LargeUndergroundTown,-1546,-1433,15045,15182
+UndergroundTreeoid,-1320,-1297,15291,15317
+P_MayanTemple1,-1518,-1472,15328,15358
+RLCraft_DecentSpider,-1240,-1240,15215,15215
+RLCraft_UndergroundRuin3,-1245,-1237,15213,15221
+UndergroundCultChamber,-1129,-1087,15279,15311

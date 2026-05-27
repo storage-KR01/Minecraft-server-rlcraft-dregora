@@ -1,0 +1,7 @@
+BigClockworkSite,6839,6874,2531,2576
+RLCraft_BasicCaveSpider,7117,7117,2306,2306
+RLCraft_UndergroundRuin1,7114,7123,2303,2312
+RLCraft_SmallUndergroundSkeleton,6919,6927,2312,2320
+SmallClockworkSite,6819,6838,2364,2386
+RLCraft_BasicSpider,6768,6768,2304,2304
+RLCraft_UndergroundRuin1,6762,6771,2298,2307

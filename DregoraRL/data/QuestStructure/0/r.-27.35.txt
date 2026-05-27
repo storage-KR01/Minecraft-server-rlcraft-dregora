@@ -1,0 +1,7 @@
+ShrineSmallFire,-13854,-13844,17935,17945
+BlazeSpawnerCrystal,-13915,-13909,17930,17936
+RLCraft_DecentCaveSpider,-13938,-13938,17997,17997
+RLCraft_UndergroundRuin2,-13943,-13936,17992,18002
+RLCraft_DecentSkeleton,-13894,-13894,18010,18010
+RLCraft_UndergroundRuin2,-13896,-13889,18005,18015
+RLCraft_SmallUndergroundSkeleton,-14127,-14119,18020,18028

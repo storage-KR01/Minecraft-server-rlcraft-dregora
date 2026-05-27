@@ -1,0 +1,12 @@
+FallenPalmTree,-2587,-2577,16427,16431
+P_MayanTemple1,-2779,-2749,16451,16497
+UndergroundCrypt,-2830,-2802,16457,16471
+RLCraft_DecentWitch,-2846,-2846,16475,16475
+RLCraft_UndergroundRuin2,-2851,-2841,16470,16477
+DinosaurSkeleton,-3068,-3022,16542,16551
+RLCraft_DecentSpider,-2946,-2946,16589,16589
+RLCraft_UndergroundRuin2,-2948,-2941,16584,16594
+RLCraft_BasicCaveSpider,-2847,-2847,16597,16597
+RLCraft_UndergroundRuin1,-2850,-2841,16591,16600
+FallenPalmTree,-2689,-2679,16608,16612
+RLCraft_UndergroundFarm,-3054,-3011,16662,16704

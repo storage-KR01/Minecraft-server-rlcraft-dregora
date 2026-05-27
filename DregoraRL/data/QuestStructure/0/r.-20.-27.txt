@@ -1,0 +1,8 @@
+MysticalTree,-10460,-10445,-14264,-14248
+RLCraft_DecentWitch,-10399,-10399,-14241,-14241
+RLCraft_UndergroundRuin3,-10401,-10393,-14244,-14236
+ShrineSmallFire,-10365,-10355,-14223,-14213
+AbandonedWoodTower,-10429,-10399,-14198,-14162
+StonePlantMound,-10521,-10516,-14151,-14146
+StonePlantMound3,-10297,-10286,-14056,-14047
+StonePlantMound3,-10273,-10262,-14030,-14021

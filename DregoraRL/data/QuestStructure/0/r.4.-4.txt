@@ -1,0 +1,9 @@
+AbandonedWoodTower,2195,2231,-2137,-2107
+RLCraft_DecentZombie,2197,2197,-2185,-2185
+RLCraft_UndergroundRuin3,2191,2199,-2188,-2180
+SmallAbandonedMine,2419,2434,-2177,-2152
+RLCraft_DecentWitch,2366,2366,-2291,-2291
+RLCraft_UndergroundRuin2,2361,2371,-2293,-2286
+StoneIceBoulder1,2327,2337,-2221,-2211
+RLCraft_DecentZombie,2546,2546,-2187,-2187
+RLCraft_UndergroundRuin2,2541,2551,-2189,-2182

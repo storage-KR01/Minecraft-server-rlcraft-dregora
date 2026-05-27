@@ -1,0 +1,11 @@
+TribalJungleHead,-1564,-1554,14882,14892
+RLCraft_DecentWitch,-1559,-1559,14915,14915
+RLCraft_UndergroundRuin2,-1564,-1554,14910,14917
+RLCraft_DecentSkeleton,-1695,-1695,14938,14938
+RLCraft_UndergroundRuin3,-1700,-1692,14936,14944
+StoneBoulder,-1659,-1650,14994,15003
+P_WitchDungeon,-1651,-1617,15005,15022
+P_WitchDungeon,-1677,-1660,15006,15040
+FallenPalmTree,-1601,-1591,15291,15295
+RLCraft_SmallUndergroundSkeleton,-1676,-1668,15314,15322
+RLCraft_FriendlyOutpost,-1761,-1722,15325,15393

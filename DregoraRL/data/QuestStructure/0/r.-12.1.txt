@@ -1,0 +1,16 @@
+DinosaurSkeleton,-6233,-6187,522,531
+MeteorSite,-6186,-6156,750,765
+RLCraft_DecentSkeleton,-6266,-6266,631,631
+RLCraft_UndergroundRuin2,-6271,-6261,629,636
+RLCraft_BasicCaveSpider,-6288,-6288,588,588
+RLCraft_UndergroundRuin1,-6291,-6282,585,594
+ShrineSmallAir,-6354,-6346,566,574
+RLCraft_SmallUndergroundSkeleton,-6358,-6350,593,601
+ShrineSmallFire,-6264,-6254,771,781
+SmallAbandonedOutpost,-6473,-6451,545,575
+FallenPalmTree,-6492,-6488,825,835
+RLCraft_DesertTown,-6333,-6267,876,942
+RLCraft_DecentSkeleton,-6512,-6512,940,940
+RLCraft_UndergroundRuin2,-6514,-6507,935,945
+UndergroundTreeoid,-6286,-6260,999,1022
+DesertHut,-6250,-6240,942,951

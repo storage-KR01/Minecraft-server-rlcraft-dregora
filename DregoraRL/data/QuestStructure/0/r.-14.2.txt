@@ -1,0 +1,10 @@
+BlazeSpawnerCrystal,-7348,-7342,1490,1496
+P_DesertTemple,-7232,-7182,1357,1406
+DesertWatchtower,-7224,-7214,1259,1269
+FallenPalmTree,-7432,-7428,1335,1345
+P_DesertTemple,-7483,-7434,1462,1512
+DesertWatchtower,-7307,-7297,1130,1140
+RLCraft_DecentZombie,-7365,-7365,1057,1057
+RLCraft_UndergroundRuin3,-7371,-7363,1054,1062
+DesertBeacon,-7344,-7338,1035,1041
+FallenPalmTree,-7257,-7247,1036,1040

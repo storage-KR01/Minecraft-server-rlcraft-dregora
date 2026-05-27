@@ -1,0 +1,15 @@
+StoneBoulder,1512,1521,-2555,-2546
+StoneLeafMound,1283,1290,-2536,-2527
+ShrineSmallAir,1260,1268,-2412,-2404
+P_VillageHouse,1341,1352,-2407,-2398
+DinosaurSkeleton,1279,1288,-2446,-2400
+VillageTriplets,1329,1343,-2428,-2414
+SeasonsGreenhouse,1301,1313,-2429,-2419
+VillageTriplets,1329,1343,-2428,-2414
+VillageGuardTower,1301,1313,-2442,-2430
+RLCraft_Vineyard,1352,1380,-2458,-2438
+P_VillageFarmhouse,1350,1362,-2481,-2469
+StoneLeafMound,1265,1272,-2449,-2440
+P_Village2Story,1318,1331,-2458,-2452
+StonePlantMound4,1255,1262,-2469,-2462
+VillageWoodMill,1373,1389,-2487,-2474

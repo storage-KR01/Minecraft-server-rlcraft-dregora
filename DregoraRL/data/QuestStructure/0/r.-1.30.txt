@@ -1,0 +1,12 @@
+RLCraft_DecentSkeleton,-1010,-1010,15662,15662
+RLCraft_UndergroundRuin2,-1015,-1005,15660,15667
+RLCraft_AgentStarbuck_WaterBase,-687,-670,15566,15578
+RLCraft_DecentCaveSpider,-660,-660,15401,15401
+RLCraft_UndergroundRuin3,-665,-657,15395,15403
+RLCraft_DecentCaveSpider,-640,-640,15621,15621
+RLCraft_UndergroundRuin2,-645,-638,15616,15626
+DinosaurSkull,-754,-735,15682,15693
+RLCraft_BasicZombie,-662,-662,15724,15724
+RLCraft_UndergroundRuin1,-668,-659,15721,15730
+P_MayanTemple1,-878,-832,15724,15754
+RLCraft_SmallUndergroundSkeleton,-846,-838,15745,15753

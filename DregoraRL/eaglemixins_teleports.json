@@ -1,0 +1,101 @@
+{
+  "0": {
+    "sender": {
+      "field_177962_a": -958,
+      "field_177960_b": 58,
+      "field_177961_c": -2223
+    },
+    "tempReceiver": {
+      "field_177962_a": -8247,
+      "field_177960_b": 80,
+      "field_177961_c": -12929
+    }
+  },
+  "1": {
+    "sender": {
+      "field_177962_a": -2355,
+      "field_177960_b": 80,
+      "field_177961_c": -642
+    },
+    "tempReceiver": {
+      "field_177962_a": -15878,
+      "field_177960_b": 80,
+      "field_177961_c": -4301
+    }
+  },
+  "2": {
+    "sender": {
+      "field_177962_a": -1998,
+      "field_177960_b": 58,
+      "field_177961_c": 1441
+    },
+    "receiver": {
+      "field_177962_a": -13494,
+      "field_177960_b": 75,
+      "field_177961_c": 7607
+    },
+    "tempReceiver": {
+      "field_177962_a": -13520,
+      "field_177960_b": 80,
+      "field_177961_c": 7636
+    }
+  },
+  "3": {
+    "sender": {
+      "field_177962_a": -126,
+      "field_177960_b": 58,
+      "field_177961_c": 2449
+    },
+    "receiver": {
+      "field_177962_a": -2630,
+      "field_177960_b": 38,
+      "field_177961_c": 16343
+    },
+    "tempReceiver": {
+      "field_177962_a": -2607,
+      "field_177960_b": 80,
+      "field_177961_c": 16323
+    }
+  },
+  "4": {
+    "sender": {
+      "field_177962_a": 2407,
+      "field_177960_b": 80,
+      "field_177961_c": -401
+    },
+    "tempReceiver": {
+      "field_177962_a": 13476,
+      "field_177960_b": 80,
+      "field_177961_c": -8398
+    }
+  },
+  "5": {
+    "sender": {
+      "field_177962_a": 1170,
+      "field_177960_b": 58,
+      "field_177961_c": -2143
+    },
+    "tempReceiver": {
+      "field_177962_a": 7070,
+      "field_177960_b": 80,
+      "field_177961_c": -15844
+    }
+  },
+  "6": {
+    "sender": {
+      "field_177962_a": 1826,
+      "field_177960_b": 58,
+      "field_177961_c": 1633
+    },
+    "receiver": {
+      "field_177962_a": 5514,
+      "field_177960_b": 50,
+      "field_177961_c": 13751
+    },
+    "tempReceiver": {
+      "field_177962_a": 5502,
+      "field_177960_b": 80,
+      "field_177961_c": 13754
+    }
+  }
+}

@@ -1,0 +1,13 @@
+DinosaurSkeleton,-9285,-9276,-960,-914
+ShrineSmallAir,-9231,-9223,-872,-864
+StoneIceBoulder,-9288,-9278,-868,-859
+StoneIceBoulder3,-9303,-9293,-846,-836
+StoneIceBoulder2,-9230,-9221,-801,-792
+SmallAbandonedMine,-9371,-9346,-871,-856
+StoneIceBoulder1,-9367,-9357,-758,-748
+StoneIceBoulder2,-9417,-9408,-795,-786
+UndergroundTreeoid,-9694,-9668,-740,-717
+RLCraft_DecentZombie,-9683,-9683,-705,-705
+RLCraft_UndergroundRuin3,-9685,-9677,-710,-702
+RLCraft_DecentWitch,-9685,-9685,-659,-659
+RLCraft_UndergroundRuin2,-9690,-9680,-661,-654

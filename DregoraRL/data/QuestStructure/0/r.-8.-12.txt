@@ -1,0 +1,8 @@
+VillageMarketplace,-4497,-4483,-6403,-6389
+VillageMarketplace,-4497,-4483,-6403,-6389
+VillageLargeLibrary,-4471,-4451,-6403,-6384
+VillageGuardTower,-4474,-4462,-6457,-6445
+P_Village2Story,-4469,-4456,-6426,-6420
+StoneBoulder,-4452,-4443,-6579,-6570
+P_VillageBlacksmith,-4453,-4420,-6426,-6412
+SmallAbandonedMine,-4484,-4459,-6627,-6612

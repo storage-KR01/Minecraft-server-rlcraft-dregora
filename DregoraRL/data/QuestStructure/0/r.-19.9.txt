@@ -1,0 +1,17 @@
+RLCraft_BasicCaveSpider,-10232,-10232,4918,4918
+RLCraft_UndergroundRuin1,-10235,-10226,4912,4921
+RLCraft_SmallUndergroundSkeleton,-10140,-10132,4878,4886
+RLCraft_SmallUndergroundSkeleton,-10129,-10121,4862,4870
+UndergroundCrypt,-10238,-10210,4682,4696
+RLCraft_DecentZombie,-10161,-10161,4669,4669
+RLCraft_UndergroundRuin2,-10166,-10156,4664,4671
+RLCraft_BasicSpider,-10096,-10096,4628,4628
+RLCraft_UndergroundRuin1,-10102,-10093,4625,4634
+BigClockworkSite,-10046,-10011,4708,4753
+RLCraft_SmallUndergroundSkeleton,-9971,-9963,4703,4711
+DinosaurSkull,-10075,-10064,4829,4848
+RLCraft_DecentCaveSpider,-9949,-9949,4678,4678
+RLCraft_UndergroundRuin3,-9954,-9946,4672,4680
+ShrineSmallFire,-9840,-9830,4663,4673
+RLCraft_DecentCaveSpider,-9848,-9848,4902,4902
+RLCraft_UndergroundRuin2,-9853,-9843,4897,4904

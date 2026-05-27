@@ -1,0 +1,12 @@
+RLCraft_DecentZombie,-7273,-7273,-16891,-16891
+RLCraft_UndergroundRuin3,-7275,-7267,-16896,-16888
+P_WitchDungeon,-7329,-7312,-16881,-16847
+RLCraft_DecentSpider,-7202,-7202,-16792,-16792
+RLCraft_UndergroundRuin2,-7207,-7200,-16797,-16787
+RLCraft_DecentSpider,-7262,-7262,-16695,-16695
+RLCraft_UndergroundRuin3,-7264,-7256,-16700,-16692
+RLCraft_SmallUndergroundSkeleton,-7361,-7353,-16679,-16671
+RLCraft_DecentZombie,-7409,-7409,-16837,-16837
+RLCraft_UndergroundRuin2,-7411,-7404,-16842,-16832
+PirateChest,-7441,-7437,-16843,-16839
+RLCraft_SmallUndergroundSkeleton,-7410,-7402,-16562,-16554

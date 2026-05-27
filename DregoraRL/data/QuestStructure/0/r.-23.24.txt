@@ -1,0 +1,7 @@
+RLCraft_DecentSpider,-12105,-12105,12724,12724
+RLCraft_UndergroundRuin3,-12111,-12103,12721,12729
+RLCraft_SmallUndergroundSkeleton,-12169,-12161,12413,12421
+RLCraft_BasicCaveSpider,-11912,-11912,12490,12490
+RLCraft_UndergroundRuin1,-11915,-11906,12487,12496
+RLCraft_DesertTown,-11887,-11821,12381,12447
+SmallClockworkSite,-11953,-11934,12298,12320

@@ -1,0 +1,8 @@
+ShrineSmallWater,-5581,-5573,10792,10800
+P_LargeShip,-5431,-5371,10796,10814
+ShrineSmallWater,-5406,-5398,10824,10832
+RLCraft_DecentZombie,-5463,-5463,10959,10959
+RLCraft_UndergroundRuin3,-5469,-5461,10956,10964
+RLCraft_AgentStarbuck_WaterBase,-5575,-5558,11020,11032
+UndergroundCultChamber,-5593,-5561,11034,11076
+ShrineSmallAir,-5398,-5390,11048,11056

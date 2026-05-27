@@ -1,0 +1,6 @@
+RLCraft_BasicZombie,-10832,-10832,12781,12781
+RLCraft_UndergroundRuin1,-10838,-10829,12778,12787
+RLCraft_SmallUndergroundSkeleton,-10855,-10847,12644,12652
+RLCraft_DecentWitch,-11151,-11151,12392,12392
+RLCraft_UndergroundRuin2,-11153,-11146,12387,12397
+UndergroundCrypt,-11227,-11213,12321,12349

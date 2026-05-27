@@ -1,0 +1,8 @@
+RLCraft_DecentZombie,1030,1030,8932,8932
+RLCraft_UndergroundRuin3,1024,1032,8927,8935
+SmallAbandonedMine,1042,1067,9049,9064
+RLCraft_SmallUndergroundSkeleton,1104,1112,8998,9006
+RLCraft_SmallUndergroundSkeleton,1101,1109,9055,9063
+RLCraft_SmallUndergroundSkeleton,1189,1197,9003,9011
+SmallClockworkSite,1303,1322,9176,9198
+MeteorSite,1314,1329,9093,9123

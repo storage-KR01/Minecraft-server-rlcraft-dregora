@@ -1,0 +1,13 @@
+StoneLeafMound,4140,4147,3132,3141
+StonePlantMound,4187,4192,3131,3136
+StonePlantBoulder,4203,4213,3138,3148
+RLCraft_PlainsCamp,4272,4318,3155,3194
+RLCraft_BasicCaveSpider,4303,4303,3202,3202
+RLCraft_UndergroundRuin1,4300,4309,3196,3205
+RLCraft_SmallUndergroundSkeleton,4367,4375,3192,3200
+MeteorSite,4348,4378,3213,3228
+SmallWoodenCottage1,4375,4381,3217,3228
+StonePlantMound1,4328,4334,3233,3239
+StonePlantBoulder,4267,4277,3230,3240
+RLCraft_BasicCaveSpider,4272,4272,3267,3267
+RLCraft_UndergroundRuin1,4266,4275,3264,3273

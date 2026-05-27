@@ -1,0 +1,8 @@
+StoneBoulder,-7188,-7179,-15998,-15989
+VillageForgeLarge,-7177,-7161,-15977,-15965
+StonePlantMound2,-7263,-7251,-15979,-15966
+StonePlantMound4,-7277,-7270,-15931,-15924
+StonePlantMound,-7298,-7293,-15990,-15985
+StonePlantMound1,-7437,-7431,-15949,-15943
+StonePlantMound4,-7461,-7454,-15999,-15992
+RLCraft_SmallUndergroundSkeleton,-7497,-7489,-15970,-15962

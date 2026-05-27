@@ -1,0 +1,14 @@
+RLCraft_DecentWitch,5136,5136,-2185,-2185
+RLCraft_UndergroundRuin2,5131,5138,-2190,-2180
+RLCraft_BasicWitch,5173,5173,-2265,-2265
+RLCraft_UndergroundRuin1,5170,5179,-2271,-2262
+StoneIceBoulder,5167,5177,-2225,-2216
+DinosaurSkeleton,5215,5224,-2179,-2133
+StoneIceBoulder,5223,5233,-2169,-2160
+RLCraft_BasicSpider,5217,5217,-2097,-2097
+RLCraft_UndergroundRuin1,5214,5223,-2100,-2091
+StoneIceBoulder2,5243,5252,-2352,-2343
+MonolythUnholy,5314,5328,-2335,-2321
+ShrineSmallAir,5372,5380,-2098,-2090
+ShrineSmallEarth,5366,5378,-2172,-2160
+SmallAbandonedMine,5424,5449,-2087,-2072

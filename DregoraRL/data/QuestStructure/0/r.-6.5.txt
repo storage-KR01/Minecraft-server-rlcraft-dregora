@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,-3235,-3227,2909,2917
+SmallWoodenCottage2,-3144,-3136,3052,3060
+RLCraft_SmallUndergroundSkeleton,-3124,-3116,2939,2947
+RLCraft_DecentZombie,-3291,-3291,2681,2681
+RLCraft_UndergroundRuin3,-3297,-3289,2678,2686
+ShrineSmallFire,-3543,-3533,2596,2606
+SpiderPit,-3405,-3395,2645,2654
+P_VillageHouse,-3434,-3425,2672,2683
+VillageSavannaLibrary,-3423,-3413,2672,2683
+VillageWoodMill,-3406,-3390,2672,2685
+VillageSavannaStonemason,-3430,-3414,2694,2709
+P_VillageFarmhouse,-3434,-3422,2713,2725
+RLCraft_Vineyard,-3433,-3405,2731,2751

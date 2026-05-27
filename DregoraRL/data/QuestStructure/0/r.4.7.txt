@@ -1,0 +1,12 @@
+RLCraft_SmallUndergroundSkeleton,2465,2473,3812,3820
+RLCraft_SmallUndergroundSkeleton,2467,2475,3972,3980
+RLCraft_DecentSkeleton,2396,2396,3851,3851
+RLCraft_UndergroundRuin2,2391,2398,3846,3856
+ShrineSmallEarth,2384,2396,3676,3688
+RLCraft_SmallUndergroundSkeleton,2346,2354,3845,3853
+RLCraft_BasicCaveSpider,2282,2282,3844,3844
+RLCraft_UndergroundRuin1,2276,2285,3838,3847
+StonePlantMound,2278,2283,3823,3828
+RLCraft_SmallUndergroundSkeleton,2277,2285,3863,3871
+StoneBoulder,2282,2291,3583,3592
+BlazeSpawnerCrystal,2179,2185,3620,3626

@@ -1,0 +1,8 @@
+VillageHouseRich1,-12935,-12917,4897,4918
+P_VillageInn,-12993,-12982,4931,4940
+SeasonsGreenhouse,-13008,-12998,4944,4956
+VillageWoodMill,-12986,-12970,4941,4954
+RLCraft_Vineyard,-13025,-12997,4966,4986
+RLCraft_AgentStarbuck_WaterBase,-13134,-13117,4971,4983
+RLCraft_BasicSkeleton,-13237,-13237,4971,4971
+RLCraft_UndergroundRuin1,-13240,-13231,4968,4977

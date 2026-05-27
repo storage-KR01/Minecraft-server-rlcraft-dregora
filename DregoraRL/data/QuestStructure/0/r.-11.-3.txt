@@ -1,0 +1,9 @@
+RLCraft_DecentSpider,-5693,-5693,-1766,-1766
+RLCraft_UndergroundRuin3,-5696,-5688,-1772,-1764
+RLCraft_SmallUndergroundSkeleton,-5711,-5703,-1639,-1631
+RLCraft_SmallUndergroundSkeleton,-5873,-5865,-1647,-1639
+VeldtBath,-5960,-5909,-1734,-1666
+SmallClockworkSite,-6048,-6029,-1592,-1570
+RLCraft_DecentSpider,-6085,-6085,-1667,-1667
+RLCraft_UndergroundRuin3,-6091,-6083,-1670,-1662
+RLCraft_SmallUndergroundSkeleton,-6083,-6075,-1908,-1900

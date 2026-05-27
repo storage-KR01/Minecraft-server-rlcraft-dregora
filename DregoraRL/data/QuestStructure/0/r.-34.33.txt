@@ -1,0 +1,6 @@
+ShrineSmallFire,-17847,-17837,17393,17403
+RLCraft_BasicCaveSpider,-17750,-17750,17395,17395
+RLCraft_UndergroundRuin1,-17756,-17747,17389,17398
+RLCraft_DecentCaveSpider,-17714,-17714,17394,17394
+RLCraft_UndergroundRuin2,-17719,-17709,17389,17396
+RLCraft_LargeUndergroundTown,-17907,-17794,17161,17298

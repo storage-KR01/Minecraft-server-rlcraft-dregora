@@ -1,0 +1,11 @@
+RLCraft_End_Decoration_2,2752,2762,-504,-494
+RLCraft_End_Decoration_1,2803,2813,-366,-356
+RLCraft_End_Snake_Skeleton,2776,2786,-334,-269
+RLCraft_End_Decoration_2,2632,2642,-219,-209
+RLCraft_End_Decoration_1,2771,2781,118,128
+RLCraft_End_Decoration_2,2609,2619,143,153
+RLCraft_End_Decoration_1,2718,2728,132,142
+RLCraft_End_Decoration_1,2775,2785,327,337
+RLCraft_End_Monolyth,2952,2968,211,227
+RLCraft_End_Snake_Skeleton,3021,3031,140,205
+RLCraft_End_Meteor_Site,3054,3089,127,148

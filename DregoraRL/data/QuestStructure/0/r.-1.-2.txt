@@ -1,0 +1,10 @@
+RLCraft_SmallUndergroundSkeleton,-852,-844,-1293,-1285
+VillageGuardTower,-825,-813,-1210,-1198
+RLCraft_SmallUndergroundSkeleton,-807,-799,-1412,-1404
+P_Village2Story,-794,-788,-1247,-1234
+ThreeTowers,-794,-763,-1205,-1173
+DinosaurSkeleton,-750,-741,-1049,-1003
+UnnaturalCrater,-767,-727,-1326,-1286
+ShrineSmallFire,-685,-675,-1054,-1044
+P_DesertDungeon,-724,-671,-1088,-1036
+RLCraft_SmallUndergroundSkeleton,-697,-689,-1132,-1124

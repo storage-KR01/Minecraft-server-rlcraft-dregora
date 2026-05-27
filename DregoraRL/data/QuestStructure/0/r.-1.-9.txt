@@ -1,0 +1,9 @@
+VillageSavannaKitchen,-712,-702,-5098,-5086
+P_Village2Story,-714,-708,-5078,-5065
+VillageSavannaStonemason,-704,-688,-5049,-5034
+ThreeTowers,-670,-639,-5075,-5043
+VillageGuardTower,-683,-671,-5049,-5037
+P_VillageBlacksmith,-705,-691,-5031,-4998
+StonePlantMound2,-884,-872,-4906,-4893
+VillageSavannaGlassworks,-670,-658,-5108,-5098
+VillageSavannaChandlery,-670,-659,-5093,-5083

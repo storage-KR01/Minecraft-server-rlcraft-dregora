@@ -1,0 +1,7 @@
+P_DesertTemple,-2950,-2900,-1186,-1137
+RLCraft_BasicSpider,-2998,-2998,-1137,-1137
+RLCraft_UndergroundRuin1,-3004,-2995,-1143,-1134
+RLCraft_SmallUndergroundSkeleton,-2634,-2626,-1401,-1393
+UndergroundCrypt,-2878,-2850,-1369,-1355
+RLCraft_DecentSpider,-2949,-2949,-1526,-1526
+RLCraft_UndergroundRuin2,-2951,-2944,-1531,-1521

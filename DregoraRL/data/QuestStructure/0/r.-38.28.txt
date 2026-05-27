@@ -1,0 +1,15 @@
+RLCraft_DecentSkeleton,-19903,-19903,14723,14723
+RLCraft_UndergroundRuin3,-19909,-19901,14720,14728
+DinosaurSkeleton,-19808,-19762,14802,14811
+RLCraft_DecentSkeleton,-19753,-19753,14761,14761
+RLCraft_UndergroundRuin3,-19759,-19751,14756,14764
+RLCraft_SmallTown,-19793,-19722,14613,14688
+RLCraft_BasicSkeleton,-19623,-19623,14815,14815
+RLCraft_UndergroundRuin1,-19626,-19617,14809,14818
+UndergroundCultChamber,-19618,-19576,14772,14804
+SmallAbandonedOutpost,-19874,-19844,14542,14564
+RLCraft_SmallUndergroundSkeleton,-19579,-19571,14700,14708
+RLCraft_BasicSpider,-19667,-19667,14521,14521
+RLCraft_UndergroundRuin1,-19670,-19661,14515,14524
+RLCraft_DecentSpider,-19944,-19944,14400,14400
+RLCraft_UndergroundRuin3,-19947,-19939,14398,14406

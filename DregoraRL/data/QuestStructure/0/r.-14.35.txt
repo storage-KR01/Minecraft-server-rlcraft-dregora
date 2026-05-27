@@ -1,0 +1,7 @@
+RLCraft_AgentStarbuck_WaterBase,-7223,-7206,17972,17984
+UndergroundCultChamber,-7457,-7425,18021,18063
+P_SmallShip,-7567,-7547,18203,18209
+RLCraft_AgentStarbuck_WaterBase,-7677,-7660,18234,18246
+ShrineSmallWater,-7620,-7612,18233,18241
+ShrineSmallWater,-7660,-7652,18174,18182
+P_IslandCity,-7792,-7458,17963,18269

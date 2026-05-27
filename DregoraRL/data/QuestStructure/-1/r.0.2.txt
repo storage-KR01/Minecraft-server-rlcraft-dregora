@@ -1,0 +1,13 @@
+NetherThorn,226,244,1024,1050
+NetherThorn2,98,110,1046,1059
+NetherThorn3,368,394,1093,1111
+NetherThorn4,101,123,1160,1180
+NetherThorn,217,235,1207,1233
+NetherThorn4,-242,-222,1256,1278
+NetherThorn1,-292,-273,1241,1257
+NetherThorn,-184,-158,1290,1308
+NetherThorn1,-332,-313,1156,1172
+NetherThorn1,-383,-364,1159,1175
+NetherThorn1,-447,-428,1205,1221
+NetherThorn2,-485,-472,1099,1111
+NetherThorn1,-210,-194,1321,1340

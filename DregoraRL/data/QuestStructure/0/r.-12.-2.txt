@@ -1,0 +1,9 @@
+RLCraft_DecentCaveSpider,-6223,-6223,-1395,-1395
+RLCraft_UndergroundRuin2,-6228,-6218,-1397,-1390
+StonePlantMound2,-6355,-6342,-1302,-1290
+StonePlantMound4,-6373,-6366,-1435,-1428
+BigClockworkSite,-6337,-6292,-1490,-1455
+StonePlantMound1,-6422,-6416,-1360,-1354
+RLCraft_DecentWitch,-6567,-6567,-1456,-1456
+RLCraft_UndergroundRuin2,-6569,-6562,-1461,-1451
+OldWatchtower,-6254,-6241,-1037,-1025

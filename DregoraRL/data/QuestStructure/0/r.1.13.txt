@@ -1,0 +1,8 @@
+RLCraft_UndergroundFarm,755,798,6657,6699
+RLCraft_DecentCaveSpider,935,935,6702,6702
+RLCraft_UndergroundRuin2,930,937,6697,6707
+RLCraft_SmallUndergroundSkeleton,933,941,6737,6745
+MysticalTree2,890,900,6764,6774
+ForestBeacon,919,927,6940,6948
+RLCraft_SmallUndergroundSkeleton,938,946,6879,6887
+RLCraft_SmallUndergroundSkeleton,953,961,6987,6995

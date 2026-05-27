@@ -1,0 +1,9 @@
+SmallWoodenCottage1,-11507,-11496,12083,12089
+ShrineSmallAir,-11610,-11602,11988,11996
+RLCraft_DecentCaveSpider,-11513,-11513,12003,12003
+RLCraft_UndergroundRuin3,-11518,-11510,12001,12009
+RLCraft_DecentCaveSpider,-11474,-11474,12010,12010
+RLCraft_UndergroundRuin3,-11480,-11472,12005,12013
+BabylonTower,-11597,-11533,11866,11928
+RLCraft_SmallUndergroundSkeleton,-11478,-11470,11836,11844
+RLCraft_DesertTown,-11508,-11442,11830,11896

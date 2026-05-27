@@ -1,0 +1,14 @@
+StonePlantMound4,-1487,-1480,5758,5765
+P_MayanTemple1,-1537,-1491,5743,5773
+RLCraft_SmallUndergroundSkeleton,-1441,-1433,5774,5782
+ShrineSmallAir,-1352,-1344,5796,5804
+StonePlantMound4,-1483,-1476,5884,5891
+RLCraft_SmallTown,-1554,-1483,5864,5939
+StoneBoulder,-1207,-1198,5830,5839
+RLCraft_SwampHut,-1207,-1167,5703,5735
+P_RuinedHouse,-1156,-1139,5793,5818
+StoneLeafMound,-1229,-1220,5914,5921
+ShrineSmallEarth,-1186,-1174,5917,5929
+RLCraft_DecentZombie,-1211,-1211,6077,6077
+RLCraft_UndergroundRuin2,-1216,-1206,6075,6082
+ShrineSmallFire,-1281,-1271,6102,6112

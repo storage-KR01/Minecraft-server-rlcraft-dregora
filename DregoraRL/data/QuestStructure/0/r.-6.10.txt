@@ -1,0 +1,13 @@
+VillageTriplets,-3298,-3284,5142,5156
+P_Village2Story,-3274,-3268,5153,5166
+P_VillageFarmhouse,-3250,-3238,5142,5154
+StoneLeafMound,-3317,-3310,5238,5247
+ShrineSmallFire,-3203,-3193,5264,5274
+ShrineSmallAir,-3281,-3273,5340,5348
+StonePlantMound4,-3397,-3390,5455,5462
+StonePlantMound,-3409,-3404,5448,5453
+StonePlantMound4,-3485,-3478,5475,5482
+RLCraft_DecentZombie,-3333,-3333,5550,5550
+RLCraft_UndergroundRuin2,-3338,-3328,5545,5552
+ShrineSmallWater,-3121,-3113,5450,5458
+RLCraft_UndergroundFarm,-3104,-3061,5509,5551

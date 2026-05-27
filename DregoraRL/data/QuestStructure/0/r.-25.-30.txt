@@ -1,0 +1,15 @@
+DinosaurSkull,-13125,-13106,-15501,-15490
+FallenPalmTree,-13211,-13201,-15530,-15526
+RLCraft_DecentZombie,-13096,-13096,-15759,-15759
+RLCraft_UndergroundRuin2,-13101,-13091,-15764,-15757
+RLCraft_DecentZombie,-13034,-13034,-15681,-15681
+RLCraft_UndergroundRuin2,-13036,-13029,-15686,-15676
+SmallWoodenCottage1,-13007,-12996,-15828,-15822
+P_RuinedHouse,-12998,-12973,-15764,-15747
+P_WitchDungeon,-12946,-12929,-15750,-15716
+SmallWoodenCottage2,-12933,-12925,-15652,-15644
+RLCraft_DecentWitch,-12862,-12862,-15720,-15720
+RLCraft_UndergroundRuin2,-12867,-12857,-15722,-15715
+StoneIceBoulder,-12814,-12805,-15765,-15755
+RLCraft_BasicZombie,-12803,-12803,-15682,-15682
+RLCraft_UndergroundRuin1,-12809,-12800,-15688,-15679

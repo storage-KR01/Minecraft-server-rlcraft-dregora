@@ -1,0 +1,7 @@
+RLCraft_DecentCaveSpider,-9267,-9267,-18789,-18789
+RLCraft_UndergroundRuin3,-9269,-9261,-18792,-18784
+ShrineSmallFire,-9275,-9265,-18824,-18814
+ShrineSmallFire,-9283,-9273,-18901,-18891
+RLCraft_DecentSkeleton,-9372,-9372,-18888,-18888
+RLCraft_UndergroundRuin2,-9377,-9367,-18893,-18886
+P_MayanTemple1,-9277,-9231,-18932,-18902

@@ -1,0 +1,12 @@
+RLCraft_DecentSpider,-12294,-12294,17600,17600
+RLCraft_UndergroundRuin2,-12296,-12289,17595,17605
+P_DesertTemple,-12393,-12343,17569,17618
+RLCraft_SmallUndergroundSkeleton,-12375,-12367,17486,17494
+RLCraft_SmallUndergroundSkeleton,-12397,-12389,17445,17453
+MeteorSite,-12436,-12421,17519,17549
+DesertBeacon,-12432,-12426,17418,17424
+RLCraft_DecentZombie,-12447,-12447,17570,17570
+RLCraft_UndergroundRuin3,-12449,-12441,17567,17575
+DesertWatchtower,-12634,-12624,17601,17611
+JokerTower,-12679,-12671,17473,17481
+RLCraft_SmallUndergroundSkeleton,-12754,-12746,17472,17480

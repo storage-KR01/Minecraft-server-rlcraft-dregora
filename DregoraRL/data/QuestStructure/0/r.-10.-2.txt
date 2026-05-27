@@ -1,0 +1,12 @@
+RLCraft_DecentSkeleton,-5342,-5342,-1279,-1279
+RLCraft_UndergroundRuin3,-5345,-5337,-1285,-1277
+P_Deqing,-5402,-5355,-1370,-1318
+StonePlantMound2,-5417,-5404,-1347,-1335
+MeteorSite,-5303,-5288,-1406,-1376
+SmallAbandonedMine,-5458,-5433,-1325,-1310
+StonePlantMound1,-5339,-5333,-1418,-1412
+DinosaurSkeleton,-5227,-5181,-1409,-1400
+RLCraft_SmallUndergroundSkeleton,-5246,-5238,-1435,-1427
+SmallAbandonedMine,-5258,-5243,-1452,-1427
+RLCraft_SmallUndergroundSkeleton,-5314,-5306,-1476,-1468
+StonePlantMound1,-5373,-5367,-1467,-1461

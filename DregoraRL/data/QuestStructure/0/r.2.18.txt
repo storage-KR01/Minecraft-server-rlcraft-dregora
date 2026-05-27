@@ -1,0 +1,7 @@
+SmallAbandonedMine,1129,1154,9236,9251
+VillageMarketplace,1123,1137,9318,9332
+P_VillageFarmhouse,1162,1174,9318,9330
+RLCraft_Vineyard,1181,1201,9301,9329
+P_VillageLibrary,1158,1174,9331,9350
+RLCraft_SmallUndergroundSkeleton,1245,1253,9339,9347
+RLCraft_SmallUndergroundSkeleton,1246,1254,9362,9370

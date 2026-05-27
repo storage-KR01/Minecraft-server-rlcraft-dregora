@@ -1,0 +1,11 @@
+StonePlantMound,3213,3218,956,961
+P_LargeShip,3157,3175,909,969
+ShrineSmallAir,3191,3199,920,928
+RLCraft_DecentCaveSpider,3398,3398,970,970
+RLCraft_UndergroundRuin2,3393,3400,965,975
+RLCraft_BasicCaveSpider,3286,3286,825,825
+RLCraft_UndergroundRuin1,3283,3292,822,831
+StonePlantMound2,3457,3470,889,901
+ClayWaterMound1,3542,3552,844,855
+RLCraft_DecentSkeleton,3431,3431,540,540
+RLCraft_UndergroundRuin2,3426,3436,538,545

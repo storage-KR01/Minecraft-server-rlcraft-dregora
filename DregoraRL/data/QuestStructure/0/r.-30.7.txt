@@ -1,0 +1,9 @@
+StoneBoulder,-15455,-15446,3647,3656
+VillageHouseRich,-15578,-15559,3738,3753
+SeasonsGreenhouse,-15554,-15544,3734,3746
+RLCraft_Vineyard,-15541,-15521,3717,3745
+P_VillageFarmhouse,-15541,-15529,3699,3711
+VillageTriplets,-15578,-15564,3711,3725
+VillageTriplets,-15578,-15564,3711,3725
+AbandonedWoodTower,-15609,-15573,3607,3637
+StonePlantBoulder,-15596,-15586,3657,3667

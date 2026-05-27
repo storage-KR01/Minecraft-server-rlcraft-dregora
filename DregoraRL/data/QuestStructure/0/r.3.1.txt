@@ -1,0 +1,11 @@
+StoneBoulder,1978,1987,528,537
+StonePlantMound1,1857,1863,698,704
+RLCraft_SmallUndergroundSkeleton,1775,1783,733,741
+StoneBoulder,1850,1859,977,986
+RLCraft_BasicSpider,1822,1822,961,961
+RLCraft_UndergroundRuin1,1816,1825,955,964
+StonePlantMound,1910,1915,911,916
+StonePlantMound3,1892,1901,903,914
+P_SmallShip,1579,1585,897,917
+RLCraft_BasicSkeleton,1579,1579,549,549
+RLCraft_UndergroundRuin1,1573,1582,543,552

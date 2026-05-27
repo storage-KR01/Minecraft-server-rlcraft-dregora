@@ -1,0 +1,9 @@
+ThreeTowers,-4383,-4351,-2245,-2214
+RLCraft_DecentSpider,-4511,-4511,-2413,-2413
+RLCraft_UndergroundRuin3,-4513,-4505,-2418,-2410
+P_VillageFarmhouse,-4346,-4334,-2304,-2292
+VillageMarketplace,-4340,-4326,-2282,-2268
+SeasonsGreenhouse,-4325,-4313,-2339,-2329
+VillageGuardTower,-4297,-4285,-2368,-2356
+VillageTriplets,-4309,-4295,-2311,-2297
+P_VillageInn,-4309,-4300,-2279,-2268

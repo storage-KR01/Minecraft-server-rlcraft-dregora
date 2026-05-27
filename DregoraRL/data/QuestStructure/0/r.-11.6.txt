@@ -1,0 +1,17 @@
+StonePlantMound1,-5648,-5642,3328,3334
+SmallWoodenCottage1,-5670,-5659,3357,3363
+StonePlantBoulder,-5688,-5678,3144,3154
+StonePlantMound2,-5689,-5676,3334,3346
+StonePlantMound4,-5704,-5697,3254,3261
+StoneBoulder,-5715,-5706,3163,3172
+StoneLeafMound,-5732,-5725,3198,3207
+StonePlantMound2,-5758,-5746,3282,3295
+StonePlantMound3,-5755,-5746,3218,3229
+SmallWoodenCottage,-5844,-5833,3206,3214
+WoodThorn,-5872,-5861,3104,3115
+StoneLeafMound,-5884,-5877,3131,3140
+StoneBoulder,-5906,-5897,3159,3168
+BrickHenge,-5913,-5897,3348,3364
+UndergroundTreeoid,-6080,-6057,3272,3298
+ShrineSmallAir,-6061,-6053,3402,3410
+AbandonedWoodTower,-6099,-6069,3100,3136

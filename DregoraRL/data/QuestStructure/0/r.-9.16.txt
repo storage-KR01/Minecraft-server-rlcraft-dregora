@@ -1,0 +1,11 @@
+ShrineSmallEarth,-4957,-4945,8345,8357
+UndergroundCrypt,-5090,-5062,8354,8368
+RLCraft_DecentSpider,-4853,-4853,8420,8420
+RLCraft_UndergroundRuin2,-4858,-4848,8418,8425
+RLCraft_SmallUndergroundSkeleton,-4841,-4833,8430,8438
+P_Deqing,-4978,-4926,8419,8466
+P_WitchDungeon,-5097,-5080,8502,8536
+RLCraft_DecentSkeleton,-5076,-5076,8542,8542
+RLCraft_UndergroundRuin3,-5082,-5074,8539,8547
+ShrineSmallFire,-4811,-4801,8532,8542
+SmallOutpost,-4962,-4940,8576,8606

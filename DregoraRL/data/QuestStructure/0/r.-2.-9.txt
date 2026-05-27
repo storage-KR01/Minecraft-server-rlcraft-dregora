@@ -1,0 +1,14 @@
+StonePlantMound1,-1142,-1136,-5017,-5011
+P_Village2Story,-1143,-1130,-5050,-5044
+SeasonsGreenhouse,-1162,-1150,-5083,-5073
+VillageWoodMill,-1162,-1146,-5045,-5032
+VillageTriplets,-1162,-1148,-5023,-5009
+P_VillageFarmhouse,-1184,-1172,-5080,-5068
+VillageForgeLarge,-1190,-1178,-4991,-4975
+P_VillageHouse,-1202,-1191,-4978,-4969
+VillageHouseRich1,-1227,-1206,-4978,-4960
+RLCraft_BasicSkeleton,-1480,-1480,-5030,-5030
+RLCraft_UndergroundRuin1,-1486,-1477,-5036,-5027
+StonePlantMound,-1402,-1397,-4918,-4913
+BlazeSpawnerCrystal,-1164,-1158,-4720,-4714
+ShrineSmallAir,-1059,-1051,-4751,-4743

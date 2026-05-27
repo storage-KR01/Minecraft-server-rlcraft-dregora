@@ -1,0 +1,11 @@
+RLCraft_BasicSpider,-7188,-7188,-1324,-1324
+RLCraft_UndergroundRuin1,-7191,-7182,-1330,-1321
+RLCraft_BasicSpider,-7204,-7204,-1309,-1309
+RLCraft_UndergroundRuin1,-7210,-7201,-1312,-1303
+SmallClockworkSite,-7603,-7581,-1377,-1358
+StoneBoulder,-7615,-7606,-1399,-1390
+DinosaurSkull,-7658,-7647,-1516,-1497
+RLCraft_DecentWitch,-7635,-7635,-1324,-1324
+RLCraft_UndergroundRuin2,-7640,-7630,-1329,-1322
+RLCraft_DecentZombie,-7576,-7576,-1294,-1294
+RLCraft_UndergroundRuin2,-7581,-7574,-1299,-1289

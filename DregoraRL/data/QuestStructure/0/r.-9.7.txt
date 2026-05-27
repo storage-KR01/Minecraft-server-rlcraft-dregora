@@ -1,0 +1,8 @@
+RLCraft_DecentWitch,-4667,-4667,3913,3913
+RLCraft_UndergroundRuin2,-4672,-4665,3908,3918
+BlazeSpawnerCrystal,-4786,-4780,3792,3798
+RLCraft_SmallUndergroundSkeleton,-4644,-4636,3721,3729
+RLCraft_SmallUndergroundSkeleton,-4870,-4862,3609,3617
+RLCraft_SmallUndergroundSkeleton,-5071,-5063,3793,3801
+BigClockworkSite,-5107,-5072,3797,3842
+DesertWatchtower,-5119,-5109,3862,3872

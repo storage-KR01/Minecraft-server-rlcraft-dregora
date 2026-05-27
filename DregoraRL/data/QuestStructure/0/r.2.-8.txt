@@ -1,0 +1,8 @@
+BlazeSpawnerCrystal,1231,1237,-4193,-4187
+P_SmallShip,1280,1300,-4172,-4166
+RLCraft_BasicCaveSpider,1247,1247,-4420,-4420
+RLCraft_UndergroundRuin1,1241,1250,-4423,-4414
+ShrineSmallAir,1266,1274,-4446,-4438
+ShrineSmallFire,1224,1234,-4336,-4326
+RLCraft_DecentSkeleton,1430,1430,-4550,-4550
+RLCraft_UndergroundRuin2,1425,1435,-4552,-4545

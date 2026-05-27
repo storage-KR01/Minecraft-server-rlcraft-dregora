@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,-4178,-4170,16212,16220
+UndergroundTreeoid,-4192,-4166,16150,16173
+P_MayanTemple1,-4245,-4215,16125,16171
+FallenPalmTree,-4295,-4285,16069,16073
+UndergroundCrypt,-4343,-4329,16272,16300
+RLCraft_DecentCaveSpider,-4393,-4393,16286,16286
+RLCraft_UndergroundRuin2,-4395,-4388,16281,16291
+RLCraft_BasicSpider,-4314,-4314,16363,16363
+RLCraft_UndergroundRuin1,-4320,-4311,16360,16369

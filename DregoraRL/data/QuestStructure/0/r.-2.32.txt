@@ -1,0 +1,8 @@
+StatueTemple,-1578,-1476,16353,16424
+DinosaurSkeleton,-1389,-1380,16572,16618
+ShrineSmallFire,-1337,-1327,16443,16453
+RLCraft_DecentWitch,-1313,-1313,16384,16384
+StatueTemple,-1465,-1394,16612,16714
+P_Deqing,-1316,-1264,16749,16796
+SmallAbandonedMine,-1373,-1358,16790,16815
+RLCraft_SmallUndergroundSkeleton,-1473,-1465,16806,16814

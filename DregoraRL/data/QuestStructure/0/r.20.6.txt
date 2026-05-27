@@ -1,0 +1,9 @@
+RLCraft_BasicSkeleton,10278,10278,3460,3460
+RLCraft_UndergroundRuin1,10272,10281,3454,3463
+RLCraft_BasicWitch,10297,10297,3427,3427
+RLCraft_UndergroundRuin1,10294,10303,3421,3430
+RLCraft_DecentCaveSpider,10390,10390,3399,3399
+RLCraft_UndergroundRuin3,10385,10393,3393,3401
+RLCraft_AgentStarbuck_WaterBase,10454,10471,3395,3407
+RLCraft_DecentZombie,10583,10583,3489,3489
+RLCraft_UndergroundRuin2,10578,10588,3484,3491

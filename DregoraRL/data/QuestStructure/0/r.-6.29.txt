@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,-3563,-3555,14887,14895
+RLCraft_DecentZombie,-3566,-3566,15071,15071
+RLCraft_UndergroundRuin3,-3571,-3563,15069,15077
+RLCraft_DecentWitch,-3499,-3499,15041,15041
+RLCraft_UndergroundRuin2,-3504,-3494,15036,15043
+RLCraft_UndergroundFarm,-3526,-3484,15052,15095
+TribalJungleHead,-3496,-3486,15269,15279
+RLCraft_BasicCaveSpider,-3244,-3244,15140,15140
+RLCraft_UndergroundRuin1,-3247,-3238,15134,15143

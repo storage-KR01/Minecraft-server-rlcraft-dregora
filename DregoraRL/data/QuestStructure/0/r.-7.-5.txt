@@ -1,0 +1,9 @@
+MysticalTree2,-3742,-3732,-2584,-2574
+RLCraft_DecentSpider,-3800,-3800,-2651,-2651
+RLCraft_UndergroundRuin3,-3803,-3795,-2657,-2649
+StonePlantBoulder,-3733,-3723,-2610,-2600
+PeacefulCrypt,-3644,-3628,-2621,-2597
+StonePlantMound2,-3604,-3591,-2612,-2600
+StonePlantBoulder,-3670,-3660,-2655,-2645
+StonePlantBoulder,-3629,-3619,-2654,-2644
+StonePlantMound1,-3721,-3715,-2677,-2671

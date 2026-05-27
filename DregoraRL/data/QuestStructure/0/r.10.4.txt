@@ -1,0 +1,8 @@
+RLCraft_DecentCaveSpider,5557,5557,2131,2131
+RLCraft_UndergroundRuin2,5552,5562,2129,2136
+RLCraft_SmallUndergroundSkeleton,5507,5515,2260,2268
+MeteorSite,5450,5480,2321,2336
+SmallWoodenCottage,5438,5449,2293,2301
+RLCraft_FriendlyOutpost,5418,5457,2305,2373
+ShrineSmallFire,5555,5565,2441,2451
+P_WitchDungeon,5393,5410,2210,2244

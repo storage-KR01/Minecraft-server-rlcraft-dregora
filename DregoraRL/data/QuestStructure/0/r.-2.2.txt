@@ -1,0 +1,15 @@
+P_DesertTemple,-1137,-1087,1360,1409
+RLCraft_SmallUndergroundSkeleton,-1247,-1239,1366,1374
+DinosaurSkeleton,-1278,-1232,1264,1273
+DesertWatchtower,-1174,-1164,1211,1221
+RLCraft_SmallUndergroundSkeleton,-1262,-1254,1509,1517
+SmallClockworkSite,-1329,-1307,1212,1231
+DinosaurSkeleton,-1151,-1105,1022,1031
+ThreeTowers,-1074,-1043,1047,1079
+RLCraft_BasicSkeleton,-1358,-1358,1374,1374
+RLCraft_UndergroundRuin1,-1364,-1355,1368,1377
+SmallClockworkSite,-1317,-1295,1449,1468
+DesertBeacon,-1390,-1384,1512,1518
+P_DesertTemple,-1424,-1375,1505,1555
+FallenPalmTree,-1481,-1477,1245,1255
+BlazeSpawnerCrystal,-1432,-1426,1490,1496

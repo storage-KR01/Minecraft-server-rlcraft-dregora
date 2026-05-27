@@ -1,0 +1,13 @@
+SmallWoodenCottage2,1040,1048,-1552,-1544
+RLCraft_DecentZombie,1140,1140,-1537,-1537
+RLCraft_UndergroundRuin3,1138,1146,-1542,-1534
+RLCraft_DecentSpider,1304,1304,-1615,-1615
+RLCraft_UndergroundRuin2,1299,1309,-1620,-1613
+VillageTriplets,1185,1199,-2026,-2012
+SeasonsGreenhouse,1222,1234,-2013,-2003
+VillageForgeLarge,1215,1231,-1961,-1949
+P_VillageHouse,1222,1233,-1996,-1987
+VillageLargeLibrary,1243,1262,-1980,-1960
+P_VillageFarmhouse,1243,1255,-1995,-1983
+DinosaurSkull,1277,1288,-2011,-1992
+RLCraft_UndergroundFarm,1289,1332,-1998,-1956

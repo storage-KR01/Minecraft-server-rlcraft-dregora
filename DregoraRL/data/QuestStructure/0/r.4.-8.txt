@@ -1,0 +1,9 @@
+StonePlantMound4,2441,2448,-4285,-4278
+StonePlantMound1,2476,2482,-4285,-4279
+ShrineSmallWater,2416,2424,-4337,-4329
+RLCraft_DecentZombie,2544,2544,-4295,-4295
+RLCraft_UndergroundRuin2,2539,2549,-4297,-4290
+StoneBoulder,2547,2556,-4180,-4171
+RLCraft_BasicWitch,2360,2360,-4437,-4437
+RLCraft_UndergroundRuin1,2357,2366,-4443,-4434
+UndergroundTreeoid,2196,2219,-4395,-4369

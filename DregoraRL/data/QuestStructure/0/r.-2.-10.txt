@@ -1,0 +1,7 @@
+RLCraft_BasicWitch,-1130,-1130,-5304,-5304
+RLCraft_UndergroundRuin1,-1136,-1127,-5307,-5298
+P_Village2Story,-1260,-1247,-5436,-5430
+P_VillageInn,-1207,-1196,-5436,-5427
+RLCraft_Vineyard,-1221,-1193,-5466,-5446
+StonePlantMound,-1358,-1353,-5393,-5388
+P_VillageFarmhouse,-1265,-1253,-5466,-5454

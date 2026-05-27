@@ -1,0 +1,11 @@
+RLCraft_SmallUndergroundSkeleton,1000,1008,5624,5632
+StonePlantBoulder,971,981,5544,5554
+StonePlantMound1,897,903,5572,5578
+SmallWoodenCottage2,833,841,5436,5444
+StonePlantMound4,870,877,5553,5560
+StonePlantMound1,701,707,5563,5569
+StonePlantMound2,631,644,5547,5559
+RLCraft_DecentSpider,613,613,5541,5541
+RLCraft_UndergroundRuin2,608,618,5536,5543
+RLCraft_DecentZombie,596,596,5564,5564
+RLCraft_UndergroundRuin3,591,599,5558,5566

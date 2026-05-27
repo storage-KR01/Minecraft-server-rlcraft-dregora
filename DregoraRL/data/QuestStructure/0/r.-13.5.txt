@@ -1,0 +1,7 @@
+RLCraft_BasicWitch,-6692,-6692,2666,2666
+RLCraft_UndergroundRuin1,-6695,-6686,2660,2669
+RLCraft_BasicWitch,-6818,-6818,2612,2612
+RLCraft_UndergroundRuin1,-6821,-6812,2609,2618
+PeacefulCrypt,-6824,-6808,2622,2646
+RLCraft_DecentSkeleton,-6840,-6840,2607,2607
+RLCraft_UndergroundRuin2,-6845,-6835,2605,2612

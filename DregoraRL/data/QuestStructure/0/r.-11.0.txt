@@ -1,0 +1,16 @@
+RLCraft_DecentSkeleton,-5766,-5766,-321,-321
+RLCraft_UndergroundRuin2,-5771,-5764,-326,-316
+P_WitchDungeon,-5862,-5845,-356,-322
+BigClockworkSite,-5912,-5877,-266,-221
+StonePlantMound3,-5896,-5885,-299,-290
+RLCraft_SmallUndergroundSkeleton,-5837,-5829,-396,-388
+RLCraft_LargeUndergroundTown,-6160,-6023,-92,21
+RLCraft_BasicZombie,-5695,-5695,-412,-412
+RLCraft_UndergroundRuin1,-5701,-5692,-415,-406
+MeteorSite,-5666,-5636,458,473
+StoneLeafMound,-5828,-5819,318,325
+StonePlantBoulder,-5822,-5812,369,379
+SmallAbandonedMine,-5836,-5811,449,464
+SmallClockworkSite,-5962,-5943,453,475
+RLCraft_DecentSpider,-5967,-5967,434,434
+RLCraft_UndergroundRuin2,-5972,-5962,432,439

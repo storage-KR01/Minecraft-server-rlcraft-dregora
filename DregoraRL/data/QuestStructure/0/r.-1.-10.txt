@@ -1,0 +1,13 @@
+RLCraft_DecentCaveSpider,-625,-625,-5407,-5407
+RLCraft_UndergroundRuin3,-631,-623,-5410,-5402
+RLCraft_DecentWitch,-792,-792,-5527,-5527
+RLCraft_UndergroundRuin2,-794,-787,-5532,-5522
+BigClockworkSite,-597,-562,-5213,-5168
+P_VillageFarmhouse,-742,-730,-5168,-5156
+VillageLargeLibrary,-721,-702,-5167,-5147
+FallenPalmTree,-932,-928,-5394,-5384
+RLCraft_BasicZombie,-750,-750,-5134,-5134
+RLCraft_UndergroundRuin1,-753,-744,-5140,-5131
+VillageSavannaKitchen,-744,-734,-5134,-5122
+VillageSavannaLibrary,-714,-703,-5133,-5123
+FallenPalmTree,-583,-579,-5137,-5127

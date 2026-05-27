@@ -1,0 +1,12 @@
+RLCraft_BasicCaveSpider,-6568,-6568,-466,-466
+RLCraft_UndergroundRuin1,-6571,-6562,-469,-460
+RLCraft_DecentSpider,-6272,-6272,-436,-436
+RLCraft_UndergroundRuin2,-6277,-6267,-441,-434
+P_WizardTower,-6187,-6157,494,524
+RLCraft_DecentSpider,-6326,-6326,489,489
+RLCraft_UndergroundRuin2,-6328,-6321,484,494
+WoodWallRemains,-6632,-6604,346,354
+RLCraft_Airtes,-6600,-6585,463,478
+RLCraft_SmallUndergroundSkeleton,-6549,-6541,318,326
+ShrineSmallAir,-6301,-6293,117,125
+DinosaurSkull,-6258,-6247,215,234

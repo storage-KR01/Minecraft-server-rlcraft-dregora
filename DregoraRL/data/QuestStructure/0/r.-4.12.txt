@@ -1,0 +1,15 @@
+P_TempleOfErolith,-2098,-2005,6285,6367
+RLCraft_SmallUndergroundSkeleton,-2101,-2093,6430,6438
+RLCraft_DecentZombie,-2077,-2077,6198,6198
+RLCraft_DecentSkeleton,-2063,-2063,6197,6197
+RLCraft_UndergroundRuin2,-2065,-2058,6192,6202
+RLCraft_UndergroundRuin2,-2082,-2072,6196,6203
+RLCraft_SwampHut,-2109,-2069,6190,6222
+ShrineSmallAir,-2184,-2176,6206,6214
+DinosaurSkeleton,-2295,-2286,6502,6548
+RLCraft_SmallUndergroundSkeleton,-2287,-2279,6375,6383
+RLCraft_SmallUndergroundSkeleton,-2304,-2296,6449,6457
+UndergroundCultChamber,-2371,-2329,6259,6291
+P_WizardTower,-2431,-2401,6318,6348
+RLCraft_LargeUndergroundTown,-2487,-2350,6353,6466
+SmallClockworkSite,-2093,-2074,6135,6157

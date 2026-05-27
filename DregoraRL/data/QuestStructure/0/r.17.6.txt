@@ -1,0 +1,10 @@
+RLCraft_DecentWitch,8709,8709,3517,3517
+RLCraft_UndergroundRuin2,8707,8714,3512,3522
+RLCraft_BasicSkeleton,8820,8820,3485,3485
+RLCraft_UndergroundRuin1,8817,8826,3482,3491
+RLCraft_BasicCaveSpider,8956,8956,3369,3369
+RLCraft_UndergroundRuin1,8950,8959,3366,3375
+ShrineSmallFire,8968,8978,3439,3449
+RLCraft_UndergroundFarm,9065,9107,3264,3307
+RLCraft_DecentZombie,9169,9169,3298,3298
+RLCraft_UndergroundRuin3,9164,9172,3292,3300

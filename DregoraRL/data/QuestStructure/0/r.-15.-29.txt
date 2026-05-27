@@ -1,0 +1,7 @@
+StonePlantMound2,-8163,-8151,-15016,-15003
+RLCraft_DecentZombie,-8025,-8025,-15269,-15269
+RLCraft_UndergroundRuin2,-8030,-8023,-15274,-15264
+RLCraft_DecentSkeleton,-8129,-8129,-15303,-15303
+RLCraft_UndergroundRuin3,-8135,-8127,-15308,-15300
+UndergroundTreeoid,-8199,-8176,-15351,-15325
+StoneLeafMound,-8016,-8009,-15346,-15337

@@ -1,0 +1,7 @@
+RLCraft_DecentCaveSpider,-1314,-1314,14168,14168
+RLCraft_UndergroundRuin2,-1319,-1309,14163,14170
+P_WitchDungeon,-1440,-1423,14204,14238
+RLCraft_DecentSpider,-1400,-1400,14217,14217
+RLCraft_UndergroundRuin2,-1405,-1398,14212,14222
+RLCraft_SmallUndergroundSkeleton,-1423,-1415,14272,14280
+FallenPalmTree,-1385,-1381,14286,14296

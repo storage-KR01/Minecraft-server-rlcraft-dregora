@@ -1,0 +1,14 @@
+ShrineSmallAir,-7068,-7060,-15785,-15777
+SeasonsGreenhouse,-7038,-7028,-15735,-15723
+VillageTriplets,-7002,-6988,-15738,-15724
+P_VillageHouse,-7002,-6993,-15693,-15682
+P_Village2Story,-6997,-6984,-15706,-15700
+P_VillageFarmhouse,-6981,-6969,-15706,-15694
+VillageMarketplace,-6965,-6951,-15727,-15713
+UndergroundCultChamber,-6967,-6935,-15881,-15839
+RLCraft_Vineyard,-6930,-6910,-15716,-15688
+UndergroundCultChamber,-6915,-6883,-15673,-15631
+ShrineSmallFire,-6891,-6881,-15758,-15748
+SmallOutpost,-6993,-6963,-15570,-15548
+StoneBoulder,-6725,-6716,-15802,-15793
+StonePlantBoulder,-6717,-6707,-15786,-15776

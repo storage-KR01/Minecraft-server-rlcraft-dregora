@@ -1,0 +1,15 @@
+UndergroundCrypt,-10814,-10786,-13240,-13226
+RLCraft_PlainsCamp,-10830,-10791,-13167,-13121
+SmallWoodenCottage2,-10876,-10868,-13150,-13142
+RLCraft_PlainsCamp,-10880,-10834,-13120,-13081
+DinosaurSkeleton,-10893,-10884,-13228,-13182
+RLCraft_SmallUndergroundSkeleton,-11036,-11028,-13182,-13174
+RLCraft_PlainsCamp,-11047,-11008,-13110,-13064
+SmallClockworkSite,-11109,-11090,-13024,-13002
+RLCraft_UndergroundFarm,-11172,-11130,-13126,-13083
+ShrineSmallFire,-11175,-11165,-13156,-13146
+P_SpookyHouse,-11189,-11163,-13068,-13028
+SmallClockworkSite,-11234,-11212,-13089,-13070
+AbandonedWoodTower,-11161,-11125,-13250,-13220
+RLCraft_SmallUndergroundSkeleton,-11259,-11251,-13010,-13002
+RLCraft_LargeUndergroundTown,-11223,-11086,-12937,-12824

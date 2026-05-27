@@ -1,0 +1,9 @@
+RLCraft_DecentCaveSpider,-10199,-10199,4504,4504
+RLCraft_UndergroundRuin3,-10205,-10197,4499,4507
+DesertHut,-10059,-10049,4503,4512
+RLCraft_SmallUndergroundSkeleton,-10096,-10088,4467,4475
+RLCraft_UndergroundFarm,-10046,-10003,4563,4605
+RLCraft_BasicSkeleton,-9881,-9881,4549,4549
+RLCraft_UndergroundRuin1,-9887,-9878,4546,4555
+SmallClockworkSite,-9923,-9901,4473,4492
+SmallWoodenCottage1,-9810,-9799,4470,4476

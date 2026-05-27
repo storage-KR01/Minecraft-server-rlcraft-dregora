@@ -1,0 +1,16 @@
+RLCraft_DecentZombie,-12797,-12797,-15997,-15997
+RLCraft_UndergroundRuin2,-12802,-12795,-16002,-15992
+StoneIceBoulder,-12696,-12687,-15884,-15874
+DinosaurSkull,-12765,-12746,-16023,-16012
+DinosaurSkeleton,-12674,-12665,-15980,-15934
+BrickHenge,-12582,-12566,-16048,-16032
+RLCraft_SmallTown,-12733,-12662,-16118,-16043
+RLCraft_SmallUndergroundSkeleton,-12508,-12500,-15911,-15903
+RLCraft_BasicSkeleton,-12485,-12485,-16132,-16132
+RLCraft_UndergroundRuin1,-12491,-12482,-16138,-16129
+AbandonedWoodTower,-12321,-12291,-16056,-16020
+RLCraft_BasicWitch,-12314,-12314,-15933,-15933
+RLCraft_UndergroundRuin1,-12317,-12308,-15936,-15927
+RLCraft_DecentZombie,-12326,-12326,-16180,-16180
+RLCraft_UndergroundRuin3,-12329,-12321,-16182,-16174
+P_WitchDungeon,-12385,-12351,-16315,-16298

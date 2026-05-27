@@ -1,0 +1,7 @@
+RLCraft_SmallTown,-5355,-5284,-12399,-12324
+RLCraft_DecentWitch,-5194,-5194,-12410,-12410
+RLCraft_UndergroundRuin2,-5199,-5189,-12415,-12408
+RLCraft_DecentSkeleton,-5208,-5208,-12310,-12310
+RLCraft_UndergroundRuin2,-5213,-5203,-12312,-12305
+PeacefulCrypt,-5458,-5442,-12635,-12611
+P_Tent,-5442,-5433,-12784,-12775

@@ -1,0 +1,17 @@
+DesertWatchtower,5925,5935,2729,2739
+DesertHut,5672,5682,2650,2659
+RLCraft_SmallUndergroundSkeleton,5864,5872,2674,2682
+RLCraft_DecentCaveSpider,5779,5779,2689,2689
+RLCraft_UndergroundRuin3,5776,5784,2683,2691
+DesertWatchtower,5929,5939,2630,2640
+DinosaurSkeleton,5965,6011,2756,2765
+RLCraft_DecentSpider,5843,5843,2794,2794
+RLCraft_UndergroundRuin2,5838,5848,2789,2796
+DinosaurSkeleton,6058,6104,2662,2671
+RLCraft_LargeUndergroundTown,6072,6185,2699,2836
+DesertBeacon,5723,5729,2807,2813
+SmallClockworkSite,5740,5762,2893,2912
+RLCraft_SmallUndergroundSkeleton,5830,5838,2994,3002
+SmallClockworkSite,6097,6119,2857,2876
+RLCraft_SmallUndergroundSkeleton,6097,6105,2970,2978
+RLCraft_SmallUndergroundSkeleton,6014,6022,2994,3002

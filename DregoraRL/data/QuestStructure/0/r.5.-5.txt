@@ -1,0 +1,16 @@
+RLCraft_Vineyard,2614,2634,-2832,-2804
+VillageHouseRich,2612,2627,-2795,-2776
+VillageInn,2637,2664,-2888,-2868
+SeasonsGreenhouse,2588,2598,-2795,-2783
+VillageLargeLibrary,2571,2590,-2782,-2762
+VillageForgeLarge,2579,2595,-2830,-2818
+VillageMarketplace,2578,2592,-2850,-2836
+P_VillageFarmhouse,2571,2583,-2795,-2783
+P_LargeShip,2774,2834,-2698,-2680
+P_Village2Story,2576,2589,-2880,-2874
+DinosaurSkeleton,2742,2751,-2945,-2899
+StoneBoulder,2586,2595,-2661,-2652
+ClayWaterMound1,2604,2615,-2598,-2588
+RLCraft_DecentSpider,2953,2953,-2992,-2992
+RLCraft_UndergroundRuin2,2948,2955,-2997,-2987
+BlazeSpawnerCrystal,2924,2930,-3033,-3027

@@ -1,0 +1,9 @@
+RLCraft_UndergroundRuin1,-1563,-1554,15868,15877
+PirateChest,-1697,-1693,16103,16107
+RLCraft_SmallUndergroundSkeleton,-1747,-1739,16128,16136
+P_Deqing,-1803,-1756,16019,16071
+RLCraft_DecentSpider,-1595,-1595,16284,16284
+RLCraft_UndergroundRuin3,-1597,-1589,16279,16287
+DinosaurSkull,-1651,-1640,16246,16265
+RLCraft_BasicWitch,-1617,-1617,16352,16352
+RLCraft_UndergroundRuin1,-1623,-1614,16346,16355

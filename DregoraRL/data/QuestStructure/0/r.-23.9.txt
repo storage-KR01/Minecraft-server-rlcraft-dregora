@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-11927,-11919,5040,5048
+RLCraft_PlainsWindmill,-11903,-11818,4954,5025
+RLCraft_SmallUndergroundSkeleton,-11824,-11816,4940,4948
+RLCraft_DecentSpider,-12030,-12030,5094,5094
+RLCraft_UndergroundRuin2,-12035,-12025,5092,5099
+RLCraft_SmallUndergroundSkeleton,-11836,-11828,4874,4882

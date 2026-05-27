@@ -1,0 +1,15 @@
+DinosaurSkull,-7426,-7415,-33,-14
+RLCraft_DesertTown,-7419,-7353,8,74
+RLCraft_DecentWitch,-7443,-7443,55,55
+RLCraft_UndergroundRuin3,-7448,-7440,53,61
+RLCraft_SmallUndergroundSkeleton,-7583,-7575,-119,-111
+RLCraft_DecentSkeleton,-7618,-7618,-76,-76
+RLCraft_UndergroundRuin3,-7624,-7616,-81,-73
+RLCraft_SmallUndergroundSkeleton,-7625,-7617,82,90
+RLCraft_LargeUndergroundTown,-7687,-7550,-31,82
+RLCraft_DecentSkeleton,-7644,-7644,-129,-129
+RLCraft_UndergroundRuin3,-7650,-7642,-134,-126
+RLCraft_DecentZombie,-7666,-7666,-144,-144
+RLCraft_UndergroundRuin2,-7668,-7661,-149,-139
+RLCraft_DecentSkeleton,-7388,-7388,490,490
+RLCraft_UndergroundRuin2,-7393,-7386,485,495

@@ -1,0 +1,9 @@
+RLCraft_DecentWitch,-15877,-15877,18307,18307
+RLCraft_UndergroundRuin2,-15882,-15875,18302,18312
+RLCraft_SmallUndergroundSkeleton,-15965,-15957,18019,18027
+ShrineSmallFire,-15990,-15980,18281,18291
+RLCraft_DecentZombie,-16056,-16056,18053,18053
+RLCraft_UndergroundRuin3,-16059,-16051,18047,18055
+RLCraft_SmallUndergroundSkeleton,-16066,-16058,18017,18025
+RLCraft_SmallUndergroundSkeleton,-16074,-16066,18275,18283
+DinosaurSkull,-16202,-16191,18208,18227

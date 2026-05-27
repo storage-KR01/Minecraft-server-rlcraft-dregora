@@ -1,0 +1,13 @@
+P_MayanTemple2,-8189,-8090,-17424,-17356
+P_WitchDungeon,-8127,-8110,-17313,-17279
+RLCraft_SmallUndergroundSkeleton,-8053,-8045,-17190,-17182
+RLCraft_DecentCaveSpider,-7980,-7980,-17200,-17200
+RLCraft_UndergroundRuin2,-7985,-7975,-17205,-17198
+SpiderPit,-8057,-8048,-16967,-16957
+RLCraft_DecentSpider,-7950,-7950,-16975,-16975
+RLCraft_UndergroundRuin3,-7956,-7948,-16980,-16972
+RLCraft_SmallUndergroundSkeleton,-7921,-7913,-17229,-17221
+RLCraft_UndergroundFarm,-7937,-7894,-17014,-16972
+DinosaurSkull,-7963,-7952,-17358,-17339
+RLCraft_DecentZombie,-7892,-7892,-17385,-17385
+RLCraft_UndergroundRuin3,-7895,-7887,-17387,-17379

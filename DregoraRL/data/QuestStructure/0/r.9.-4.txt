@@ -1,0 +1,8 @@
+StonePlantMound1,4648,4654,-2493,-2487
+StonePlantMound4,4773,4780,-2555,-2548
+RLCraft_FriendlyOutpost,4783,4822,-2552,-2484
+StonePlantMound1,4852,4858,-2495,-2489
+StonePlantBoulder,4885,4895,-2515,-2505
+RLCraft_SmallUndergroundSkeleton,4948,4956,-2544,-2536
+RLCraft_UndergroundFarm,4839,4882,-2381,-2339
+RLCraft_SmallUndergroundSkeleton,5055,5063,-2053,-2045

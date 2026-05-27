@@ -1,0 +1,15 @@
+StonePlantBoulder,-2830,-2820,6891,6901
+StonePlantMound2,-2839,-2827,6880,6893
+StonePlantMound3,-2856,-2845,6926,6935
+ShrineSmallWater,-2863,-2855,6704,6712
+StonePlantMound2,-2680,-2668,6980,6993
+RLCraft_FriendlyOutpost,-2703,-2664,6950,7018
+RLCraft_DecentCaveSpider,-2969,-2969,6958,6958
+RLCraft_UndergroundRuin3,-2971,-2963,6955,6963
+ShrineSmallAir,-2984,-2976,6919,6927
+MysticalTree1,-3015,-3004,7088,7101
+StoneBoulder,-2929,-2920,7075,7084
+StoneLeafMound,-2908,-2899,7101,7108
+StonePlantMound2,-2951,-2938,7106,7118
+StoneBoulder,-2946,-2937,7127,7136
+StonePlantMound2,-2923,-2910,7137,7149

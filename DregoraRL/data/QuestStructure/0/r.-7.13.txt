@@ -1,0 +1,8 @@
+UndergroundCrypt,-4035,-4021,6644,6672
+RLCraft_DecentZombie,-4033,-4033,6729,6729
+RLCraft_UndergroundRuin3,-4036,-4028,6723,6731
+StonePlantMound3,-3960,-3951,6801,6812
+RLCraft_LargeUndergroundTown,-4077,-3964,6926,7063
+StoneLeafMound,-3698,-3689,7004,7011
+P_SmallShip,-3645,-3639,6963,6983
+ShrineSmallFire,-3692,-3682,6873,6883

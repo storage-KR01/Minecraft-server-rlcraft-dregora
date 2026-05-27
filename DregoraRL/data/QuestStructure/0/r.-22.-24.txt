@@ -1,0 +1,8 @@
+RLCraft_DecentSkeleton,-11294,-11294,-12790,-12790
+RLCraft_UndergroundRuin3,-11299,-11291,-12796,-12788
+DinosaurSkull,-11280,-11261,-12731,-12720
+CuboneSkull,-11420,-11359,-12655,-12597
+BlazeSpawnerCrystal,-11396,-11390,-12625,-12619
+RLCraft_DecentSpider,-11274,-11274,-12518,-12518
+RLCraft_UndergroundRuin2,-11279,-11269,-12520,-12513
+DinosaurSkeleton,-11335,-11326,-12385,-12339

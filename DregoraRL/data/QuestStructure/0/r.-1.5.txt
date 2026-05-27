@@ -1,0 +1,8 @@
+RLCraft_DecentSpider,-521,-521,2707,2707
+RLCraft_UndergroundRuin3,-523,-515,2704,2712
+ShrineSmallAir,-627,-619,2916,2924
+ShrineSmallWater,-613,-605,3009,3017
+UndergroundCrypt,-628,-614,3014,3042
+RLCraft_AgentStarbuck_WaterBase,-907,-890,2830,2842
+P_SmallShip,-822,-816,2832,2852
+P_IslandCity,-1052,-746,2651,2985

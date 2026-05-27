@@ -1,0 +1,15 @@
+SmallWoodenCottage2,3467,3475,-2055,-2047
+SpiderPit,3524,3534,-2073,-2064
+RLCraft_DecentSkeleton,3541,3541,-2076,-2076
+RLCraft_UndergroundRuin2,3536,3543,-2081,-2071
+StonePlantMound3,3521,3530,-2092,-2081
+AbandonedWoodTower,3488,3518,-2099,-2063
+StoneLeafMound,3501,3508,-2222,-2213
+StonePlantMound1,3423,3429,-2265,-2259
+BrickHenge,3563,3579,-2309,-2293
+StonePlantMound4,3561,3568,-2333,-2326
+BlazeSpawnerCrystal,3521,3527,-2369,-2363
+RLCraft_DecentCaveSpider,3507,3507,-2447,-2447
+RLCraft_UndergroundRuin2,3502,3512,-2449,-2442
+StoneLeafMound,3490,3499,-2456,-2449
+StoneLeafMound,3354,3361,-2469,-2460

@@ -1,0 +1,14 @@
+UnnaturalCrater,-4657,-4617,-5724,-5684
+StonePlantMound4,-5095,-5088,-5644,-5637
+ShrineSmallAir,-5022,-5014,-5692,-5684
+SmallFortRuins,-5002,-4970,-5737,-5707
+StonePlantMound3,-5125,-5114,-5893,-5884
+StonePlantMound4,-5116,-5109,-5956,-5949
+StonePlantBoulder,-5024,-5014,-5806,-5796
+RLCraft_SmallUndergroundSkeleton,-5029,-5021,-5825,-5817
+StonePlantBoulder,-5036,-5026,-5936,-5926
+StonePlantMound1,-5013,-5007,-5940,-5934
+ElvenPond,-4995,-4965,-5903,-5874
+MysticalTree2,-4965,-4955,-5752,-5742
+MysticalTree,-4948,-4933,-5899,-5883
+StonePlantMound2,-4915,-4902,-5870,-5858

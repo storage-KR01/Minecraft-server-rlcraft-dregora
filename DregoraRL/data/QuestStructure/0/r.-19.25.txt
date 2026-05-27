@@ -1,0 +1,10 @@
+RLCraft_DecentZombie,-9928,-9928,12881,12881
+RLCraft_UndergroundRuin2,-9930,-9923,12876,12886
+StonePlantMound3,-9853,-9842,12842,12851
+BrickHenge,-9821,-9805,12828,12844
+StonePlantMound2,-9787,-9774,12799,12811
+SmallWoodenCottage,-9860,-9852,12902,12913
+RLCraft_DecentZombie,-9734,-9734,13088,13088
+RLCraft_UndergroundRuin2,-9736,-9729,13083,13093
+DinosaurSkull,-9792,-9773,13127,13138
+DinosaurSkull,-9755,-9744,13180,13199
