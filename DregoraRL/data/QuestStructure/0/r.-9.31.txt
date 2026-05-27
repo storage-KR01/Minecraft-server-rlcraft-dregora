@@ -1,0 +1,3 @@
+ShrineSmallWater,-4658,-4650,16373,16381
+P_LargeShip,-4786,-4768,16076,16136
+RLCraft_AgentStarbuck_WaterBase,-4832,-4815,16198,16210

@@ -1,0 +1,3 @@
+ThreeTowers,-10261,-10229,12077,12108
+RLCraft_DecentWitch,-10639,-10639,12139,12139
+RLCraft_UndergroundRuin2,-10644,-10634,12134,12141

@@ -1,0 +1,3 @@
+UndergroundCultChamber,-5759,-5727,16307,16349
+RLCraft_DecentSkeleton,-5718,-5718,16262,16262
+RLCraft_UndergroundRuin3,-5724,-5716,16259,16267

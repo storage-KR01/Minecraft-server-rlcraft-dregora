@@ -1,0 +1,4 @@
+DesertHut,-7188,-7178,2197,2206
+DesertBeacon,-7218,-7212,2099,2105
+BlazeSpawnerCrystal,-7267,-7261,2141,2147
+DinosaurSkeleton,-7351,-7342,2099,2145

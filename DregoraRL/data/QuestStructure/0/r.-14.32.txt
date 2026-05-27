@@ -1,0 +1,3 @@
+ShrineSmallWater,-7312,-7304,16596,16604
+RLCraft_DecentSkeleton,-7631,-7631,16658,16658
+RLCraft_UndergroundRuin3,-7634,-7626,16652,16660

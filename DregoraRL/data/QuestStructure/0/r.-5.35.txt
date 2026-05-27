@@ -1,0 +1,3 @@
+ShrineSmallWater,-2637,-2629,18091,18099
+ShrineSmallFire,-3000,-2990,17970,17980
+RLCraft_AgentStarbuck_WaterBase,-3015,-2998,17955,17967

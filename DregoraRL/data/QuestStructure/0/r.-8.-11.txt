@@ -1,0 +1,3 @@
+RLCraft_cryo_bit,-4558,-4533,-5693,-5668
+RLCraft_DecentZombie,-4521,-4521,-5710,-5710
+RLCraft_UndergroundRuin3,-4527,-4519,-5715,-5707

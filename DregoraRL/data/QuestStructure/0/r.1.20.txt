@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,937,945,10510,10518
+SmallAbandonedMine,997,1022,10536,10551
+DinosaurSkeleton,955,1001,10694,10703

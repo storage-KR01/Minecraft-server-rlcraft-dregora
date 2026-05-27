@@ -1,0 +1,3 @@
+RLCraft_DecentSpider,-10635,-10635,5497,5497
+RLCraft_UndergroundRuin3,-10640,-10632,5491,5499
+FallenPalmTree,-10550,-10540,5494,5498

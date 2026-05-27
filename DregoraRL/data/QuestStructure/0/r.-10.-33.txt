@@ -1,0 +1,3 @@
+UndergroundCultChamber,-5511,-5479,-16941,-16899
+DinosaurSkeleton,-5478,-5432,-16945,-16936
+ShrineSmallAir,-5559,-5551,-17010,-17002

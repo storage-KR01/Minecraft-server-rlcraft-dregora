@@ -1,0 +1,3 @@
+StonePlantMound2,4483,4495,-2467,-2454
+RLCraft_BasicZombie,4538,4538,-2447,-2447
+RLCraft_UndergroundRuin1,4532,4541,-2453,-2444
