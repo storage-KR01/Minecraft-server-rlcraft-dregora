@@ -1,0 +1,2 @@
+DesertBeacon,-9333,-9327,11705,11711
+SmallClockworkSite,-9375,-9353,11704,11723

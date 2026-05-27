@@ -1,0 +1,2 @@
+RLCraft_PlainsCamp,-11796,-11757,6138,6184
+P_WizardTower,-11889,-11859,6194,6224

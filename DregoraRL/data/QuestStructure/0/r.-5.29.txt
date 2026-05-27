@@ -1,0 +1,2 @@
+ClayWaterMound1,-2572,-2561,15081,15091
+ShrineSmallFire,-2666,-2656,15047,15057

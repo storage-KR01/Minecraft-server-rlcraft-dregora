@@ -1,0 +1,2 @@
+BlazeSpawnerCrystal,3236,3242,382,388
+BlazeSpawnerCrystal,3506,3512,-356,-350

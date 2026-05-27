@@ -1,0 +1,2 @@
+P_VillageFarmhouse,-6171,-6159,3087,3099
+BlazeSpawnerCrystal,-6390,-6384,3107,3113

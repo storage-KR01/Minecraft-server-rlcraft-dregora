@@ -1,0 +1,2 @@
+RLCraft_SwampHut,1025,1057,10478,10518
+UndergroundCultChamber,1035,1077,10557,10589
