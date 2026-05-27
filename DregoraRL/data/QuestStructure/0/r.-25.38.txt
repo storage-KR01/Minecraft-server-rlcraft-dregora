@@ -1,0 +1,2 @@
+VillageForgeLarge,-13164,-13152,19450,19466
+P_VillageFarmhouse,-13224,-13212,19462,19474

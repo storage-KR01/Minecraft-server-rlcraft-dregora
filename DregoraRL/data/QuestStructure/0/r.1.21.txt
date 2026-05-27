@@ -1,0 +1,3 @@
+RLCraft_BasicSpider,941,941,10837,10837
+RLCraft_UndergroundRuin1,938,947,10831,10840
+AbandonedWoodTower,759,789,11001,11037

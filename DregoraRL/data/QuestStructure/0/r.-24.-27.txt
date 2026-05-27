@@ -1,0 +1,2 @@
+DesertBeacon,-12796,-12790,-13997,-13991
+RLCraft_SmallUndergroundSkeleton,-12677,-12669,-13966,-13958

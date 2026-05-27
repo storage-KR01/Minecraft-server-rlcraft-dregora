@@ -1,0 +1,2 @@
+RLCraft_End_Obsidian_Tree,2612,2641,-1418,-1378
+RLCraft_End_Giest_Tower,2734,2749,-1127,-1114

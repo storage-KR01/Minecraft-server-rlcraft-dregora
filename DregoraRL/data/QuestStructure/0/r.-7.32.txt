@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,-3929,-3921,16390,16398
+FallenPalmTree,-4094,-4084,16431,16435

@@ -1,0 +1,3 @@
+ShrineSmallFire,-5796,-5786,10305,10315
+UndergroundTreeoid,-5995,-5972,10417,10443
+ShrineSmallFire,-5805,-5795,10653,10663

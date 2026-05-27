@@ -1,0 +1,2 @@
+Dregora_End_Garden,1540,1554,-914,-900
+RLCraft_End_Obsidian_Spike_3,1544,1570,-1001,-985

@@ -1,0 +1,2 @@
+RLCraft_AgentStarbuck_WaterBase,2951,2968,-4692,-4680
+RLCraft_UndergroundFarm,2786,2828,-4798,-4755

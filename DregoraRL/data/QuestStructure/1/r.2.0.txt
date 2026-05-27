@@ -1,0 +1,2 @@
+RLCraft_End_Obsidian_Spike_2,1045,1058,-400,-385
+RLCraft_End_Floating_Crystal,1257,1271,-402,-388

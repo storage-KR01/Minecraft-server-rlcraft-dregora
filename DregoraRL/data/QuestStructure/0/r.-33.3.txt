@@ -1,0 +1,3 @@
+StonePlantMound,-17211,-17206,1996,2001
+StonePlantMound,-17320,-17315,1951,1956
+StonePlantMound2,-17283,-17271,1912,1925

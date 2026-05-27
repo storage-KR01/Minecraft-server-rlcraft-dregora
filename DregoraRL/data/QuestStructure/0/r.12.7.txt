@@ -1,0 +1,3 @@
+StonePlantBoulder,6421,6431,3673,3683
+StonePlantMound3,6420,6431,3741,3750
+ShrineSmallFire,6249,6259,3779,3789

@@ -1,0 +1,3 @@
+StonePlantMound,-1591,-1586,-4846,-4841
+StonePlantMound3,-1828,-1819,-4707,-4696
+StonePlantMound4,-1855,-1848,-4699,-4692

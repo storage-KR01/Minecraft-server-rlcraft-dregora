@@ -1,0 +1,3 @@
+RLCraft_DecentSpider,-9655,-9655,5770,5770
+RLCraft_UndergroundRuin2,-9660,-9650,5765,5772
+PeacefulCrypt,-9675,-9651,5878,5894

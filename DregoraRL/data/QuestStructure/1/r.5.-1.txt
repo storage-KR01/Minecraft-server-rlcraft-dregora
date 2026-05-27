@@ -1,0 +1,2 @@
+RLCraft_End_Obsidian_Spike_3,2743,2759,-697,-671
+RLCraft_End_Obsidian_Spike_2,2622,2635,-533,-518

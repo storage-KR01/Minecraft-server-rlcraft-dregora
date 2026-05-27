@@ -1,0 +1,3 @@
+PeacefulCrypt,-5365,-5349,7162,7186
+CorruptedEnderTree,-5134,-5123,7287,7300
+SmallAbandonedMine,-5239,-5214,7413,7428

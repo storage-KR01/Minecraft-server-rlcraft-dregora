@@ -1,0 +1,3 @@
+UndergroundCrypt,-4326,-4312,14397,14425
+ShrineSmallAir,-4110,-4102,14493,14501
+ShrineSmallWater,-4114,-4106,14640,14648

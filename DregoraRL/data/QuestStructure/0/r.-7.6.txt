@@ -1,0 +1,3 @@
+StonePlantMound3,-3881,-3872,3257,3268
+SmallWoodenCottage,-3826,-3815,3095,3103
+StonePlantMound2,-3825,-3813,3106,3119

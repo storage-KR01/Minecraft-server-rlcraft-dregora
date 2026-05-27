@@ -1,0 +1,3 @@
+VillageLargeLibrary,5389,5408,13864,13884
+SeasonsGreenhouse,5366,5378,13869,13879
+VillageWoodMill,5366,5382,13914,13927

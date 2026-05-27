@@ -1,0 +1,3 @@
+BigClockworkSite,-11614,-11579,5255,5300
+SmallWoodenCottage,-11496,-11488,5168,5179
+DinosaurSkeleton,-11506,-11460,5152,5161

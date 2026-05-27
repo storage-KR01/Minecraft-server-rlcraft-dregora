@@ -1,0 +1,3 @@
+SmallAbandonedOutpost,-4881,-4851,5250,5272
+StoneBoulder,-4813,-4804,5386,5395
+PeacefulCrypt,-4733,-4717,5596,5620

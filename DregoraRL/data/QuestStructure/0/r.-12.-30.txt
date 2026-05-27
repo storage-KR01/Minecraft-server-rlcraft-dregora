@@ -1,0 +1,2 @@
+UndergroundCultChamber,-6541,-6499,-15610,-15578
+P_AncientTeleporter,-6467,-6434,-15600,-15565

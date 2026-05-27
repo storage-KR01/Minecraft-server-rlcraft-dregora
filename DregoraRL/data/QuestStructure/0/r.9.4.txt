@@ -1,0 +1,3 @@
+PeacefulCrypt,5047,5071,2130,2146
+RLCraft_BasicSkeleton,5099,5099,2144,2144
+RLCraft_UndergroundRuin1,5093,5102,2141,2150

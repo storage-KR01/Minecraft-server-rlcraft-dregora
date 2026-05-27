@@ -1,0 +1,2 @@
+RLCraft_End_Meteor_Site,2497,2532,-581,-560
+RLCraft_End_Decoration_1,2492,2502,-530,-520

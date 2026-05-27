@@ -1,0 +1,3 @@
+ShrineSmallFire,-8247,-8237,11390,11400
+DinosaurSkeleton,-8689,-8680,11255,11301
+FallenPalmTree,-8617,-8607,11380,11384

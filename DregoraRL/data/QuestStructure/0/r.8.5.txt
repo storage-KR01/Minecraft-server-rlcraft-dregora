@@ -1,0 +1,3 @@
+StonePlantMound3,4113,4124,3018,3027
+RLCraft_DecentSkeleton,4164,4164,3050,3050
+RLCraft_UndergroundRuin2,4162,4169,3045,3055

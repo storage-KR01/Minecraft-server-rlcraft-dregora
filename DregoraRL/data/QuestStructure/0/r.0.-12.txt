@@ -1,0 +1,3 @@
+DinosaurSkull,446,457,-6225,-6206
+P_DesertDungeon,302,354,-6266,-6213
+P_SpookyHouse,406,432,-6374,-6334

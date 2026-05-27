@@ -1,0 +1,2 @@
+RLCraft_SmallUndergroundSkeleton,-688,-680,4608,4616
+SmallFortRuinsJapanese,-715,-669,4637,4683

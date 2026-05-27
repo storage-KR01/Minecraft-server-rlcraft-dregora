@@ -1,0 +1,3 @@
+ClayWaterMound,734,741,11444,11452
+DinosaurSkeleton,626,672,11502,11511
+RLCraft_SmallUndergroundSkeleton,544,552,11407,11415
