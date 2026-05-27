@@ -1,0 +1,2 @@
+StonePlantMound4,-521,-514,3764,3771
+WoodThornBig,-590,-577,3847,3860

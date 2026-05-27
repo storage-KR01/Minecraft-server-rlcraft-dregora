@@ -1,0 +1,2 @@
+ShrineSmallAir,-5345,-5337,8675,8683
+RLCraft_Airtes,-5391,-5376,8522,8537
