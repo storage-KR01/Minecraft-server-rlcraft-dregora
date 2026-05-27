@@ -1,0 +1,2 @@
+ShrineSmallWater,-12323,-12315,3,11
+UndergroundCrypt,-12452,-12424,100,114
