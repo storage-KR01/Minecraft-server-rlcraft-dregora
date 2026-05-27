@@ -1,0 +1,4 @@
+ClayWaterMound1,600,611,-5796,-5786
+StonePlantMound2,608,620,-5890,-5877
+RLCraft_DecentZombie,570,570,-5863,-5863
+RLCraft_UndergroundRuin2,565,572,-5868,-5858

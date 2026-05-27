@@ -1,0 +1,4 @@
+ShrineSmallFire,-19590,-19580,16002,16012
+RLCraft_BasicWitch,-19737,-19737,15914,15914
+RLCraft_UndergroundRuin1,-19743,-19734,15911,15920
+Tree_Oak_TheMushroomOak_v3,-19802,-19743,15878,15928

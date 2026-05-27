@@ -1,0 +1,5 @@
+P_LargeShip,-2907,-2847,5172,5190
+StoneLeafMound,-2800,-2791,5505,5512
+StonePlantMound1,-2909,-2903,5464,5470
+UndergroundCrypt,-2591,-2563,5434,5448
+StonePlantMound3,-2579,-2568,5426,5435

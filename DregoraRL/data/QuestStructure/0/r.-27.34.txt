@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,-14005,-14005,17855,17855
+RLCraft_UndergroundRuin2,-14010,-14003,17850,17860
+DesertBeacon,-14061,-14055,17874,17880
+BlazeSpawnerCrystal,-14121,-14115,17773,17779

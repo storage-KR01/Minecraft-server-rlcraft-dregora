@@ -1,0 +1,5 @@
+StonePlantMound1,-7412,-7406,-14802,-14796
+StonePlantMound1,-7565,-7559,-14590,-14584
+StonePlantMound1,-7587,-7581,-14584,-14578
+StoneBoulder,-7633,-7624,-14572,-14563
+ShrineSmallFire,-7659,-7649,-14467,-14457

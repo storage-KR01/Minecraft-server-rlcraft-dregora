@@ -1,0 +1,4 @@
+RLCraft_BasicWitch,14121,14121,3370,3370
+RLCraft_UndergroundRuin1,14115,14124,3367,3376
+RLCraft_BasicZombie,14106,14106,3351,3351
+RLCraft_UndergroundRuin1,14100,14109,3348,3357

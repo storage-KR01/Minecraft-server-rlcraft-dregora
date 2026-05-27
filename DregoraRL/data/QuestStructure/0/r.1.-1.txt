@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,770,778,-908,-900
+ShrineSmallFire,701,711,-816,-806
+DesertHut,628,638,-929,-920
+BlazeSpawnerCrystal,601,607,-825,-819
+RLCraft_BasicZombie,989,989,-803,-803
+RLCraft_UndergroundRuin1,986,995,-806,-797
+RLCraft_SmallUndergroundSkeleton,894,902,-698,-690

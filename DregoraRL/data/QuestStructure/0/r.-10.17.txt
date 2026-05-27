@@ -1,0 +1,7 @@
+DinosaurSkull,-5226,-5215,8732,8751
+SmallAbandonedMine,-5167,-5142,8791,8806
+DinosaurSkeleton,-5211,-5202,8801,8847
+DinosaurSkeleton,-5368,-5359,8822,8868
+DinosaurSkull,-5302,-5283,8839,8850
+RLCraft_DecentCaveSpider,-5173,-5173,8918,8918
+RLCraft_UndergroundRuin2,-5178,-5168,8916,8923

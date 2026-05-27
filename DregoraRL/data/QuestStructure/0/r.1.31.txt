@@ -1,0 +1,6 @@
+P_LargeShip,525,543,15980,16040
+ShrineSmallAir,572,580,16114,16122
+RLCraft_DecentZombie,669,669,16015,16015
+RLCraft_UndergroundRuin2,664,674,16010,16017
+ShrineSmallWater,565,573,16181,16189
+UndergroundTreeoid,654,677,16241,16267

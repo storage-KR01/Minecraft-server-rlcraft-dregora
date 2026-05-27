@@ -1,0 +1,5 @@
+RLCraft_End_Decoration_2,7,17,54,64
+RLCraft_End_Saucer,234,248,10,24
+RLCraft_End_Ship_Split_Front,169,193,148,163
+RLCraft_End_Ship_Split_Front,-5,10,163,187
+RLCraft_End_Meteor_Site,387,408,-158,-123

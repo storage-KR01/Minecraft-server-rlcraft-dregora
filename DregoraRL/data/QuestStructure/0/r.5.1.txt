@@ -1,0 +1,5 @@
+UndergroundTreeoid,2594,2620,850,873
+P_CultIsland,2457,2667,753,923
+RLCraft_AgentStarbuck_WaterBase,2782,2799,770,782
+P_IslandCity,2517,2851,716,1022
+ShrineSmallAir,2681,2689,528,536

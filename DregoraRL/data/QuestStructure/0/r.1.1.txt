@@ -1,0 +1,5 @@
+ShrineSmallFire,541,551,586,596
+RLCraft_DecentWitch,655,655,616,616
+RLCraft_UndergroundRuin2,650,657,611,621
+ShrineSmallFire,683,693,646,656
+UndergroundTreeoid,998,1021,583,609

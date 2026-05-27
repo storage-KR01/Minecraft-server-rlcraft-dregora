@@ -1,0 +1,5 @@
+DinosaurSkeleton,-4249,-4203,7682,7691
+RLCraft_BasicWitch,-4264,-4264,7723,7723
+RLCraft_UndergroundRuin1,-4270,-4261,7720,7729
+BigClockworkSite,-4451,-4416,7715,7760
+RLCraft_SmallUndergroundSkeleton,-4400,-4392,7787,7795

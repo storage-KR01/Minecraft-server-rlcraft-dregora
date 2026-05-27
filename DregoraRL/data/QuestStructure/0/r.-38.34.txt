@@ -1,0 +1,6 @@
+StonePlantMound,-19602,-19597,17913,17918
+ShrineSmallWater,-19832,-19824,17830,17838
+RLCraft_UndergroundFarm,-19684,-19641,17790,17832
+RLCraft_AgentStarbuck_WaterBase,-19650,-19633,17744,17756
+RLCraft_BasicSpider,-19855,-19855,17719,17719
+RLCraft_UndergroundRuin1,-19858,-19849,17713,17722

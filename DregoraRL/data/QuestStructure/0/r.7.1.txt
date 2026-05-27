@@ -1,0 +1,6 @@
+StonePlantMound1,3595,3601,764,770
+OldWatchtower,3722,3735,822,834
+StoneBoulder,3754,3763,931,940
+StonePlantMound2,3721,3734,645,657
+StoneBoulder,3681,3690,627,636
+StoneLeafMound,3644,3651,582,591

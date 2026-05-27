@@ -1,0 +1,6 @@
+ClayWaterMound1,-5209,-5199,-4633,-4622
+MeteorSite,-5226,-5211,-4659,-4629
+StonePlantBoulder,-5136,-5126,-4883,-4873
+ClayWaterMound,-5163,-5155,-4795,-4788
+StonePlantMound,-5153,-5148,-4815,-4810
+SmallAbandonedMine,-5166,-5151,-5072,-5047

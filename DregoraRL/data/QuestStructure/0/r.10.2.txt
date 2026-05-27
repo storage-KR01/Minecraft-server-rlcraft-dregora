@@ -1,0 +1,8 @@
+StonePlantMound,5152,5157,1078,1083
+WoodThorn,5144,5155,1288,1299
+UndergroundCultChamber,5264,5296,1390,1432
+StonePlantMound4,5454,5461,1106,1113
+ShrineSmallAir,5505,5513,1156,1164
+StonePlantMound2,5600,5613,1224,1236
+StoneBoulder,5579,5588,1459,1468
+StonePlantBoulder,5569,5579,1463,1473

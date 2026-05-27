@@ -1,0 +1,7 @@
+RLCraft_DecentZombie,2508,2508,2668,2668
+RLCraft_UndergroundRuin2,2503,2510,2663,2673
+SmallWoodenCottage1,2552,2558,2655,2666
+BrickHenge,2496,2512,2630,2646
+RLCraft_SmallUndergroundSkeleton,2250,2258,2915,2923
+MeteorSite,2474,2489,2603,2633
+SmallWoodenCottage,2059,2070,2658,2666

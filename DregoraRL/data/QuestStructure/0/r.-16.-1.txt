@@ -1,0 +1,7 @@
+StoneIceBoulder1,-8689,-8679,-960,-950
+P_IceSkeletonLookout,-8651,-8641,-964,-954
+StoneIceBoulder3,-8631,-8621,-964,-954
+StoneIceBoulder1,-8549,-8539,-1009,-999
+StoneIceBoulder1,-8596,-8586,-886,-876
+MonolythHoly,-8540,-8526,-907,-893
+StoneIceBoulder1,-8547,-8537,-869,-859

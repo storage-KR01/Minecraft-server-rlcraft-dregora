@@ -1,0 +1,6 @@
+RLCraft_End_Obsidian_Spike_1,1676,1689,-1380,-1354
+RLCraft_End_Saucer,1755,1769,-1476,-1462
+RLCraft_End_Monolyth,1768,1784,-1316,-1300
+RLCraft_End_Decoration_1,1813,1823,-1210,-1200
+RLCraft_End_Meteor_Site,1834,1869,-1178,-1157
+RLCraft_End_Decoration_1,1933,1943,-1311,-1301

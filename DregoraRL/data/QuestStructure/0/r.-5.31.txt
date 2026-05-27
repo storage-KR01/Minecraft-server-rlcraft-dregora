@@ -1,0 +1,6 @@
+StatueTemple,-2681,-2610,16163,16265
+MeteorSite,-2756,-2726,16172,16187
+MonolythUnholy,-2893,-2879,16151,16165
+RLCraft_DecentZombie,-2791,-2791,16095,16095
+RLCraft_UndergroundRuin3,-2793,-2785,16092,16100
+RLCraft_SmallUndergroundSkeleton,-2658,-2650,15908,15916

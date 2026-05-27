@@ -1,0 +1,4 @@
+ShrineSmallFire,-1391,-1381,17021,17031
+ShrineSmallFire,-1414,-1404,17262,17272
+P_SmallShip,-1362,-1342,17296,17302
+ShrineSmallWater,-1500,-1492,17398,17406

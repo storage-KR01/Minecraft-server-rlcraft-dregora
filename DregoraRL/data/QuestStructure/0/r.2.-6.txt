@@ -1,0 +1,6 @@
+StonePlantMound4,1496,1503,-3139,-3132
+RLCraft_SmallTown,1438,1509,-3265,-3190
+StonePlantMound4,1403,1410,-3315,-3308
+ShrineSmallAir,1400,1408,-3118,-3110
+StonePlantMound,1381,1386,-3301,-3296
+P_LargeShip,1347,1407,-3205,-3187

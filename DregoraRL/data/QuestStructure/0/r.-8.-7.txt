@@ -1,0 +1,6 @@
+StonePlantBoulder,-4605,-4595,-4008,-3998
+RLCraft_BasicWitch,-4595,-4595,-4062,-4062
+RLCraft_UndergroundRuin1,-4601,-4592,-4068,-4059
+UndergroundCultChamber,-4567,-4525,-4099,-4067
+ClayWaterMound,-4323,-4316,-3977,-3969
+DinosaurSkull,-4403,-4384,-3676,-3665

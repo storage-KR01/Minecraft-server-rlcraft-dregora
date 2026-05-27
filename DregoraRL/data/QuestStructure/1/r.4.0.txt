@@ -1,0 +1,5 @@
+RLCraft_End_MegaCity_Top_Treasure_False,2478,2492,-219,-205
+RLCraft_End_MegaCity_Vertical_Duskstone,2482,2488,-215,-209
+RLCraft_End_MegaCity_Base_Tower,2476,2494,-221,-203
+RLCraft_End_MegaCity_Start,2476,2476,-221,-221
+RLCraft_End_Floating_Crystal,2484,2498,-167,-153

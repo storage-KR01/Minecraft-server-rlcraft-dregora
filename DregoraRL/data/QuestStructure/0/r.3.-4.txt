@@ -1,0 +1,6 @@
+RLCraft_DecentSkeleton,1998,1998,-2054,-2054
+RLCraft_UndergroundRuin2,1993,2003,-2056,-2049
+AbandonedWoodTower,1908,1944,-2105,-2075
+RLCraft_FriendlyOutpost,1978,2046,-2535,-2496
+BrickHenge,1611,1627,-2437,-2421
+DinosaurSkeleton,1558,1604,-2376,-2367

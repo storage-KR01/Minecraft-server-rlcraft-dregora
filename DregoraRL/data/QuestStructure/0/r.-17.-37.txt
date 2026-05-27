@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,-8877,-8877,-18947,-18947
+RLCraft_UndergroundRuin3,-8882,-8874,-18953,-18945
+RLCraft_BasicCaveSpider,-8719,-8719,-19019,-19019
+RLCraft_UndergroundRuin1,-8722,-8713,-19025,-19016

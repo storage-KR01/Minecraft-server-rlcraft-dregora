@@ -1,0 +1,5 @@
+UndergroundTreeoid,-13345,-13322,-15568,-15542
+UndergroundCrypt,-13408,-13394,-15391,-15363
+RLCraft_BasicSkeleton,-13422,-13422,-15604,-15604
+RLCraft_UndergroundRuin1,-13425,-13416,-15610,-15601
+ThreeTowers,-13459,-13428,-15401,-15369

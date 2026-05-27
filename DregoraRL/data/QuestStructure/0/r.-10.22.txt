@@ -1,0 +1,5 @@
+P_CultIsland,-5426,-5256,11176,11386
+ShrineSmallWater,-5361,-5353,11585,11593
+ShrineSmallFire,-5414,-5404,11614,11624
+RLCraft_DecentZombie,-5268,-5268,11744,11744
+RLCraft_UndergroundRuin2,-5273,-5263,11742,11749

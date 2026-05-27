@@ -1,0 +1,4 @@
+StonePlantMound4,-4087,-4080,12698,12705
+UndergroundCrypt,-4065,-4051,12515,12543
+StoneLeafMound,-3882,-3875,12672,12681
+StonePlantMound4,-3855,-3848,12743,12750

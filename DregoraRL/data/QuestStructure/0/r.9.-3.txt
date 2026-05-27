@@ -1,0 +1,7 @@
+ShrineSmallEarth,5029,5041,-2023,-2011
+RLCraft_BasicSkeleton,5037,5037,-1899,-1899
+RLCraft_UndergroundRuin1,5034,5043,-1902,-1893
+DinosaurSkull,5090,5109,-1916,-1905
+ShrineSmallAir,5115,5123,-1842,-1834
+RLCraft_BasicWitch,4993,4993,-1593,-1593
+RLCraft_UndergroundRuin1,4987,4996,-1599,-1590

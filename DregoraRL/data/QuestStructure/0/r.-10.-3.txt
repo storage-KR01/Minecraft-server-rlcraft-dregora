@@ -1,0 +1,4 @@
+RLCraft_DecentCaveSpider,-5564,-5564,-1878,-1878
+RLCraft_UndergroundRuin3,-5569,-5561,-1880,-1872
+SmallFortRuinsJapanese,-5613,-5567,-1886,-1840
+RLCraft_SmallUndergroundSkeleton,-5469,-5461,-1770,-1762

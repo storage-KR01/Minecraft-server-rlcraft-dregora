@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,-2989,-2946,5670,5712
+StonePlantMound2,-2746,-2733,5752,5764
+WoodWallRemains,-2710,-2682,5676,5684
+DinosaurSkull,-2617,-2606,5646,5665
+AbandonedWoodTower,-2630,-2600,5735,5771

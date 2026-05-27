@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,-1872,-1864,-2062,-2054
+DinosaurSkeleton,-2024,-2015,-2116,-2070
+RLCraft_DecentSkeleton,-1568,-1568,-2169,-2169
+RLCraft_UndergroundRuin2,-1573,-1563,-2171,-2164

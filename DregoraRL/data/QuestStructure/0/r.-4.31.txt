@@ -1,0 +1,6 @@
+P_RuinedHouse,-2476,-2459,16268,16293
+DinosaurSkeleton,-2456,-2447,16125,16171
+RLCraft_SmallUndergroundSkeleton,-2306,-2298,16117,16125
+P_JungleVillage,-2470,-2287,16014,16209
+RLCraft_DecentCaveSpider,-2369,-2369,15911,15911
+RLCraft_UndergroundRuin3,-2374,-2366,15905,15913

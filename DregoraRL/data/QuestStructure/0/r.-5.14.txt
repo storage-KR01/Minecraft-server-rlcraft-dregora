@@ -1,0 +1,6 @@
+UndergroundTreeoid,-2887,-2864,7158,7184
+StonePlantMound1,-2964,-2958,7181,7187
+ClayWaterMound,-3031,-3024,7219,7227
+RLCraft_DecentZombie,-3005,-3005,7225,7225
+RLCraft_UndergroundRuin3,-3007,-2999,7220,7228
+StonePlantMound,-3005,-3000,7262,7267

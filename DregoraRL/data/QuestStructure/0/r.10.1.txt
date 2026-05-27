@@ -1,0 +1,8 @@
+StoneLeafMound,5148,5155,1008,1017
+ShrineSmallAir,5590,5598,566,574
+StonePlantMound3,5474,5485,591,600
+StonePlantMound3,5621,5632,603,612
+ShrineSmallAir,5615,5623,621,629
+StoneLeafMound,5515,5524,949,956
+StoneBoulder,5433,5442,964,973
+StonePlantBoulder,5581,5591,1017,1027

@@ -1,0 +1,6 @@
+StonePlantMound1,-4501,-4495,-6691,-6685
+RLCraft_SmallUndergroundSkeleton,-4532,-4524,-6823,-6815
+RLCraft_DecentSkeleton,-4596,-4596,-6871,-6871
+RLCraft_UndergroundRuin2,-4601,-4594,-6876,-6866
+SmallAbandonedMine,-4572,-4547,-6975,-6960
+ShrineSmallFire,-4510,-4500,-6943,-6933

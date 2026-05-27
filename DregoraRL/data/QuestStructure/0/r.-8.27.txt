@@ -1,0 +1,4 @@
+P_LargeShip,-4262,-4244,13986,14046
+BlazeSpawnerCrystal,-4428,-4422,14112,14118
+ShrineSmallFire,-4217,-4207,14159,14169
+ShrineSmallAir,-4321,-4313,14271,14279

@@ -1,0 +1,5 @@
+RLCraft_PlainsCamp,-9740,-9701,4704,4750
+AbandonedWoodTower,-9609,-9573,4604,4634
+DinosaurSkull,-9584,-9573,4640,4659
+ShrineSmallFire,-9568,-9558,4705,4715
+StonePlantMound,-9523,-9518,4802,4807

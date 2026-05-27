@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,1135,1135,3690,3690
+RLCraft_UndergroundRuin3,1132,1140,3688,3696
+RLCraft_SmallUndergroundSkeleton,1276,1284,3719,3727
+RLCraft_LargeUndergroundTown,1180,1293,3608,3745

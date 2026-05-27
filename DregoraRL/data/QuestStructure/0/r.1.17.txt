@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,908,916,8781,8789
+BlazeSpawnerCrystal,814,820,8871,8877
+DesertWatchtower,892,902,8886,8896
+SmallWoodenCottage2,969,977,9078,9086

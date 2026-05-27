@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,-7707,-7707,-18284,-18284
+RLCraft_UndergroundRuin3,-7713,-7705,-18287,-18279
+RLCraft_DecentWitch,-7688,-7688,-18105,-18105
+RLCraft_UndergroundRuin2,-7693,-7686,-18110,-18100
+MeteorSite,-7723,-7693,-18044,-18029

@@ -1,0 +1,5 @@
+UndergroundCrypt,-6533,-6519,17959,17987
+RLCraft_BasicSkeleton,-6566,-6566,18110,18110
+RLCraft_UndergroundRuin1,-6569,-6560,18107,18116
+RLCraft_DecentSpider,-6533,-6533,18126,18126
+RLCraft_UndergroundRuin3,-6535,-6527,18123,18131

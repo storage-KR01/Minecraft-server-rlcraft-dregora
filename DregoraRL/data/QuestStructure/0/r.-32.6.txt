@@ -1,0 +1,4 @@
+ShrineSmallAir,-16475,-16467,3105,3113
+RLCraft_BasicSpider,-16758,-16758,3093,3093
+RLCraft_UndergroundRuin1,-16761,-16752,3087,3096
+RLCraft_SmallUndergroundSkeleton,-16746,-16738,3087,3095

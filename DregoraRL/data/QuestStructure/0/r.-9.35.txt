@@ -1,0 +1,4 @@
+ShrineSmallWater,-4628,-4620,17955,17963
+RLCraft_DecentWitch,-4809,-4809,18100,18100
+RLCraft_UndergroundRuin2,-4814,-4804,18095,18102
+P_CultIsland,-5024,-4854,17929,18139

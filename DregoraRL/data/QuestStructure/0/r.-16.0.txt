@@ -1,0 +1,5 @@
+RLCraft_BasicCaveSpider,-8201,-8201,-164,-164
+RLCraft_UndergroundRuin1,-8204,-8195,-167,-158
+RLCraft_BasicWitch,-8201,-8201,-58,-58
+RLCraft_UndergroundRuin1,-8204,-8195,-61,-52
+SmallClockworkSite,-8320,-8298,-315,-296

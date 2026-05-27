@@ -1,0 +1,6 @@
+VillageTriplets,2886,2900,-1992,-1978
+ThreeTowers,2891,2923,-1962,-1931
+VillageForgeLarge,2916,2928,-1982,-1966
+SeasonsGreenhouse,2870,2880,-1962,-1950
+P_VillageInn,2854,2865,-1962,-1953
+P_VillageFarmhouse,2859,2871,-1932,-1920

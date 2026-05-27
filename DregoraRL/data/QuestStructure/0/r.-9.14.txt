@@ -1,0 +1,4 @@
+JokerTower,-4679,-4671,7548,7556
+RLCraft_DecentSkeleton,-4689,-4689,7595,7595
+RLCraft_UndergroundRuin3,-4691,-4683,7592,7600
+RLCraft_SmallUndergroundSkeleton,-4789,-4781,7625,7633

@@ -1,0 +1,4 @@
+UndergroundCrypt,-8583,-8569,-15917,-15889
+RLCraft_BasicWitch,-8500,-8500,-16138,-16138
+RLCraft_UndergroundRuin1,-8503,-8494,-16141,-16132
+ShrineSmallWater,-8662,-8654,-16380,-16372

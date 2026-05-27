@@ -1,0 +1,6 @@
+RLCraft_FriendlyOutpost,7779,7847,2498,2537
+SmallClockworkSite,7678,7700,2447,2466
+RLCraft_SmallUndergroundSkeleton,7721,7729,2351,2359
+RLCraft_UndergroundFarm,7844,7886,2429,2472
+RLCraft_SmallUndergroundSkeleton,7907,7915,2410,2418
+DesertBeacon,7690,7696,2167,2173

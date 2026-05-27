@@ -1,0 +1,6 @@
+RLCraft_DecentSkeleton,-8869,-8869,18091,18091
+RLCraft_UndergroundRuin2,-8871,-8864,18086,18096
+StonePlantMound4,-9011,-9004,18077,18084
+StonePlantBoulder,-9130,-9120,18195,18205
+StonePlantMound3,-9218,-9209,18182,18193
+StoneLeafMound,-9105,-9096,18263,18270

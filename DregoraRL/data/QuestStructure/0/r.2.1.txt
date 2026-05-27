@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,1176,1218,542,585
+ShrineSmallFire,1340,1350,647,657
+UndergroundCrypt,1427,1441,712,740
+BlazeSpawnerCrystal,1319,1325,873,879
+ShrineSmallFire,1480,1490,553,563

@@ -1,0 +1,5 @@
+RLCraft_BasicSpider,-1414,-1414,13433,13433
+RLCraft_UndergroundRuin1,-1420,-1411,13430,13439
+RLCraft_SmallUndergroundSkeleton,-1507,-1499,13471,13479
+SmallAbandonedMine,-1488,-1463,13701,13716
+RLCraft_SmallUndergroundSkeleton,-1411,-1403,13726,13734

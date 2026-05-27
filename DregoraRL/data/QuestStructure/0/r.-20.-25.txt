@@ -1,0 +1,6 @@
+StonePlantMound3,-10347,-10338,-13115,-13104
+StoneLeafMound,-10301,-10294,-13236,-13227
+StonePlantMound3,-10288,-10279,-13205,-13194
+StonePlantMound3,-10294,-10283,-13133,-13124
+RLCraft_BasicSpider,-10749,-10749,-13227,-13227
+RLCraft_UndergroundRuin1,-10755,-10746,-13230,-13221

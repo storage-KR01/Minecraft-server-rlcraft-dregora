@@ -1,0 +1,7 @@
+ShrineSmallAir,-4746,-4738,3035,3043
+P_SwampHouse,-4861,-4819,3052,3082
+MeteorSite,-4899,-4884,2655,2685
+RLCraft_SmallUndergroundSkeleton,-4702,-4694,2654,2662
+FallenPalmTree,-4799,-4795,2615,2625
+UndergroundCultChamber,-4890,-4858,2590,2632
+DinosaurSkull,-4712,-4701,2558,2577

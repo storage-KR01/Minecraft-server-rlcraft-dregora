@@ -1,0 +1,4 @@
+SpiderPit,-7068,-7059,-1218,-1208
+RLCraft_DecentWitch,-7099,-7099,-1266,-1266
+RLCraft_UndergroundRuin3,-7104,-7096,-1272,-1264
+RLCraft_SmallUndergroundSkeleton,-7140,-7132,-1221,-1213

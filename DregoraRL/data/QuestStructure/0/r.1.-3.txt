@@ -1,0 +1,4 @@
+DinosaurSkull,804,823,-1895,-1884
+RLCraft_BasicSkeleton,627,627,-1681,-1681
+RLCraft_UndergroundRuin1,621,630,-1687,-1678
+MeteorSite,614,629,-1704,-1674

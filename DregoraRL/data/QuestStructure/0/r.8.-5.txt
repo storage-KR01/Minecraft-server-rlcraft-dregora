@@ -1,0 +1,6 @@
+StoneBoulder,4464,4473,-2761,-2752
+RLCraft_PlainsCamp,4413,4459,-2859,-2820
+RLCraft_SmallUndergroundSkeleton,4469,4477,-2617,-2609
+StonePlantMound4,4489,4496,-2789,-2782
+StonePlantBoulder,4505,4515,-2640,-2630
+StonePlantMound2,4541,4554,-2597,-2585

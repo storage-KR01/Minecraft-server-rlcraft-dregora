@@ -1,0 +1,5 @@
+SmallClockworkSite,-18628,-18609,18182,18204
+BigClockworkSite,-18640,-18605,18257,18302
+RLCraft_BasicCaveSpider,-18671,-18671,18357,18357
+RLCraft_UndergroundRuin1,-18674,-18665,18351,18360
+DinosaurSkull,-18820,-18809,18242,18261

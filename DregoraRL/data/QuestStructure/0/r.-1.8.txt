@@ -1,0 +1,4 @@
+RLCraft_DecentCaveSpider,-558,-558,4242,4242
+RLCraft_UndergroundRuin2,-563,-553,4237,4244
+RLCraft_SmallUndergroundSkeleton,-700,-692,4547,4555
+ShrineSmallAir,-758,-750,4547,4555

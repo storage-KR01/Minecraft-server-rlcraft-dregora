@@ -1,0 +1,4 @@
+SmallWoodenCottage1,-5064,-5053,3076,3082
+RLCraft_BasicZombie,-5098,-5098,3255,3255
+RLCraft_UndergroundRuin1,-5104,-5095,3249,3258
+ShrineSmallAir,-5083,-5075,3290,3298

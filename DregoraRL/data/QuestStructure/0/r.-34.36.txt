@@ -1,0 +1,5 @@
+P_WitchDungeon,-17477,-17443,18602,18619
+UndergroundCrypt,-17502,-17474,18446,18460
+BigClockworkSite,-17688,-17653,18433,18478
+RLCraft_DecentCaveSpider,-17642,-17642,18432,18432
+RLCraft_SmallUndergroundSkeleton,-17683,-17675,18519,18527

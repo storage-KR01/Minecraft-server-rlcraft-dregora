@@ -1,0 +1,5 @@
+P_WitchDungeon,-17303,-17286,19483,19517
+RLCraft_DecentZombie,-17327,-17327,19504,19504
+RLCraft_UndergroundRuin3,-17330,-17322,19502,19510
+RLCraft_SmallUndergroundSkeleton,-17344,-17336,19656,19664
+P_DesertTemple,-17415,-17365,19720,19769

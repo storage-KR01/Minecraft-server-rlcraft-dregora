@@ -1,0 +1,4 @@
+SmallFortRuins,-16674,-16642,2534,2564
+RLCraft_SmallUndergroundSkeleton,-16673,-16665,2521,2529
+ShrineSmallAir,-16889,-16881,2499,2507
+SmallOutpost,-16905,-16883,2461,2491

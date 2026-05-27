@@ -1,0 +1,4 @@
+RLCraft_DecentZombie,-15457,-15457,19354,19354
+RLCraft_UndergroundRuin3,-15459,-15451,19351,19359
+StonePlantBoulder,-15719,-15709,19272,19282
+VillageSavannaKitchen,-15845,-15833,19222,19232

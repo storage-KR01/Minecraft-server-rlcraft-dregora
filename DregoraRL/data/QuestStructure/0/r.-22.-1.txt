@@ -1,0 +1,6 @@
+StoneBoulder,-11377,-11368,-634,-625
+RLCraft_DecentWitch,-11502,-11502,-542,-542
+RLCraft_UndergroundRuin2,-11507,-11497,-544,-537
+StonePlantMound3,-11526,-11517,-535,-524
+StonePlantMound3,-11544,-11533,-555,-546
+StonePlantMound2,-11661,-11649,-567,-554

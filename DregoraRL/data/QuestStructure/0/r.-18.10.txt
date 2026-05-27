@@ -1,0 +1,5 @@
+UndergroundTreeoid,-9691,-9668,5614,5640
+RLCraft_DecentSkeleton,-9703,-9703,5426,5426
+RLCraft_UndergroundRuin2,-9708,-9701,5421,5431
+StonePlantMound,-9577,-9572,5390,5395
+StonePlantBoulder,-9590,-9580,5358,5368

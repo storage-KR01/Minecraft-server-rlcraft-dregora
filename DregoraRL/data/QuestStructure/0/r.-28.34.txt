@@ -1,0 +1,4 @@
+LonePillars,-14420,-14413,17712,17869
+RLCraft_DecentCaveSpider,-14508,-14508,17829,17829
+RLCraft_UndergroundRuin2,-14513,-14503,17824,17831
+ShrineSmallFire,-14707,-14697,17876,17886

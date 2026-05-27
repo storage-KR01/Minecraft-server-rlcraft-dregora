@@ -1,0 +1,4 @@
+MeteorSite,-5164,-5149,7677,7707
+WoodWallRemains,-5137,-5109,7893,7901
+ForestBeacon,-5163,-5155,7933,7941
+RLCraft_SmallUndergroundSkeleton,-5382,-5374,7990,7998

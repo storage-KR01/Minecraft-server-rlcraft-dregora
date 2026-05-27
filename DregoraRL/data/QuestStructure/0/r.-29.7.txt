@@ -1,0 +1,5 @@
+RLCraft_AgentStarbuck_WaterBase,-14907,-14890,3908,3920
+ShrineSmallAir,-14931,-14923,3839,3847
+P_SmallShip,-15221,-15201,3824,3830
+ShrineSmallAir,-15252,-15244,3823,3831
+P_CultIsland,-15174,-14964,3532,3702

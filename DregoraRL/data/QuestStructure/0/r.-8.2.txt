@@ -1,0 +1,7 @@
+VillageHouseRich,-4575,-4560,1241,1260
+VillageHouseRich1,-4541,-4520,1220,1238
+P_VillageHouse2,-4506,-4489,1193,1210
+BlazeSpawnerCrystal,-4254,-4248,1480,1486
+RLCraft_BasicSkeleton,-4249,-4249,1404,1404
+RLCraft_UndergroundRuin1,-4252,-4243,1398,1407
+P_VillageHouse,-4528,-4517,1190,1199

@@ -1,0 +1,6 @@
+ShrineSmallFire,1893,1903,-3320,-3310
+RLCraft_BasicWitch,1695,1695,-3336,-3336
+RLCraft_UndergroundRuin1,1692,1701,-3339,-3330
+StonePlantMound2,1859,1871,-3336,-3323
+StonePlantMound,1670,1675,-3390,-3385
+StonePlantBoulder,1614,1624,-3435,-3425

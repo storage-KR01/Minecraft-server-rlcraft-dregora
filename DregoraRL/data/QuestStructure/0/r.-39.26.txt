@@ -1,0 +1,4 @@
+ShrineSmallFire,-19976,-19966,13742,13752
+RLCraft_DecentSpider,-20089,-20089,13782,13782
+RLCraft_UndergroundRuin2,-20094,-20087,13777,13787
+RLCraft_LargeUndergroundTown,-20102,-19965,13678,13791

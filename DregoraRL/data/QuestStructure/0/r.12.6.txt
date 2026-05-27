@@ -1,0 +1,7 @@
+RLCraft_SmallUndergroundSkeleton,6446,6454,3123,3131
+UndergroundTreeoid,6400,6423,3106,3132
+P_DesertTemple,6377,6426,3082,3132
+BigClockworkSite,6286,6321,3367,3412
+RLCraft_SmallUndergroundSkeleton,6280,6288,3283,3291
+BabylonTower,6164,6226,3057,3121
+P_WitchDungeon,6230,6264,3340,3357

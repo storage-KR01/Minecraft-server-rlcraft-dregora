@@ -1,0 +1,5 @@
+RLCraft_BasicWitch,1518,1518,-3883,-3883
+RLCraft_UndergroundRuin1,1512,1521,-3889,-3880
+P_SmallShip,1369,1375,-3783,-3763
+RLCraft_UndergroundFarm,1351,1394,-3789,-3747
+P_CultIsland,1124,1294,-3953,-3743

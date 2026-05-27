@@ -1,0 +1,5 @@
+RLCraft_DecentCaveSpider,-11796,-11796,17293,17293
+RLCraft_UndergroundRuin3,-11802,-11794,17288,17296
+RLCraft_DecentCaveSpider,-11923,-11923,17295,17295
+RLCraft_UndergroundRuin2,-11928,-11918,17293,17300
+SmallClockworkSite,-11990,-11968,17310,17329

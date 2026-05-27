@@ -1,0 +1,6 @@
+RLCraft_AgentStarbuck_WaterBase,-7745,-7728,16661,16673
+P_LargeShip,-7944,-7926,16739,16799
+P_IslandCity,-8113,-7779,16474,16780
+UndergroundCrypt,-7795,-7767,16692,16706
+BlazeSpawnerCrystal,-7739,-7733,16719,16725
+StonePlantMound3,-8119,-8110,16887,16898

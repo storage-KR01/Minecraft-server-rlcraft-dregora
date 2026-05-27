@@ -1,0 +1,8 @@
+WoodenClockTower,868,900,3652,3692
+VillageMarketplace,827,841,3674,3688
+RLCraft_DecentSpider,793,793,3677,3677
+RLCraft_UndergroundRuin3,787,795,3672,3680
+P_VillageInn,767,778,3702,3711
+VillageWoodMill,827,843,3706,3719
+DesertBeacon,658,664,3751,3757
+SmallAbandonedMine,503,528,3976,3991

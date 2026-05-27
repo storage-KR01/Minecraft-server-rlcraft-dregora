@@ -1,0 +1,4 @@
+StoneBoulder,-9128,-9119,13333,13342
+StonePlantBoulder,-9111,-9101,13432,13442
+StonePlantMound3,-9108,-9099,13421,13432
+RLCraft_SmallUndergroundSkeleton,-9082,-9074,13408,13416

@@ -1,0 +1,6 @@
+ShrineSmallFire,-8722,-8712,-15891,-15881
+RLCraft_DecentCaveSpider,-8798,-8798,-15900,-15900
+RLCraft_UndergroundRuin3,-8800,-8792,-15905,-15897
+RLCraft_DecentZombie,-8761,-8761,-15967,-15967
+RLCraft_UndergroundRuin2,-8766,-8759,-15972,-15962
+TribalJungleHead,-8963,-8953,-15911,-15901

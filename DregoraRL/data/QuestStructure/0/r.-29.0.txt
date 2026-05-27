@@ -1,0 +1,6 @@
+StonePlantMound,-14969,-14964,153,158
+StonePlantMound3,-14859,-14848,354,363
+StoneLeafMound,-14923,-14916,285,294
+StoneLeafMound,-14917,-14908,220,227
+StoneLeafMound,-14964,-14957,486,495
+RLCraft_UndergroundFarm,-14884,-14842,69,112

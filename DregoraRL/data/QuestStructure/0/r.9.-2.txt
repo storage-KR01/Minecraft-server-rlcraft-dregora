@@ -1,0 +1,4 @@
+StonePlantMound1,4964,4970,-1456,-1450
+ChurchGraveyardRuins,5000,5047,-1540,-1497
+RLCraft_DecentSkeleton,5106,5106,-1517,-1517
+RLCraft_UndergroundRuin3,5100,5108,-1522,-1514

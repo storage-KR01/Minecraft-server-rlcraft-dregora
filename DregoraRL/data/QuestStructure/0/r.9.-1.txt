@@ -1,0 +1,8 @@
+StonePlantMound3,5084,5093,-704,-693
+StonePlantMound3,5035,5046,-748,-739
+StonePlantMound,5041,5046,-712,-707
+StonePlantMound,4997,5002,-881,-876
+StonePlantMound1,5093,5099,-620,-614
+StoneBoulder,5052,5061,-609,-600
+StoneLeafMound,5017,5024,-555,-546
+P_LargeShip,4786,4804,-743,-683

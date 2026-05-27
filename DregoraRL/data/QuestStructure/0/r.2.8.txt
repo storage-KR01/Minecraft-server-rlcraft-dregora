@@ -1,0 +1,6 @@
+RLCraft_BasicSpider,1517,1517,4581,4581
+RLCraft_UndergroundRuin1,1514,1523,4575,4584
+StonePlantMound4,1463,1470,4528,4535
+RLCraft_DecentCaveSpider,1475,1475,4603,4603
+RLCraft_UndergroundRuin3,1472,1480,4597,4605
+StoneBoulder,1400,1409,4591,4600

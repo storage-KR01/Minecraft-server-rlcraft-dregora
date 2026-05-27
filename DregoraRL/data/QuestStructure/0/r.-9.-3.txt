@@ -1,0 +1,4 @@
+P_WitchDungeon,-4991,-4957,-1577,-1560
+RLCraft_DecentWitch,-4831,-4831,-1696,-1696
+RLCraft_UndergroundRuin3,-4837,-4829,-1701,-1693
+DinosaurSkeleton,-4655,-4609,-1706,-1697

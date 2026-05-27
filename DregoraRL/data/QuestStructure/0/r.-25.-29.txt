@@ -1,0 +1,5 @@
+FallenPalmTree,-12953,-12943,-14852,-14848
+RLCraft_SmallUndergroundSkeleton,-12867,-12859,-14884,-14876
+RLCraft_DecentWitch,-12852,-12852,-15024,-15024
+RLCraft_UndergroundRuin2,-12857,-12847,-15029,-15022
+SmallClockworkSite,-13316,-13294,-15325,-15306

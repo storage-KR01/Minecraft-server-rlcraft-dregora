@@ -1,0 +1,5 @@
+RLCraft_DecentZombie,6453,6453,2499,2499
+RLCraft_UndergroundRuin2,6448,6455,2494,2504
+P_WitchDungeon,6129,6163,2333,2350
+DesertWatchtower,6198,6208,2345,2355
+P_WitchDungeon,6206,6223,2338,2372

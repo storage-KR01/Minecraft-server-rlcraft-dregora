@@ -1,0 +1,6 @@
+RLCraft_UndergroundFarm,-2593,-2550,-2829,-2787
+RLCraft_DecentZombie,-2585,-2585,-2856,-2856
+RLCraft_UndergroundRuin2,-2590,-2583,-2861,-2851
+ShrineSmallAir,-2665,-2657,-2665,-2657
+ShrineSmallAir,-2645,-2637,-2900,-2892
+ClayWaterMound1,-2741,-2731,-2899,-2888

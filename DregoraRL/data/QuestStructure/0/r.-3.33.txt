@@ -1,0 +1,5 @@
+ThreeTowers,-1600,-1568,16888,16919
+RLCraft_SmallUndergroundSkeleton,-1565,-1557,17087,17095
+RLCraft_BasicSkeleton,-1624,-1624,17162,17162
+RLCraft_UndergroundRuin1,-1627,-1618,17159,17168
+RLCraft_SmallUndergroundSkeleton,-1650,-1642,17063,17071

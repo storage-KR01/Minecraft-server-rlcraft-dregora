@@ -1,0 +1,6 @@
+RLCraft_DecentWitch,-4039,-4039,6466,6466
+RLCraft_UndergroundRuin2,-4044,-4034,6464,6471
+P_IslandCity,-4067,-3733,6177,6483
+ShrineSmallFire,-3611,-3601,6384,6394
+RLCraft_BasicCaveSpider,-3891,-3891,6570,6570
+RLCraft_UndergroundRuin1,-3897,-3888,6564,6573

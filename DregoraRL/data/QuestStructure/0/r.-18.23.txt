@@ -1,0 +1,5 @@
+P_DesertTemple,-9315,-9265,11934,11983
+RLCraft_DecentSkeleton,-9700,-9700,12152,12152
+RLCraft_UndergroundRuin3,-9705,-9697,12150,12158
+RLCraft_DecentCaveSpider,-9720,-9720,12282,12282
+RLCraft_UndergroundRuin3,-9722,-9714,12277,12285

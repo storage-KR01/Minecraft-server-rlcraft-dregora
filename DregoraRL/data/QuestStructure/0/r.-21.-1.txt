@@ -1,0 +1,5 @@
+RLCraft_UndergroundFarm,-10976,-10934,-579,-536
+UndergroundCrypt,-10994,-10966,-669,-655
+ShrineSmallFire,-10994,-10984,-681,-671
+DinosaurSkeleton,-11275,-11229,-620,-611
+StonePlantMound1,-11207,-11201,-714,-708

@@ -1,0 +1,6 @@
+ShrineSmallAir,-7501,-7493,-18923,-18915
+UndergroundCultChamber,-7672,-7640,-18693,-18651
+UndergroundCrypt,-7597,-7569,-18651,-18637
+JokerTower,-7571,-7563,-18529,-18521
+RLCraft_BasicSpider,-7511,-7511,-18454,-18454
+RLCraft_UndergroundRuin1,-7517,-7508,-18457,-18448

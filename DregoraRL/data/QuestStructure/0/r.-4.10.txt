@@ -1,0 +1,6 @@
+RLCraft_BasicWitch,-2489,-2489,5601,5601
+RLCraft_UndergroundRuin1,-2492,-2483,5598,5607
+ShrineSmallFire,-2434,-2424,5442,5452
+RLCraft_DecentCaveSpider,-2286,-2286,5513,5513
+RLCraft_UndergroundRuin3,-2292,-2284,5508,5516
+BigClockworkSite,-2108,-2063,5434,5469

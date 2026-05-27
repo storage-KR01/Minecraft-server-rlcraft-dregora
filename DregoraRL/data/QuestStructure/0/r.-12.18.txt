@@ -1,0 +1,5 @@
+StonePlantMound4,-6180,-6173,9612,9619
+RLCraft_SmallUndergroundSkeleton,-6351,-6343,9711,9719
+RLCraft_SmallUndergroundSkeleton,-6368,-6360,9717,9725
+RLCraft_cryo_bit,-6464,-6439,9686,9711
+StonePlantMound2,-6478,-6466,9720,9733

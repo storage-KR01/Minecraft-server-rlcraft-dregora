@@ -1,0 +1,6 @@
+StonePlantMound1,-9447,-9441,18078,18084
+StonePlantMound2,-9578,-9565,18140,18152
+StonePlantMound4,-9527,-9520,18296,18303
+RLCraft_DecentSpider,-9281,-9281,18335,18335
+RLCraft_UndergroundRuin2,-9286,-9276,18333,18340
+ClayWaterMound1,-9616,-9605,18227,18237

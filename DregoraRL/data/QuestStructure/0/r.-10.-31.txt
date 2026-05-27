@@ -1,0 +1,6 @@
+ShrineSmallFire,-5474,-5464,-15938,-15928
+StonePlantMound,-5370,-5365,-15981,-15976
+P_CultIsland,-5487,-5317,-16031,-15821
+UndergroundCultChamber,-5537,-5505,-15928,-15886
+ShrineSmallAir,-5503,-5495,-16022,-16014
+P_CultIsland,-5705,-5535,-16140,-15930

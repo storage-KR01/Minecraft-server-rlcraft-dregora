@@ -1,0 +1,6 @@
+RLCraft_DecentSkeleton,-5059,-5059,-14272,-14272
+RLCraft_UndergroundRuin2,-5064,-5054,-14277,-14270
+ShrineSmallEarth,-5065,-5053,-14159,-14147
+ShrineSmallEarth,-5040,-5028,-14155,-14143
+StonePlantMound3,-5032,-5021,-14313,-14304
+StonePlantMound,-5011,-5006,-14294,-14289

@@ -1,0 +1,4 @@
+StonePlantBoulder,-17436,-17426,2462,2472
+StonePlantMound,-17437,-17432,2418,2423
+P_SmallShip,-17589,-17569,2377,2383
+StonePlantMound,-17471,-17466,2378,2383

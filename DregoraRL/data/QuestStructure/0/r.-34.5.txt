@@ -1,0 +1,4 @@
+StonePlantBoulder,-17422,-17412,2584,2594
+StoneBoulder,-17430,-17421,2923,2932
+RLCraft_BasicWitch,-17553,-17553,3029,3029
+RLCraft_UndergroundRuin1,-17559,-17550,3023,3032

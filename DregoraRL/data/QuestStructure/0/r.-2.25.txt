@@ -1,0 +1,4 @@
+RLCraft_BasicSpider,-1367,-1367,12910,12910
+RLCraft_UndergroundRuin1,-1373,-1364,12907,12916
+RLCraft_UndergroundFarm,-1517,-1475,12835,12878
+P_LargeShip,-1504,-1444,12824,12842

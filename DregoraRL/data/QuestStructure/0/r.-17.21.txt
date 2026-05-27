@@ -1,0 +1,5 @@
+RLCraft_BasicSkeleton,-8706,-8706,11211,11211
+RLCraft_UndergroundRuin1,-8709,-8700,11205,11214
+RLCraft_SmallUndergroundSkeleton,-8773,-8765,10974,10982
+RLCraft_SmallUndergroundSkeleton,-8794,-8786,10992,11000
+ShrineSmallAir,-8861,-8853,11247,11255

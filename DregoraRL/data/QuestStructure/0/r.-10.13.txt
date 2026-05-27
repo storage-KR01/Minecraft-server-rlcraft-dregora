@@ -1,0 +1,5 @@
+PirateChest,-5178,-5174,6964,6968
+MysticalTree2,-5205,-5195,6906,6916
+SmallFortRuinsJapanese,-5250,-5204,7064,7110
+RLCraft_FriendlyOutpost,-5307,-5268,6802,6870
+DinosaurSkeleton,-5335,-5289,6995,7004

@@ -1,0 +1,5 @@
+RLCraft_End_Monolyth,2079,2095,-1196,-1180
+RLCraft_End_Snake_Skeleton,2059,2124,-1362,-1352
+RLCraft_End_Obsidian_Tree,2156,2185,-1266,-1226
+Dregora_End_Garden,2491,2505,-1338,-1324
+Dregora_End_Garden,2531,2545,-1070,-1056

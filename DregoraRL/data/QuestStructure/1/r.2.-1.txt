@@ -1,0 +1,5 @@
+RLCraft_End_Meteor_Site,1328,1363,-672,-651
+RLCraft_End_Floating_Hut,1103,1113,-714,-704
+RLCraft_End_Decoration_2,1422,1432,-698,-688
+RLCraft_End_Obsidian_Spike_1,1407,1433,-809,-796
+RLCraft_End_Obsidian_Tree,1359,1388,-835,-795

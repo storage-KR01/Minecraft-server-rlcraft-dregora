@@ -1,0 +1,7 @@
+StonePlantBoulder,-4254,-4244,3067,3077
+StoneBoulder,-4206,-4197,3275,3284
+UndergroundCultChamber,-4440,-4398,3288,3320
+StonePlantMound,-4140,-4135,3329,3334
+StonePlantMound2,-4250,-4237,3345,3357
+StoneLeafMound,-4232,-4223,3364,3371
+SmallOutpost,-4315,-4293,3379,3409

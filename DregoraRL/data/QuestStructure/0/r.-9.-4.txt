@@ -1,0 +1,6 @@
+ShrineSmallFire,-4818,-4808,-2171,-2161
+RLCraft_DecentWitch,-4854,-4854,-2171,-2171
+RLCraft_UndergroundRuin2,-4859,-4849,-2176,-2169
+RLCraft_DecentZombie,-4689,-4689,-2329,-2329
+RLCraft_UndergroundRuin3,-4692,-4684,-2331,-2323
+ElvenPond,-4911,-4882,-2163,-2133

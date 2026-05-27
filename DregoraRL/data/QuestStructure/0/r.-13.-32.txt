@@ -1,0 +1,6 @@
+RLCraft_BasicZombie,-7134,-7134,-16780,-16780
+RLCraft_UndergroundRuin1,-7140,-7131,-16783,-16774
+RLCraft_BasicZombie,-7077,-7077,-16773,-16773
+RLCraft_UndergroundRuin1,-7080,-7071,-16779,-16770
+TribalJungleHead,-7120,-7110,-16671,-16661
+RLCraft_FriendlyOutpost,-7184,-7116,-16658,-16619

@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,-1669,-1661,-844,-836
+MonolythHoly,-1720,-1706,-742,-728
+RLCraft_DecentZombie,-1549,-1549,-991,-991
+RLCraft_UndergroundRuin2,-1554,-1544,-993,-986
+RLCraft_SmallUndergroundSkeleton,-1697,-1689,-555,-547
+SmallClockworkSite,-1767,-1748,-531,-509

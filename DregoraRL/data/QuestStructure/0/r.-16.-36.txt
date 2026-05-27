@@ -1,0 +1,5 @@
+BlazeSpawnerCrystal,-8686,-8680,-18917,-18911
+TribalJungleHead,-8666,-8656,-18810,-18800
+UndergroundCultChamber,-8660,-8618,-18954,-18922
+RLCraft_UndergroundFarm,-8570,-8528,-18780,-18737
+RLCraft_SmallUndergroundSkeleton,-8475,-8467,-18741,-18733

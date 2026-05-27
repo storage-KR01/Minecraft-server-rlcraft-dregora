@@ -1,0 +1,6 @@
+StoneIceBoulder,-5252,-5242,-13839,-13830
+SmallAbandonedMine,-5266,-5241,-13950,-13935
+UndergroundTreeoid,-5191,-5168,-13915,-13889
+RLCraft_BasicSpider,-5155,-5155,-13902,-13902
+RLCraft_UndergroundRuin1,-5161,-5152,-13908,-13899
+WitchTower,-5251,-5235,-14220,-14206

@@ -1,0 +1,5 @@
+RLCraft_FriendlyOutpost,-2665,-2597,2498,2537
+RLCraft_SmallUndergroundSkeleton,-2602,-2594,2424,2432
+ShrineSmallAir,-2690,-2682,2367,2375
+PeacefulCrypt,-2737,-2713,2515,2531
+DesertBeacon,-3002,-2996,2249,2255

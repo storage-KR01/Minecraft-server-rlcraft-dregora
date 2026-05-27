@@ -1,0 +1,6 @@
+RLCraft_BasicCaveSpider,-4057,-4057,-1962,-1962
+RLCraft_UndergroundRuin1,-4060,-4051,-1965,-1956
+BlazeSpawnerCrystal,-3996,-3990,-1979,-1973
+DinosaurSkeleton,-3973,-3964,-1930,-1884
+RLCraft_BasicCaveSpider,-4065,-4065,-1552,-1552
+RLCraft_UndergroundRuin1,-4071,-4062,-1555,-1546
